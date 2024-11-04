@@ -1,0 +1,659 @@
+URL,Author,Author Description,Publication Date,Votes,Review
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Assistant,Bot,2024-08,0,"Agile methodology is a project management and product development approach that emphasizes flexibility, collaboration, and customer satisfaction. It is based on the Agile Manifesto, which outlines key principles for software development and project management, promoting iterative progress, adaptive planning, and continuous improvement.
+Key Principles of Agile Methodology:
+Customer Collaboration: Engaging customers throughout the project to ensure the product meets their needs.
+Iterative Development: Breaking projects into small, manageable units (sprints) that allow for regular assessment and adaptation.
+Cross-Functional Teams: Encouraging collaboration among diverse team members with different skill sets.
+Continuous Improvement: Regularly reflecting on processes and outcomes to find ways to improve.
+Advantages of Agile Methodology:
+Flexibility and Adaptability: Agile allows teams to respond quickly to changes in requirements or market conditions.
+Improved Customer Satisfaction: Frequent delivery of functional increments helps ensure that the product aligns with customer expectations.
+Enhanced Collaboration: Agile promotes teamwork and communication, leading to better relationships among team members and stakeholders.
+Early Detection of Issues: Regular iterations allow for early identification and resolution of problems, reducing the risk of project failure.
+Faster Time to Market: Incremental releases can lead to quicker deployment of features and products.
+Disadvantages of Agile Methodology:
+Less Predictability: The flexible nature of Agile can make it difficult to estimate timelines and budgets accurately.
+Requires Cultural Shift: Organizations may struggle to adopt Agile practices if they are accustomed to traditional project management methods.
+Scope Creep: The focus on customer feedback can lead to continuous changes in scope, potentially derailing original project goals.
+Team Dependency: Success relies heavily on team dynamics and collaboration; if the team is not cohesive, the process may suffer.
+Documentation Challenges: Agile often emphasizes working software over comprehensive documentation, which can lead to gaps in knowledge transfer.
+Conclusion:
+Agile methodology can be highly effective for projects requiring flexibility and customer involvement, but it also presents challenges that organizations must navigate carefully. A thorough understanding of both its advantages and disadvantages is essential for successful implementation."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Victor Malyavko,QA evangelist | Cherish DEV Founder,2022,3,"Agile is a software development methodology that emphasizes collaboration, responsibility, and openness. It is a technique for development management that stresses iterative and incremental development, and early delivery of functioning software. The Agile methodology relies on rapid and frequent deliveries of working software that allows teams to respond to changes in requirements, rather than planning everything in advance. The components are adaptive planning, evolutionary progress, and collaborative rewards. The process covers the full software development cycle, from requirements to deployment and maintenance.
+Advantages:
+Reduced time to market — adaptability and constant communication make the final product as clear as possible, which reduces the time for its testing.
+Creativity — using a variety of minds and constantly solving complex problems leads to the creation of innovative approaches to product testing.
+Meeting the requirements of the customer and the expectations of the end user — the continuous communication of developers, testers, businessmen and users leads to the creation of an ideal hit on the goals of the product.
+Changes even at late stages — this can be achieved as painlessly as possible due to the fact that the testing process is divided into sprints, as well as through communication within the team (each member knows the product well).
+Quickly identifying wrong approaches and making quick decisions — this can be achieved through daily communication of team members.
+Disadvantages
+Creating stress fear of uncertainty — team members can be frustrated knowing that the changes can be made during the last stages of development;
+Degradation of quality — Agile is fast and has a large volume, so the quality may become lower.
+Long time to implement — Agile is a complex methodology that can be a problem;
+Stress for customers — not everyone is ready for daily meetings and problem-solving that they hoped to delegate to others.
+Strong motivation of employees and professionalism at the same level are required — QA Engineers must keep up with each other in a rapidly changing, flexible software testing process, and this is difficult to achieve with insufficient motivation and qualifications of at least one of the team.
+In my article you’ll find more information about Agile
+Agile: Tribute to Fashion or Effective QA Management?
+The Agile Methodology is a software development methodology that is implemented to increase software development speed and agility. Touted to be good for the software industry, it is not a novel idea.
+https://www.linkedin.com/pulse/agile-tribute-fashion-effective-qa-management-victor-malyavko/"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Sasha Andrieiev,CEO at Jelvix (2011–present),2020,29,"The core value of Agile development is that it enhances the quality and predictability of the team workflow. It helps to get a quicker return and improves the quality of responsiveness. Scrum and Kanban are the two most widely used Agile methodologies.
+Agile software development is based on iterative development. All the requirements and solutions are being developed only through the collaboration between self-organizing cross-functional teams.
+About the advantages:
+Agile methods or Agile processes help to streamline the project management process;
+They are based on such key points as encouraging procurement and adaptation, leadership philosophy, teamwork, and self-organization;
+The rapid delivery of high-quality software is facilitated by accountability to best design practices;
+This business approach connects development with customer needs and company goals.
+Drawbacks of agile methodologies:
+More time and commitment. Testers, customers, and developers must constantly interact closely with each other. All participants must be prepared for quick testing and logout at each stage. This guarantees the quality of the product, meanwhile, the team’s workflow will become longer and more difficult;
+Greater demands on developers and clients. This system requires a great return on each of the participants to the entire project to ensure success. Customers need to be trained to facilitate product development. Even a minimal lack of customer involvement will affect the quality and success of the software.
+If you are still thinking about whether to implement Agile, here is an article on how to implement the most common agile project metrics."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Oliver Dolan,10 Years Commercial Software Engineering,2017,11,"The agile methodology is based around the agile manifesto, the original definition can be seen here: Principles behind the Agile Manifesto
+If you navigate through the principles you will see some common themes:
+The stakeholders needs are prioritised
+To achieve this we must decide who the stakeholders are
+Oliver Dolan's answer to Who are your stakeholders in Agile projects?
+As well as capture the stakeholders requirements effectively
+Oliver Dolan's answer to How do you define a ""feature"" of a software precisely and effectively?
+Oliver Dolan's answer to How do I write good user stories and acceptance criteria for web based project?
+The management teams get more flexibility in prioritisation and this increases there feeling of engagment
+Deliver to stakeholders quickly to obtain feedback
+See my answers here on how to ensure you are delivering in an agile manner
+Oliver Dolan's answer to How do I get started on a agile project management?
+Oliver Dolan's answer to What are the steps in creating a software?
+Oliver Dolan's answer to How we can increase corporate agility?
+The delivery times are squeezed which aids to identify weak corporate processes
+Information learned on the way is visible and accounted for in future plans
+Continuous improvement is a big focus using PDCA cycles. (plan, do check & act)
+As for the advantages and disadvantages these are often
+Subjective
+It depends on your view point and where in the organisation you are situated.
+Developers tend to favour agile
+Project managers or team leaders not so much as there role and importance can become eroded.
+Industry specific
+Depending on industry agile methodologies will have varied applicability
+It was designed for software so its heavily applied in software engineering
+We are only now in 2017 starting to see other industries adopt some of the ideas.
+Implementation specific - This is huge, infact this might be the most important
+Who is commanding the implementation
+Obviously if someone is making foolish decisions at a high level of management it can be seen in the results of the business.
+What are the best ways to be an effective leader? I have recently been elected the leader of an undergraduate professional marketing organization with about 300 active members.
+What is implemented
+SCRUM
+https://www.quora.com/topic/Scrum-product-development/faq
+Oliver Dolan's answer to What is the best way to apply SCRUM principles for an open source project?
+Kanban
+https://www.quora.com/topic/Kanban/faq
+SAFE
+Oliver Dolan's answer to What is your review of Scaled Agile Framework (SAFe)?
+Oliver Dolan's answer to What is SAFe?
+LESS
+Large Scale Scrum (LeSS)
+Others are listed here:
+Agile software development - Wikipedia
+How it is implemented
+The implementation is very important and will ultimately determine your success. Please see my answer for how I am currently managing my agile projects.
+Oliver Dolan's answer to How do I get started on a agile project management?
+I also think that the project manager or leader is one of the most important roles when the agile delivery method has been decided.
+Oliver Dolan's answer to What core technical skills are needed by an Agile Project Manager?
+As for the advantages and disadvantages I have decided to keep this simple and to the point so as to answer the question as best as possible.
+Advantages
+Faster cycle times
+Speed to market
+Improving quality through continuous improvement
+Enhanced visibility of what teams are doing
+Easier to react to business changes
+Reduced risk due to greater visibility and more adaptability
+Customer satisfaction due to being more involved and listened to
+Product market fit becomes more probable due to feedback cycles
+Teams often like the process
+Teams start performing better due to PDCA cycles
+Highlights problems early
+True prioritisation as stories are often small enough to do prioritisation effectively
+Seeing the benefits of work undertaken sooner
+Team feels more united due to team commitments and cross functionality
+It allows for identification of wasteful processes
+Faster feedback from the stakeholders
+Stakeholders are more engaged as they are more likely to get what they want and change it before using too many resources.
+Higher quality due to squeezed delivery times
+More transparency throughout the value stream
+Less documentation to maintain
+Higher chance of working solution due to automated acceptance criteria testing
+Maintenance is easier
+Disadvantages
+Oliver Dolan's answer to In a nutshell, why do a lot of developers dislike Agile? What are better project management paradigm alternatives?
+Stories can be hard to slice
+Customer expectations on quality can be damaged with MVP approach
+Micromanagement
+Lots of meetings
+Agile projects can be hard to agree contractually
+Stakeholder dissatisfaction with priorities
+The teams doing the work can feel dis empowered
+Lack of understanding of the agile methods in depth at different corporate levels
+Yearning for the past of agreed specifications and budgets
+Lack of clarity on what will be available when
+Backlog can be difficult to prioritize
+It can also become huge
+The terminology can be confusing
+Story points, velocity, burndown, value stream etc..
+It can abstract the organisation from the team
+Listening to the customer is not always in the best interest of the business
+It can be hard to distinguish the methodology's and when should be applied.
+It is not a magic bullet to solve everything and can be oversold
+It can reduce employee morale and satisfaction
+It can dis empower individuals
+It can be perceived as cultist and egocentric
+Scaleability can be difficult to get correct
+There are lots of things I could write but these are the main ones I can think of right now.
+Hopefully it helps
+Good Luck
+Oliver Dolan!"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Ashwin Chandrasekaran,"Scrum practitioner, PMI-ACP, Blogs at http://breatheagile.net",2016,1,"Agile shifts the focus of project management from cost and schedule to delivering value to customer.
+How is it done?
+Customer Collaboration - All Agile methods encourage customer involvement in all stages of a project. This makes frequent reviews and feedback cycles possible
+Incremental Delivery - By developing and delivering features in short cycles, the customer can see the evolution of the final product. This makes course corrections possible in a regular fashion rather than at the end of a project
+Continuous Improvement - Using various practices like Retrospective meetings, Agile enables the team to look back frequently and adjust the process as needed
+Team Ownership - Agile encourages the team to own their plan, design and commitment to delivery. The responsibility of meeting the project goals shifts from project manager to developers
+Quality Focus - Short iterations don’t mean the absence of testing. Agile methods enforce every increment to be well tested
+Unambiguous Requirements - Using techniques like User Stories and Epics/Themes, Agile makes the creation and understanding of requirements much easier than traditional BRMs
+In short, Agile is a different and more pragmatic way to approach project management."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Justin Jackson,founder of MegaMaker,2014,8,"Agile actually defines a group of methodologies that share a similar philosophy (originally defined in the 2001 Manifesto for Agile Software Development).
+A core tenet of agile development is to work in short iterations, or sprints. After each sprint, the team should have produced a small new iteration (incremental release). At this point the team can also re-evaluate it's current direction, and make changes if needed.
+Other characteristics common to most agile methodologies:
+
+Specs (or requirements) are written simply, often in the format of a user story on a card:
+(this screenshot is from Sprint.ly)
+Participation of stakeholder (or product owner) in the process
+Finish work on one feature before moving on to the next
+Lots of team collaboration and cooperation, and strong sense of ownership
+Testing is done throughout the process
+Types of agile methodologies
+Scrum - one of the best known agile methodologies. Illustrated Scrum reference PDF
+Lean - adopts lean manufacturing principles for software development. Lean Software Development
+Kanban - there are 3 core characteristics: visualize your workflow, limit work-in-progress, prioritize backlog. People following Kanban, will often use a Kanban board that looks like this:
+(Blank Kanban board with 3 columns: Backlog, Current, Complete. [Source])
+Extreme Programming (XP) - controversial agile practice. Agile Software Development: What is extreme programming?"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Jessica Wood,"M.tech in Physics, Chemistry, and Mathematics (science grouping), Thomas Jefferson High School for Science and Technology (TJHSST) (Graduated 2010)",2020,1,"Hi,
+Agile is the methodology where the software project is broken into several small stages and these are managed by a team with constant collaboration and continuous iteration and improvement.
+In simpler words, it is the iterative approach that effectively focuses on customer feedback, constant changes, collaboration, with rapid releases.
+Agile effectively targets software development and follows the shift-left principle. Also, it focuses on functional and non-functional readiness.
+There are several benefits that are achieved for enterprises with agile. The most important benefit is that it offers shorter development cycle with enhanced detect detection.
+Along with the advantages, there is even other side, i.e. the challenges. Yes, Agile even lays down challenges that should be considered while practice agile testing.
+The most important challenge with agile methodology is that it is difficult for the teams to be more productive every time.
+Thanks!"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Keshav,Content Writer | Software Developer,2021,661,"Agile methodology is a project management system that relies on incremental development. Each iteration consists of two- to four-week sprints, where each sprint's goal is to build the most important features first and come out with a potentially deliverable product. More features are built into the product in subsequent sprints and are adjusted based on stakeholder and customer feedback between sprints. Whereas other project management methods emphasize building an entire product in one iteration from start to finish, agile scrum methodology focuses on delivering several iterations of a product to provide stakeholders with the highest business value in the least amount of time. Agile methodology has several benefits. It encourages products to be built faster since each set of goals must be completed within each sprint's time frame. It also requires frequent planning and goal setting, which helps the scrum team focus on the current sprint's objectives and increase productivity.
+The greatest benefit of agile methodology is its flexibility. With the sprint-based model, the scrum team typically receives feedback from stakeholders after each sprint. If there are any problems or changes, the scrum team can easily and quickly adjust product goals during future sprints to provide more valuable iterations. This way, stakeholders are happier because they get exactly what they want after being involved every step of the way.
+Advantages-
+Superior quality product: In Agile project management, testing is an integrated part of the project execution phase which means that the overall quality of the final product is greater. The client remains involved in the development process and can ask for changes depending on the market realities. Since Agile is an iterative process, project teams keep on learning and growing with time and continue improving.
+Customer satisfaction: In Agile, the customer is always involved in the decision-making process which leads to greater customer retention. In the traditional framework, the customer is only involved in the planning phase and does not influence execution which affects flexibility and adaptability. By keeping the customer in the loop and making changes according to their feedback, you deliver value to the customer and ensure that the final product is truly according to their requirements.
+Faster ROI: The fact that agile development is iterative means that the features are delivered incrementally. Therefore, benefits are realized early while the product is in the development process. Long delivery cycles are often a problem for businesses, particularly those in fast-moving markets. Agile means fast product releases and the ability to gauge customer reaction and alter accordingly, keeping you ahead of the competition.
+People and interactions are emphasized rather than processes and tools. Customers, developers, and testers constantly interact with each other.
+A result-oriented team: Agile fosters an open culture of idea exchange and cooperation within teams. It spurs lively team collaboration, boosts morale, and clearly defines all the roles and responsibilities. Each and every member is in-the-know when it comes to pressing tasks and priorities.
+Disadvantages-
+Active user involvement and close collaboration are required throughout the development cycle. This is very engaging, rewarding, and ensures delivery of the right product. It’s the fundamental principle in agile that ensures expectations are well managed. And since the definition of failure is not meeting expectations, these are critical success factors for any project. However, these principles are very demanding on the user representative’s time and require a big commitment for the duration of the project.
+Requirements emerge and evolve throughout the development. This creates the very meaning of agile – flexibility. Flexibility to change course as needed and to ensure delivery of the right product. There are two big flip sides to this principle though. One is the potential for scope creep, which we all know can create the risk of ever-lasting projects. The other is that there is much less predictability, at the start of the project, and during, about what the project is actually going to deliver. This can make it harder to define a business case for the project, and harder to negotiate fixed-price projects. Without the maturity of a strong and clear vision, and the discipline of fixing timescales and trading scope, this is potentially very dangerous.
+Agile requirements are barely sufficient. This eliminates wasted effort on deliverables that don’t last (i.e. aren’t part of the finished product), which saves time and therefore money. Requirements are clarified just in time for development and can be documented in much less detail due to the timeliness of conversations. However, this can mean less information available to new starters in the team about features and how they should work. It can also create potential misunderstandings if the teamwork and communication aren’t at their best, and difficulties for team members (especially testers) that are used to everything being defined upfront. The belief in agile is that it’s quicker to refactor the product along the way than to try to define everything completely upfront, which arguably is impossible. And this risk is managed closely through the incremental approach to development and frequent delivery of products.
+Testing is integrated throughout the lifecycle. This helps to ensure quality throughout the project without the need for a lengthy and unpredictable test phase at the end of the project. However, it does imply that testers are needed throughout the project and this effectively increases the cost of resources on the project. This does have the effect of reducing some very significant risks, that have proven through research to cause many projects to fail. The cost of a long and unpredictable test phase can, in my experience of the waterfall, cause huge unexpected costs when a project over-runs. However, there is an additional cost to the project to adopt continuous testing throughout.
+Frequent delivery of the product and the need to sign off each feature as done before moving on to the next makes UAT (user acceptance testing) continuous and therefore potentially quite onerous. The users or product owner needs to be ready and available for prompt testing of the features as they are delivered and throughout the entire duration of the project. This can be quite time-consuming but helps drastically to ensure a quality product that meets user expectations.
+Finally, common feedback is that agile development is rather intense for developers. The need to really complete each feature 100% within each iteration, and the relentlessness of iterations, can be mentally quite tiring so it’s important to find a sustainable pace for the team."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Mohanakrishnan Gopalakrishnan,"M Tech in Computer Science, Indian Institute of Technology, Madras (IITM) (Graduated 1987)",2024-06,0,"Let’s try answering this question through a parallel - of building a house in place of software development. Mapping the answers to the software domain should be straightforward.
+Agile is like moving into a house while you are building that house. At the outset this might sound crazy, but this has many advantages and of course disadvantages.
+Pro : You don’t have to wait for a couple of years to move in, you start enjoying the house early in the development cycle. Also you save on rent while building the house. Con: In the initial phase the house will be quite unliveable, you have to live through that. Also you are more involved in evolving the house on a day to day basis. This takes extra time from you compared to when you totally outsource the building work based on an approved plan.
+Pro: You don’t have nasty surprises in the end - you keep finding and fixing issues and discomforts as you keep building
+Pro: You don’t need to have a grand plan in the beginning to start building. If you are not a grand plan person, this is your cup of tea. You start discovering what you need as you start living in the house and you keep building the top priority features at that point. This helps you discover the needs as you go by. Con: If you are a grand plan person, you would hate this. Also, if you are really good at dreaming up the ideal house, and won’t have to make much changes to that plan, you will have a more optimal design if you start with the grand plan.
+Pro: As a person living in the house, you are able to provide continuous, lived-in feedback every small change that is getting added to the house. This is a million times better than the kind of feedback you would be able to give looking at engineering drawings of the house. Con: If you are too fickle minded, you might keep changing your requirements and you might end up spending much more on scope creep than otherwise."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Anand Kumar,Startup Specialist (2014–present),2021,661,"Agile methodology, in simple terms, means a guidance path for the companies to work efficiently. The idea is to adapt to the change instead of clinging to your plan. It’s about being responsive to the changing market and the customers, adapt and grow.
+Yes, just like the word Implies, it can help your work progress quickly and easily. It follows simple four ideas:
+Individuals and interactions over processes and tools: Humans perform software development; therefore the quality of interaction between them is vital. Though tools are an important part of software development, focusing more on teamwork regardless of the tools the team uses makes great software.
+Working software over comprehensive documentation: For users and coworkers, documentation can be a great resource. However, software development aims to build software that delivers business benefits rather than vast documentation.
+Customer collaboration over contract negotiation: The software development team communicates with customers frequently. By listening to and getting their feedback, the team will understand what stakeholders want.
+Responding to change over following a plan: In software development, changes are a reality that your software process should reflect. A project plan should be flexible enough to change as the different cases demand.
+Now moving on to Agile software development, the best way to explain the process is Divide and Rule. Not the British way of ruling countries, but the humane way of making the work process more efficient.
+It works by breaking projects down into a little bit of user functionality, prioritising them, and then delivering them continuously in 2-4 cycles called Sprints or Iterations. In one short Sprint (2-4 weeks), a full development cycle is performed. It includes analysis, design, coding, testing, and product release.
+At the end of each Sprint, developers release a working software solution, and the performance is evaluated by the customer. The lessons learned in each Sprint are captured in retrospectives and used in the next iterations.
+Advantages
+High-quality product
+Reduces technical debt
+Increased adaptability
+User-focused testing
+Creates total alignment and transparency
+Reduced risks
+Increased customer satisfaction
+Improves time to market
+Early and predictable delivery
+Better project control
+Disadvantages
+Like everything, agile also has its downside. But unlike others, these can be easily mitigated.
+It will be challenging to set KPIs because of the see-as-we-go nature of the program.
+The documentation in this process doesn’t start from the beginning, but is mostly done just in time before the final output. Hence the resulting document will be less detailed.
+The minimal planning at the beginning can easily get sidetracked but can be rectified with sufficient documentation or a clear vision of your final product."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Emily Hilton,"Former Blockchain Enthusiast, Business Consultant",2022,661,"Hello,
+Let us discuss about agile methodology and the advantages and disadvantages of agile methodology:
+An agile methodology is a project management practice that promotes a collaborative, iterative and incremental approach to project management.
+It is said to be agile because it estimates both your initial needs and those generated by future changes.
+Agile Methodology is a process of software development (such as other software development methodologies – waterfall model, V-model, iterative model, etc.), however, the Agile development model is also a type of incremental model.
+Software develops in incremental, rapid cycles. In English, Agile means ‘the ability to move quickly and easily’ and respond to change rapidly – this is an important aspect of Agile software development.
+Advantages of Agile Methodology :
+In Agile methodology the delivery of software is unremitting.
+The customers are satisfied because after every Sprint working feature of the software is delivered to them.
+Customers can have a look of the working feature which fulfilled their expectations.
+If the customers has any feedback or any change in the feature then it can be accommodated in the current release of the product.
+In Agile methodology the daily interactions are required between the business people and the developers.
+In this methodology attention is paid to the good design of the product.
+Changes in the requirements are accepted even in the later stages of the development.
+An Agile/Scrum approach can improve organizational synergy by breaking down organizational barriers and developing a spirit of trust and partnership around organizational goals.
+Disadvantages of the Agile Methodology :
+In Agile methodology the documentation is less.
+Sometimes in Agile methodology the requirement is not very clear hence it’s difficult to predict the expected result.
+In few of the projects at the starting of the software development life cycle it’s difficult to estimate the actual effort required.
+Because of the ever-evolving features, there is always a risk of the ever-lasting project.
+For complex projects, the resource requirement and effort are difficult to estimate.
+If you want to make a career into agile scrum foundation then I personally recommend you to do agile scrum foundation certification GSDC Certification
+If you're looking for a better career I personally suggest to go for agile and scrum foundation certification training online
+If you are wondering where to begin this journey? Then you should check the agile scrum certification
+As I have one reference for a agile scrum foundation certification I found one course on google they provide certificates
+The certification cost is also affordable here.
+The agile scrum foundation certification cost $200. This certification is from GSDC. You can check the syllabus on their official websites.
+Cost : $200
+Location: Online
+The GSDC certification bodies provide courses online and it is valid and accepted globally.
+Many of the reputed company employees have done this courses from here and give good responses
+To get this certification you have to pass the agile scrum foundation certification Exam from GSDC Institution.
+GSDC is globally accredited Agile Scrum Foundation certification validates your knowledge in Agile methodologies and Scrum practices.
+The purpose of agile and scrum certification qualification is to confirm that a candidate has sufficient knowledge and understanding of the benefits of this certification.
+Grab our year ending delight just in $ 200 and see yourself upskilled before 2022 hits you hard!
+Hurry up! This limited period offer is valid till the 31st of this month only."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Anand Singh,QA Manager,2022,661,"Hi,
+
+Agile Model/Methodology is one of the procedure followed while software development and testing for the products. In short, It is a concept being used in SDLC(Software Development Life Cycle). Agile Methodology is an iterative and incremental approach, where the features keep on adding and as a company should ensure it is flexible enough to handle it and deliver it within a short period of time to gain customer's satisfaction.
+
+Examples of approaches to agile model are:
+1) Scrum
+2) Kanban
+3) Extreme Programming (XP)
+4) Feature Driven Development (FDD)
+5) Adaptive Software Development Method(ASDM)
+In most of the companies providing 'software qa services are using ""Scrum"" and ""Extreme Programming"" methodlogies
+It is very common now a days that most of the Software companies follows agile methodology. I have consolidated advantages and disadvantages below:
+
+Advantages/Principles of Agile Method:
+1) Product release process will become very fast
+2) Requirement changes are allowed at any stage of Agile Model
+3) Main Goal is Customer's Satisfaction
+4) There will be a good communication between Customers, Business Analyst, Developers and Test Engineers
+5) It is a very Easy Model to adapt
+Disadvantages of Agile Model:
+1) There will be less focus on Designing and Documentation as it plays a major role in Waterfall model.
+2) Final product is not released first
+3) Long-term projects suffer due to incremental delivery.
+4) Difficult to handle
+5) Sign-off at every phase is required to allow developers to move forward.
+Hope the above information will help you.
+Thanks,
+Anand"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Mike Fontner,IT-Security Engineer / Application Security (2020–present),2020,1,"One of the disadvantages - that most people are not aware of in the beginning - is that it puts all responsibility much further down in the “food-chain”.
+The rule most prevalent I found so far is this one: “You build it, you run it!”
+Seems to be simple and logical at the first glance. True it IS simple and logical.
+AND it has a TON of implications most managers, expecially in the upper management are absolutely not aware of.
+For example: If I’m the one running it, then I also want to know what happens while the system is under production. I also want / need to know how the system is fairing under test. I also … ! You get the drift.
+In agile, High Quality DevSecOps is imperative to do your job successfully! No manager can tell you exactly what to do when and how, because they don’t know what you solved how and where.
+The whole responsibility is on the team. Therefore the team has to decide what works best … for the teams responsibilities.
+In a working agile environment (emphasis is on working!) the role of a manager is not to tell people what to do but to make sure that the team can do what it has to do in order to fullfill it’s responsibilities! That also means to clear obstacles in whatever form they appear, make sure different departments work smoothly together, make sure the proper talent is represented in the team, coaching your people to get the proper education they need if necessary, etc. pp.
+The pressure, the responsibility and also the lack of someone else to blame is not for everyone though. You need properly geared people as well who apprechiate such an environment, because nobody will tell you what to do when and how. That’s YOUR (!!) repsonsibility too.
+And that’s just one aspect.
+A switch to agile is so deep and brings such profound changes in the whole culture, that old silos and management structures within the whole company will either be destroyed in the process or the agile will fail. Because you cannot have only a small agile thingie somewhere in the company while the rest goes “unspoiled”.
+It’s an all or nothing decision.
+Yes, IF agile is truly implemented, you can reap a LOT of benefits!
+BUT on the road to fully get a grip, figure out what works for you and what not, million things can go wrong and nothing will be achieved. Then agility is blamed. It’s not the system though. It’s the change, that people resisted."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Vikash Kodati,"10+ years of exp using Agile methodology. Helped Ameriprise, UHC be successful",2015,3,"That is a broad question. I am sure you will find the specifics online but I ll help you understand the broader stroke. Its a structure that helps realize incremental business value quickly (allowing course corrections) and also lets each role consume the information it needs. The process itself is very flexible and leaves a lot of space of interpretation because of which there are more ""Agile-buts"" (look it up) than pure Agile teams. The important part is for all the team (Developers, BAs, Scrum Master, Business teams, Product Manager) to agree upon a common ground rather than trying to following something that is carved in stone.
+We follow a rule that an agile team (developers mainly) should not be larger than what 2 large pizzas can feed :)."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Szabi Kisded,"Founder, WordPress Plugin Developer & Blogger at CodeRevolution (2018–present)",2019,1,"The Agile Method is a particular approach to project management that is utilized in software development. This method assists teams in responding to the unpredictability of constructing software. It uses incremental, iterative work sequences that are commonly known as sprints.
+Advantages of Agile Methods are:
+1. light weight
+2. They are people based rather than plan based
+3. It promotes interactions between individuals over processes and tools
+4. Developers working software rather than comprehensive documentation
+5. Customer collaboration over contract negotiation
+6. Responding to change over following a plan"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Jaimi McEntire,Author has 4.4K answers and 7.7M answer views,2017,2,"The major benefits are that it makes your development more predictable, and there are always work items available, and work items have been recently discussed, so there is less misunderstanding, and constant review to make sure that the development effort matches the business needs.
+The major disadvantages are that a sprint is uneven. The load is not balanced. At the beginning of a sprint, the QA team does not have enough work, at the end of the sprint, the development team is winding down, and the QA team has too much work. There are of course ways to address this - the development crew tests at the end, and the (canonical) suggestion is for QA to work on “test scripts” at the beginning. But these have their own issues. Because a team has to bid to complete items, and the sprint is seen as unsuccessful if they do not complete the items, there is a tendency to underbid and sandbag (letting the work fill the time), leading to a decrease in productivity. Even though this is an effort to give developers more say in what and how they work, the constant review and discussion gives some developers the feeling that they are being micro-managed.
+We’re an agile team, and we’ve addressed all these issues in various ways, and overall we’re more productive than we were before the switch to agile."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Noah Jonas,Technical Content Creator & Researcher,2022,661,"In the modern digitalized world, the majority of software development companies follow agile methodology for achieving a more seamless and efficient development process. The agile software development methodology is different from the waterfall as it puts focus on developing software in an incremental and rapid cycle. Thus, for a project which involves repetitive in-between feature additions by the client, this particular methodology can ensure enough flexibility to complete it and deliver it within the specified deadline.
+Advantages of opting for agile development methodology:
+Increase internal interactions between testers, developers, and business people.
+Shifts in the client's needs can still be taken into consideration even at the later stage of development.
+The delivery of software is continuous under the Agile methodology.
+Good product design is the top priority.
+Flaws of agile software development methodology:
+The resource requirements and effort required for complicated projects are difficult to estimate.
+It is impossible to estimate the actual work required in a few projects at the beginning of the software development life cycle.
+Challenge to predict the final outcome as the requirement keeps changing over time.
+To know more about agile software development you can read the blog.
+Agile Software Development: Best Practices, Challenges, and Solutions - Apptread
+Agile methodology in software development projects helps in assuring the timely delivery of highly enhanced software solutions and 100% client satisfaction.
+https://apptread.com/blog/agile-software-development-best-practices-challenges-and-solutions/"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Emily Hilton,"Former Blockchain Enthusiast, Business Consultant",2022,1,"Hello,
+Let us discuss the pros and cons of Agile methodology from the following points:
+The Pros and cons of Agile methodology:
+There must be a compelling reason to use the Agile methodology beyond the notion that it’s the ‘latest and greatest
+Agile offers flexibility
+Agile empowers the team
+Time to market is accelerated
+Learning is encouraged and embraced
+More opportunities for creativity exist.
+Product Gets to Market Faster
+Better Communication
+Immediate Feedback
+Embracing Uncertainty
+Less Defective Products
+In Agile methodology the delivery of software is unremitting.
+In this methodology attention is paid to the good design of the product.
+Changes in the requirements are accepted even in the later stages of the development.
+Customers can have a look of the working feature which fulfilled their expectations.
+If the customers has any feedback or any change in the feature then it can be accommodated in the current release of the product.
+In Agile methodology the daily interactions are required between the business people and the developers.
+Cons of an Agile Methodology:
+The outcome and timeline are less predictable
+The customer (product owner) must invest time in the project
+Documentation is not a deliverable of Agile
+A trust relationship must exist between members of the team
+Sometimes in Agile methodology the requirement is not very clear hence it’s difficult to predict the expected result.
+In few of the projects at the starting of the software development life cycle it’s difficult to estimate the actual effort required.
+If you're looking for a better career I personally suggest to go for agile tester certification
+If you are wondering where to begin this journey? Then you should check the certificate in agile tester certification
+As I have one reference for a Agile Tester Foundation Certification I found one course on google they provide certificates
+The certification cost is also affordable here.
+Many of the reputed company employees have done this courses from here and give good responses and rated this certificate as the best
+To get this certification you have to pass the GSDC Institution certifications.
+GSDC's certification is aimed towards sharing a deep understanding of all the advanced l and d certification
+The purpose of agile tester certification qualification is to confirm that a candidate has sufficient knowledge and understanding of the benefits of this certification."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Nabarun Mondal,Engineering Leader with 20 years of Experience,2021,26,"Agile is NOT a methodology. It is a mindset.
+Team must deliver faster, simpler, workable code.
+The only success criterion of agile is how much time saving it had.
+If using other mindset it used to be delivered in X hours,
+and Agile can do it in 0.1X hours, agile mindset has own.
+Anywhere it is not possible to do, agile is at disadvantage. That includes every possible “serious” Engineering domain.
+Agile will not work, does not work anywhere serious Engineering is required - build engine of SpaceX rocket.
+If someone is actually developing a kernel - even then I do not think Agile works."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Agilemania,Agilemania is to be the Preferred Agile Company and partner.,2023,661,"As with other software development approaches (such as the waterfall model, the V-model, the iterative model, etc.), the Agile development model is a methodology for creating software, in addition to being a form of agile method. Software is created in quick, incremental cycles. Agile is an important component of Agile software development and signifies ""the capacity to move swiftly and effortlessly"" and adapt to change quickly in English.
+Advantages of Agile Methodology :
+In Agile methodology the delivery of software is unremitting.
+The customers are satisfied because after every Sprint working feature of the software is delivered to them.
+Customers can have a look of the working feature which fulfilled their expectations.
+If the customers has any feedback or any change in the feature then it can be accommodated in the current release of the product.
+In Agile methodology the daily interactions are required between the business people and the developers.
+Disadvantages of the Agile Methodology :
+In Agile methodology the documentation is less.
+Sometimes in Agile methodology the requirement is not very clear hence it’s difficult to predict the expected result.
+In few of the projects at the starting of the software development life cycle it’s difficult to estimate the actual effort required."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,JOY OF PERFORMING,Helping organizations achieve more,2023,1,"Running a tech team is not easy. When you are new, you cannot just decide to adopt the agile methodology. You must understand your business priorities and critical goals. You have to prepare your team and the customers for this.
+Implementing agile practices takes time. Being agile does not mean doing everything fast. It's about doing the right things at the right time more accurately. People have to settle in and allow room for growth as they go.
+Pros & Cons of working with agile methodology
+Don't think there is a fixed plan for agile practices. It depends on other factors like your team size, projects, clients, resources, etc.
+Below are some commonly seen pros and cons of using the agile framework.
+Pros
+Immediate feedback on the product - Users directly give feedback to the development team.
+Elimination of silos - Team members collaborate actively.
+Can help you get highly competitive - Software industry is aggressive. It is helpful to have efficient product improvements.
+Team gets more autonomy - Agile group gets to take risks and experiment.
+Working software versions are tested - Team tests real software with users, not some plan.
+Efficient collaboration
+Transparency in product enhancement - Users can see the past product roadmap and each improvement.
+Lean and productive product development - Cost-cutting and efficient production.
+Cons
+Lack of purpose - The tasks may be pretty clear, but the overall purpose behind the work may not be communicated and understood.
+Can get less holistic - People can get too involved in the processes that they may forget critical priorities or company values.
+Easy to misinterpret the methodology - Teams can mistake agile for faster deliveries rather than focusing on quality.
+Project management can get messy - If not managed well.
+Professionals may get less time to grow - People may get busy and not take time to reflect and analyze their performance.
+Can go off-track from critical business goals - Focusing too much on agility may lead people to derail from main goals.
+It's always good to work more efficiently, but it all must move your business forward. Be clear about your priorities.
+The OKR framework is a very effective methodology to allow your team to focus on critical business priorities. Talk to our OKR experts to know how it will enhance your business.
+Got any questions? Please comment."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Aditya Pratap Bhuyan (ଆଦିତ୍ୟ ପ୍ରତାପ ଭୁୟାଁ),Former Consultant at Dell EMC India (2018–2024),2023,1,"There are many advantages of Agile methodology for project management. Agile methods can help teams manage work more efficiently and do the work more effectively while delivering the highest quality product within the constraints of the budget.
+While Agile teams work well as a unit and can react better to the inevitable changes that come with most projects, there is one facet of project management that Agile teams often overlook: Visual management.
+The Benefits of Agile Development
+With visual management, Agile teams can enhance their ability to work effectively by presenting the data in a visual way rather than in list-form on a spreadsheet or in a wiki. This way, it is easier to comprehend project details and to manage change.
+Major benefits of visual project management for Agile include:
+Visibility of project details
+Increased team efficiency
+Ability to adapt to changes
+Ability to scale
+Let’s take a closer look at some key characteristics of an Agile team and explore how visual management can help.
+Agile Characteristics
+Agile is a method for getting the work done that really matters. For example, instead of spending hours or days building out a detailed project plan that may or may not match the project’s execution, an Agile team would begin with a small portion of work, assess progress, then continue down the path once enough feedback has been gathered to indicate they are on the right path.
+Principles of how to work as an Agile team are laid out in the Agile Manifesto, a set of guidelines that were developed by software developers to establish expectations around how to operate. These principles place:
+People before processes and tools
+Working software over documentation
+Collaboration over negotiation
+Change management over project planning
+One of the primary areas of focus for Agile teams is the ability to work iteratively. Iterative work is completed in short cycles with a small portion of the overall project done at one time.
+The main benefit of iterative work is that less work gets wasted. That is, when something changes about the project, the amount of re-work that must be done is minimized. In other words, teams don’t have to go too far down one path, only to find out they must backtrack and start all over again.
+The theme of iterative work extends beyond the project level and can be applied by breaking down any amount of work into manageable tidbits that can be clearly represented visually.
+One rule of thumb when practicing visual management with iterative work is that all work should be broken down as much as possible, so the team can see the work, prioritize the most important items, and divide and conquer.
+It is not uncommon for software development projects to take months or even years to complete. During a project’s timeline, changes can occur either in technology or with the business requirements.
+Changes to the business requirements of a project usually mean the project will take more time, and more time means more cost. Because change is the only constant when it comes to project management, incremental work methods like Agile are necessary to help control a project’s final cost. And in the software world, costs can skyrocket quickly and are often a primary driver of a company’s decision on whether to move forward with a project.
+Team efficiency
+Agile teams are known to be highly efficient at getting work done. Because Agile teams share a collaborative culture, efficiencies tend to have a ripple effect.
+Look for an Agile solutions provides insights into delivery trends to remove bottlenecks and adapt workflow processes for improved productivity.
+When everyone agrees on what the most important work is, and when each person can focus on the most important work, the entire team moves forward in unison, falling into steady cycles of work production and product releases, which contributes to the predictability of Agile projects.
+As you can see by the relationships between efficiency, collaboration and predictability, the characteristics of an Agile team are interconnected so that one characteristic feeds into the next, forming a holistic set of habits that can be described as Agile.
+Adaptability of a software development team
+Project managers cannot see into the future, but they can impact how easily a team is able to adapt to changes when they occur. The ability to adapt to change is a cornerstone of Agile project management and is one of the key advantages of Agile methodology.
+When teams put their time to good use, they can deliver what the stakeholder wants without overspending. This not only makes stakeholders happy, it makes project teams happy to know they have used their skills to deliver a quality product.
+Scalability of Agile projects
+Time and cost are the main factors in determining whether a company will go forward with a project.
+How long will the project take?
+What will it cost?
+Will it be worth the initial investment to get this project done?
+What else could be done with the same resources and team members that may hold more value?
+The last question is the most important one related to this article, because it touches on a key point: The larger the company, the greater the need for an Agile project management system.
+How best to utilize people and resources is a question that comes up constantly, especially for companies that cannot predict the frequency of projects yet to come. As companies continue to struggle with having too much work and not enough people to do it, new ways of scaling projects have emerged.
+Driving agility across teams requires a consolidated view of work priority and project status, whether in the same room or distributed across the globe.
+Productivity analyses can help teams understand how the same amount of people can work smarter and produce more without investing in additional resources. Conversely, companies must take care not to commit too many resources to a project only to find the value does not justify the costs associated with getting it done.
+Instead of evaluating whether their team members are focusing on the work that holds the most value, some companies skirt the issue by requiring team members to work longer hours. While this may be a short-term solution for a sudden, one-time increase in workload, overworking team members can quickly take a toll, resulting in lowered team morale and decreased productivity.
+A key advantage of Agile methodology is that it is a scalable project management tool.
+Not only can the principles of Agile be applied across multiple functions within a project team, they can also be applied to multiple project teams and leveraged by project management offices (PMOs) to analyze productivity and identify areas of improvement.
+Using Agile project management helps companies pool resources and assign the right people to the right projects according to need or priority.
+Predictability for Agile project managers
+Companies measure the value of a project in terms of cost and returns. If the returns from a project outweigh the cost, then a company may decide to go forward with that project. But if the cost of a project is unknown, as it is with many projects these days, predicting the outcome of that project in terms of success becomes almost impossible.
+For this reason, predictability in projects is important. One advantage of Agile methodology is that when companies take the time on the front end to plan a project using Agile techniques, they can estimate the cost of a project to determine whether they should continue.
+There is no single characteristic of Agile that makes it work so well to manage projects. Instead, it is the holistic practice of Agile that makes development teams successful. When project teams choose to practice Agile, they are practicing a concept that is still evolving, making this one of the best ways to work in a culture of continuous improvement.
+Source : PlanView"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Sachin Chauhan,Engineer in making,2021,1,"Agile is B.S.
+It's has no advantage, doing work in iterations is a sign of the incompetency of developer and more over the unclear goal of the client.
+To avoid these two issues, they have created very cleverly this so called Agile methodology, which if you look closely you will find that it complicates things and kills innovation.
+This is just non-sense created by some MBA grads.
+This method helps everyone except the people who actually do the damn job.
+Purely managerial oriented process.
+It is a poor attempt to make demeaning and scut work interesting.
+In simple terms, suppose you order a burger at McDonald's. Now, instead of waiting for it patiently outside, you go into the kitchen and follow the process till a bigger is finally made. Just imagine, the ruckus you are gonna create in the kitchen.
+Now, you are the client and kitchen workers are the developers. The person at the counter is the manager just facilitating the client to have his way."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Robert Merrill,Agile project estimator and agile adoption coach since 2004,2015,1,"Agile and its various flavors have been thoroughly defined, so I have nothing to add there.
+I think agile's decisive advantage is that it is much more forgiving of estimation errors. When we commit to projects, we do so with the belief that:
+The results will be worth more than they cost, and
+Cost (nearly always) and time (often) won't exceed constraints.
+The go/no decision rests on estimates of cost, duration, and value. These estimates have large (2x-4x or more) ranges, and additional up-front work often doesn't reduce these ranges very much.
+By putting the estimation uncertainty in the scope of what will be delivered, and maximizing the value of that as we go, agile eliminates nearly all estimation-related risk."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,The Next Tech,Works at The Next Tech (2018–present),2022,661,"In API tests, developers use load testing to understand how an API performs with the increased number of calls. This test helps the development team to agree on whether the product can meet certain real-life expectations under a high load.
+You can call it “Security Test 2.0” because this process is the next level of security testing. In this type, the testers analyze different attacks on API from an outsider’s point of view. This helps them to design better security for the product.
+Security Testing gives the Dev team an overview of how the API will perform against cyberattacks. The process tests an API’s encryption methods and checks how it behaves with permissions and access controls.
+The general idea of UI testing is to check whether the API or other integral parts’ user interface is running correctly. In terms of the codebase, UI testing is not a significant part of API testing. However, this process helps measure the health and efficiency of the app’s front-end and back-end."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Aadarsh Patel,"Lives in Pune, Maharashtra, India (2008–present)",2023,661,"Advantages of Agile Project Management
+You can deploy software quicker, so your customer can get value sooner rather than later
+You waste fewer resources because you always work on up-to-date tasks
+You can better adapt to change and respond faster
+Faster turnaround times
+You can detect and fix issues and defects faster
+You spend less time on bureaucracy and busywork
+There's a big community of Agile practitioners with whom you can share knowledge
+You can get immediate feedback (which also improves team morale)
+Developers can improve their skills based on QA feedback
+You don't have to worry about premature optimization
+You can experiment and test ideas because its costs are low
+Disadvantages of Agile Project Management
+Agile has substantial advantages, and it's important to know the disadvantages, limitations, and risks it brings.
+Documentation tends to get sidetracked, which makes it harder for new members to get up to speed
+It's more difficult to measure progress than it is in Waterfall because progress happens across several cycles
+Agile demands more time and energy from everyone because developers and customers must constantly interact with each other
+When developers run out of work, they can't work on a different project since they'll be needed soon
+Projects can become ever-lasting because there's no clear end
+Scope creep and experience rot
+Clients who work on a specified budget or schedule can't know how much the project will actually cost, which makes for a very complicated sales cycle (""Until iteration ends,"" is not something clients like to hear)
+The product lacks overall design, both from a UX and architecture point of view, which leads to problems the more you work on the product
+Teams can get sidetracked into delivering new functionalities at the expense of technical debt, which increases the amount of unplanned work
+Features that are too big to fit into one or even several cycles are avoided because they don't fit in nicely into the philosophy
+You need a long-term vision for the product and actively work on communicating it
+Products lack cohesion, and the user journey is fragmented because the design is fragmented. The more time passes, the more disjointed the software ends up becoming
+Short cycles don't leave enough time for the design thinking process, so designers have to redevelop the experience over and over due to negative feedback
+Check here for some more Scrum sprint planning anti-patterns and product backlog and refinement anti-patterns"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Rajeev Techexpert,Author has 77 answers and 82.8K answer views,2020,1,"Hi,
+
+First of all lets understand what is agile model?
+
+Agile model is a type of project management process which is mainly used for software development. Where demands and solutions evolve through the collaborative effort of cross-functional teams and customers.
+
+Advantage of Agile model:
+- Developers, testers and customer can interact with each other.
+- Software is delivered frequently.
+- Continuous monitoring to technical excellence and good design.
+- Daily coordination and cooperation between business people and developers.
+- Adaptation to changing circumstances.
+- Even last minute changes in requirements are welcomed.
+Disadvantage of Agile model:
+- Agile model is not useful for small development projects.
+- Project can easily get taken off track if the customer is not clear about final outcome.
+- Documentation of the project is less detailed because of the nature of agile.
+- Agile Model require more time and commitment as customers, developers and testers must constantly interact with each other.
+Above answer is based on my experience in a software app testing company. I hope this will help.
+Do let me know in case of any query regarding the same.
+Thanks,
+Rajeev"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Chuck Cobb,Agile Project Mgt Author and Instructor (Over 250K Students),2017,4,"First, to be technically correct, Agile is not a methodology; it is a mindset and a philosophy defined by the Agile Manifesto. Scrum might be considered a methodology although many people would argue that Scrum is a framework, not a methodology.
+Many traditional methodologies are well-defined and prescriptive - that’s called a “defined process control model”
+Agile methodologies (or frameworks, if you prefer) are meant to be flexible and adaptive - that’s called an “empirical process control model”
+From that broad perspective, here are the pro’s and con’s:
+Pro - Agile methodologies are better suited for situations with higher levels of uncertainty because they allow taking a flexible and incremental approach to resolve uncertainty as a project is in progress
+Con - Agile methodologies are less predictable in determining the cost and schedule for completing a project prior to the start of the project
+Pro - Agile methodologies emphasize creativity and innovation to maximize the business value of the solution
+Con - Too much emphasis on creativity and innovation can lead to significant changes in scope
+Of course, you should realize that this is not a binary and mutually-exclusive choice between “Agile” and “Waterfall” as many people seem to think. It’s a matter of fitting the methodology to the nature of the problem rather than force-fitting a project to one of those extremes. Sometimes that requires blending Agile and traditional plan-driven project management in the right proportions to fit the situation."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Kamalakshi Naik,Author has 184 answers and 38.2K answer views,2022,661,"The Agile technique divides a project into many parts and uses these phases to manage the project. Continuous improvement at every stage and ongoing collaboration with stakeholders are required. Teams cycle through a process of planning, carrying out, and assessing once the job starts.
+Benefits of the agile methodology:
+The customers are satisfied because working software features are delivered to them after every sprint in the Agile process, allowing them to see the working feature that matched their expectations. In this methodology, attention is given to the product's good design.
+The Agile Methodology has some drawbacks, including a lack of documentation and perhaps unclear requirements that make it challenging to implement."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Maya Misra,Digital Marketer,2020,2,"Here Are Some Pros & Cons of agile methodology :
+Pros:
+Continuous Improvement
+It gets challenging to stick to your plans considering ever-changing client’s requirements and moods. Agile methodology empowers your clients to keep their views amid project development, and you to improvise according to their current state of mind.
+2. Client satisfaction
+The model allows you to arrange open communication with your clients. With video conferences or calls you can understand minor project requirements and raise tokens should there be any problems. Apart from strengthening relationships, the system gratifies your clients making them feel valued for their opinions. The early working prototype satisfies your customers.
+3. Reduced Risks
+The changing trends and fickleness of client’s requirements often cost developing companies more than they anticipate. Imagine being at the fourth stage of a cycle, and your client refuses to accept the design. How much would the deconstruction and starting from scratch cost? But the agile model reduces all the risks as you’re keeping them posted at each sprint.
+4. Adaptive approach
+Need to change a module? The session-based skimming allows your team to travel extra-mile to have the most optimized functionality. The self-organized and motivated teams in the agile web development model help easy adaptation and customization without flattening your wallet.
+5. No strict structure
+With no strict structure or project scope, the project remains flexible throughout the development phase. You can scale or descale the project too.
+cons:
+Not useful for small projects
+Agile projects have overhead costs in terms of meetings, reviews and retrospectives, daily stand-ups, client interaction, and a lot more. You might not want to go for it for small projects— the projects that won’t ring much of your cash register.
+2. Takes more time
+With the waterfall model— the probability of changes is 0.5 by the end of the project, i.e., your client may either nod a yes or say a no! But with continuous client engagement and reviewing in the agile web development model— you might have to have regular changes every sprint. Plus iterative meetings and reviewings can consume a lot of time.
+3. Needs an expert to take major decisions
+The agile approach is not possible without the decisions of the expert in the company. It needs a managing force to arrange meetings, dividing sprints, reviewing work, and interacting with clients. The process may not move if the concerned person goes missing for a few days.
+Thank You!!"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Dhruv Parmar,Lives in Paris,2023,2,"Agile development model is also a type of Incremental model. Software is developed in incremental, rapid cycles. This results in small incremental releases with each release building on previous functionality. Each release is thoroughly tested to ensure software quality is maintained. It is used for time critical applications.
+Extreme Programming (XP) is currently one of the most well known agile development life cycle model.
+Diagram of Agile model:
+Advantages of Agile model:
+Customer satisfaction by rapid, continuous delivery of useful software.
+People and interactions are emphasized rather than process and tools. Customers, developers and testers constantly interact with each other.
+Working software is delivered frequently (weeks rather than months).
+Face-to-face conversation is the best form of communication.
+Close, daily cooperation between business people and developers.
+Continuous attention to technical excellence and good design.
+Regular adaptation to changing circumstances.
+Even late changes in requirements are welcomed.
+Disadvantages of Agile model:
+In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
+There is lack of emphasis on necessary designing and documentation.
+The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+Only senior programmers are capable of taking the kind of decisions required during the development process. Hence it has no place for newbie programmers, unless combined with experienced resources."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Jeff Sutherland,Inventor and Co-Creator of Scrum,2020,4,"A well implemented Scrum delivers twice the work in half the time. See Amazon.com: Scrum: The Art of Doing Twice the Work in Half the Time (8601410683535): Jeff Sutherland, J.J. Sutherland: Books
+The disadvantage is that as a consultant you can only biill 25% of the hours."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,John Lee,Lived in The United States of America,2020,3,"5 Key Disadvantages of Agile Methodology
+Poor resource planning
+Limited documentation
+Fragmented output
+No finite end
+Difficult measurement"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Naveen Kumar Singh,Confused agile coach but excellent software developer.,2020,2,"Why to look for advantages or disadvantages? Can model have any such things? It is for the people who practice not the model itself. If you choose wrong model to solve your problem then how can you blame model?
+Does waterfall model have any advantages or disadvantages? No if it is use for the purpose it solve. Similarly agile model is to develop software product. What if you try to build house incrementally using agile model? It will fail and become too costly."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Mark Jameson,Author has 60 answers and 99.3K answer views,2015,1,"When you have a proper working Agile team the follow advantages (over traditional waterfall approaches) will become apparent to you:
+Teamwork
+Agile teams work as one. Everyone on the team has to be committed and not just be involved (see Chicken and Pig fable). There is no hiding in an agile team.
+Problems Spotted Early
+Because of the nature of small iterations and developing features ready for production any problems are spotted early.
+Minimal Disruptions
+Agile teams work to a constant heartbeat. Disruptions from outside are easier to control and avoid. Because of tight deadlines and ever watching eyes of the team it is a lot harder for individuals to procrastinate.
+Adaptable to changing Requirements
+Until work has started on a story agile approaches accept that requirements may change and are open to this.
+Effort Minimised
+Most Agile methods encourage minimising the work you do.
+They use concepts like:
+- MVP (Minimal Viable Product)
+- MMF (Minimum Marketable feature)
+- YAGNI (You aren't going to Need It)
+Quality Improved
+Having a consistent approach to Acceptance Criteria of stories and definition of done improves quality.
+Requirements Prioritised
+Agile forces the team and its stakeholders to prioritise requirements and the order that features are worked on.
+Most controlling methodology ever!! (In a good way)
+If you think Agile is an excuse to cut corners and let developers hack systems togther then think again. A proper Agile team is like a well tuned factory and much more in control than any waterfall project is ever going to be.
+Continuous Improvement (Kaizen)
+Most agile teams practice the art of Kaizen.
+State of the Art Dev Ops.
+Agile projects demand state of the art development operations. Continouous Integration, Automated Unit Testing, ...
+It is hard to run a proper agile team without using state of the art dev. techniques. Kaizen will eventually lead you to them."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Jessica Wood,"M.tech in Physics, Chemistry, and Mathematics (science grouping), Thomas Jefferson High School for Science and Technology (TJHSST) (Graduated 2010)",2020,1,"Agile methodology has grown to be among the most popularly used development methodologies in today’s world. While its rise has been especially notable in the twenty-first century, agile methodologies have been in use for over twenty years now.
+PROS OF AGILE METHODOLOGY
+Flexibility
+Embracing Uncertainty
+Immediate Feedback
+Less Defective Products
+CONS OF AGILE METHODOLOGY
+Lack of Documentation
+Scope Creep
+Time
+Lack of Predictability
+Thanks!"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Amy,Former S.D.E III,2022,661,"Agile has several advantages and disadvantages. If you want to decide whether or not to buy this CRM, you must first determine what features you require. The advantages and disadvantages of Agile CRM are listed below.
+Pros of Agile:
+Reasonable pricing
+One of the most excellent email marketing tools
+Contact management made simple
+Automated sales pipeline system makes it simpler to close business
+Easy-to-use configuration and administration interface, even for beginners
+Cons of Agile:
+For the Starter package, just one integration option is provided
+Buggy email capabilities
+Third-party integration difficulties
+Limited third-party integrations
+Limited service automation functionalities
+Lack of reporting"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Riley Claire,Software Test Engineer | Technophile | Blogger,2023,0,"While incremental delivery might assist get products to market faster, it is also a significant downside of Agile approach. Because when teams work on each component in separate cycles, the overall result typically becomes quite fragmented rather than a coherent entity.
+5 Key Disadvantages of Agile Methodology are as follows:
+Poor resource planning
+Limited documentation
+Fragmented output
+No finite end
+Difficult measurement"
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Jonathan Bush,"23 years PM, including PMI PMP , moved into Scrum & Kanban",2023,0,"Agile is great for software development, where functionality is being added to a base. The order is unimportant, allowing the sequence to suit business importance.
+Agile is useless for infrastructure projects, because the sequence is critical. You can't install a server without first acquiring it, which first needs planning and designing, approval for the spend, etc. Various parts have to come together ,which means scheduling is critical."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Manish Makhija,Sr. PPC Executive at SRV Media Pvt. Ltd (2021–present),2018,0,"Agile is lightweight approach, it is flexible & adaptable. The disadvantages are it does not suit for any small term project."
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Yuvaraj Mohite,Agile and Devops Coach,2021,0,The disadvantages are mostly people make it very prescriptive rather than understanding the guiding principles. Also it is a most common excuse to work ad-hoc under the guise of Agility.
+https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology,Mark Levison,"Certified Scrum Trainer, Consultant (2009–present)",2020,0,"All work has many risks:
+You will discover no one wants the thing you’re building
+You will discover your team isn’t capable of doing the work with good quality
+..or that their technical skills aren’t up to the job
+You will discover that your team doesn’t like working together and you don’t gel.
+Agile or not, all knowledge work has these risks. Agile approaches (there isn’t one ‘Agile’) will just force you to deal with them sooner."

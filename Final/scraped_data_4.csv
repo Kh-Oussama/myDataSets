@@ -1,0 +1,527 @@
+URL,Author,Author Description,Publication Date,Votes,Review
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Assistant,Bot,2024-08,0,"Agile software development offers many advantages, but it also comes with several disadvantages:
+Scope Creep: Agile's flexibility can lead to continuous changes in project scope, making it difficult to manage and potentially resulting in project delays.
+Less Predictability: Due to its iterative nature, it can be hard to estimate timelines and budgets accurately, which can create challenges for stakeholders expecting fixed deliverables.
+Requires Experienced Team Members: Agile relies heavily on collaboration and communication, requiring team members to be self-motivated and experienced. Less experienced teams may struggle with the methodology.
+Potential for Fragmentation: In some cases, frequent iterations can lead to a lack of cohesion in the overall product architecture, if not managed properly.
+Documentation Challenges: Agile often emphasizes working software over comprehensive documentation, which can lead to insufficient documentation for future reference or onboarding new team members.
+Client Involvement: Agile requires continuous client or stakeholder involvement, which may not always be feasible. Some clients may not have the time or expertise to participate actively.
+Resistance to Change: Teams accustomed to traditional methodologies may resist adopting Agile practices, leading to conflicts and a slower transition.
+Overemphasis on Collaboration: While collaboration is beneficial, it can also lead to decision-making paralysis if too many stakeholders are involved in discussions.
+Scaling Issues: Agile can be challenging to scale for larger projects or organizations, leading to the development of hybrid models that may dilute the principles of Agile.
+Limited Focus on Non-Functional Requirements: Agile methodologies often prioritize functional requirements, which may lead to insufficient attention to non-functional aspects like performance, security, and scalability.
+Addressing these disadvantages often requires careful planning, team training, and a clear understanding of Agile principles to ensure successful implementation."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Victor Malyavko,QA evangelist | Cherish DEV Founder,2022,4,"Agile is an effective system, which can improve your processes. However, you’d better be aware that there are some limitations:
+Fear of uncertainty that creates stress for the team — the lack of sequential stages and the clear project development plan, the possibility of changes in the last stages of QA testing may become a stress factor.
+Degradation of quality — with the inept use of the methodology, due to fastened releases and, accordingly, a larger number of QA tests, the quality may become lower.
+Long time to implement — Agile is a complex methodology that can be a problem for QA testers who are used to Waterfall. You will have to develop communication skills, learn to be more responsible and multitask.
+Stress for customers — not all clients know exactly what they want. Not all clients have time for daily meetings and problem-solving that they hoped to delegate to others.
+Strong motivation of employees and professionalism at the same level are required — QA Engineers must keep up with each other in a rapidly changing, flexible software testing process, and this is difficult to achieve with insufficient motivation and qualifications of at least one of the team.
+Read my article for more information about Agile
+Agile: Tribute to Fashion or Effective QA Management?
+The Agile Methodology is a software development methodology that is implemented to increase software development speed and agility. Touted to be good for the software industry, it is not a novel idea.
+https://www.linkedin.com/pulse/agile-tribute-fashion-effective-qa-management-victor-malyavko/"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Charan Puneet Singh,Analyst,2015,16,"To know the disadvantages of Agile, it is important to know what Agile software development means. Please refer the Agile Manifesto.
+Irrespective of the flavor of agile you decide to chose, there are some industry accepted scenarios where Agile will work and where it will not work.
+Agile will not work well unless every member of your team is really good.
+Agile will not work well for a team where communication is an issue. It needs open communication for every day stand ups and retros. Your communication should be so good that any developer in your team should be able to pick up any piece of code and start working on it.
+Agile will not work in a hierarchy-driven organizational set up. It needs a culture which cannot be developed overnight.
+Agile will not work in a scenario where failure is not an option. It is often called FDD for this reason.
+Agile may not work very well for a package implementation or a system integration project.
+Agile will fail without the right engineering practices in place. Pair Programming, Test Driven Development, Continuous Integration are necessary for agile to work.
+Agile is not the goto term for ignoring solution design and code"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Sachin More,Principle Consultant at Atos (2010–present),2019,5,"Agile > No Agile > Bad Agile
+Bad Agile is a horrific experience that I wouldn't wish on my worst enemies.
+My worst experience so far:
+1. · Sprint planning - This is where the product owners actually figured out what work they wanted to do. We'd spend several hours discussing nebulous requirements before even getting to prioritization
+2. · Daily meeting - The 30+ minute sit down where everything is re-prioritized, new tasks are added, whole conversations are repeated. The product owners would not listen to the scrum master and stay on track
+3. · Sprint retrospective - These were cancelled because the product owners didn't want to change how they worked and were considered pointless
+You can only push back so much before something breaks. In reality, everyone gives up on improving the process to maintain some shred of sanity. Anyone new to Agile joining thinks this is how it's done and henceforth hates it.
+I think one problem stems from Agile consultants telling the organization that they should ""Do what fits best"". While technically true, people don't understand the motivations of Agile and therefore interpret it as ""Make up my own process with my 0 years of research/experience""
+The “fast” that Agile promises isn’t “fast to finish” but rather “fast to react”.
+It promises to minimize the time fro...
+Access this answer and support the author as a Quora+ subscriber
+Access all answers reserved by
+Sachin More
+for Quora+ subscribers
+Access exclusive answers from thousands more participating creators in Quora+
+Browse ad‑free and support creators
+Start free trial
+Learn more"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Ashwin Dhakal,Web Designer and Administrator at Tech Unboxin (2015–present),2017,25,"I have answered about the Agile Development after many answer request in this Quora section : Ashwin Dhakal's answer to What is agile development?
+This is the graphical representation of the Agile Model I draw for your convenience. Hope you like it :)
+Disadvantages of Agile model:
+1) This model is very annoying in case of some of the large software, since it is difficult to assess the effort required at the very beginning of the software development life cycle.
+2) There is serious absence of emphasis on necessary designing and documentation of the software.
+3) If the customer is not clear what final outcome that they want, then the project can easily get taken off track .
+4) Only the senior programmers and developers are capable of taking the kind of decisions required during the development process.
+5) It is very difficult for newbie programmers, unless combined with experienced resources for the product development.
+Appreciated by Upvotes :)"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Deepali Nagrani,"Lives in Bengaluru, Karnataka, India (2019–present)",2018,2,"Agile focuses on incremental delivery of client specified features.While slicing off a set of features for earlier release may prove beneficial but a lack of full visibility into overall requirements is often the cause of issue related to system behaviour, performance, capability and other crucial attributes.
+Such problems typically require costly rework to retrofit important capabilities that weren't identified until the project was halfway through.
+Agile projects poses a substantial risk that the team will move too quickly into iterative design and implementation,before the crucial features are sufficiently understood to support right architecture decisions.
+There are problems that emerge due to poor architecture design that cannot be easily undone by refactoring.
+If crucial aspects aren't acknowledged early on ,the chances are one or more important quality attribute will be ignored that isn't immediately visible and become incompatible with the initial architecture commitments.
+This issue happens largely as a result of phenomenon of bounded rationality (A few supporting features that didn't make a cut turn out to be be essential to make the release truly useful).
+To address this inherent challenge,all the additional capabilities must be included to complement most valuable feature."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Todd Main,30 years of software engineering,2022,4,"The following are my opinions, not statements of fact. Scrum is an extremely popular and successful process. It solves many problems that existed before Agile methodologies came along, and is a great way to introduce teams and companies to Agile, since it is supported by structured training and roles.
+On the other hand, it’s not my favorite choice for Lean/Agile processes. You don’t need to add comments to tell me I’m wrong, although you’re welcome to preach to me if you feel that I’m unfairly characterizing some aspects of Scrum. Also note that I am a huge fan of the Agile Manifesto and corresponding principles.
+And so, in no particular order, I believe that some of the disadvantages of Scrum are:
+The artificial deadline of the “sprint”. The objective is to impart an artificial, imposed deadline on the team, over and over and over. It’s a stick that you force the team to beat themselves with.
+One of the traditional complaints of leaders outside of the software team is that they feel that the team lacks a sense of urgency. This sprint is intended to impose this on the team. Rather than inspiring the team, it is an authoritarian whip that is extremely cleverly packaged as empowerment.
+Story Point sizing. This complaint is about theory vs. practice. All of the theory around relative sizing sounds so appealing. It just makes so much sense, and again, it’s supposed to empower the team by freeing them from “person hour” estimates. But in practice, I can’t begin to tell you how many times I’ve listened to a Scrum Mater tell a team that they’re getting it wrong - again - and that they need another workshop and another round of “representative stories”. The reality is the humans are completely terrible at sizing things. IMO, a far better approach is the following:
+Ask the team if the story is small enough to be delivered in 2 or 3 days
+Doesn’t matter if it’s smaller than that
+If it is, you’re done
+If it isn’t, split the story and repeat. Story splitting can also be a big challenge. My advice to teams that struggle with this is to practice ATDD. You agree on the acceptance tests (not “acceptance criteria”) before sizing. Then, if you need to split the story, use the tests as the “seams” in the story.
+Booting the manager out of the team and replacing them with someone (the PO) without a software engineering or management background. This is not the intent of Scrum, but it can easily become the consequence of Scrum, particularly if you the team is trained by someone who also lacks actual software development experience.
+The Product Owner’s role is to prioritize the team’s backlog
+The team is told to not do any work that isn’t a prioritized story
+The manager is sometimes taken aside at some point during the training and told that there is no place for “traditional management” in Scrum and it is important for them to not by an obstacle. I witnessed one company ban managers from Scrum ceremonies.
+So how does technical debt get prioritized?
+In my experience, the best strategy is to preserve a percentage of the team’s capacity for technical debt and allow them to write and prioritize those stories (subject to team discussion about impact to upcoming releases). However, some organizations insist on a “pure” model (an oxymoron in Agile) and expect the PO to prioritize these stories against their own stories, and make lofty “armchair quarterback” statements like “well, the team should be able to communicate the value of those stories well enough that their priority is obvious”. I’ve heard - on multiple teams at multiple companies - a PO actually say “we don’t have time for test automation”.
+Putting the PMO in charge of the software development process. I know, Scrum doesn’t mention anything about the PMO, but in many organizations, the Scrum Master role is filled by a Project Manager who is part of that organization. Here’s an experiment: as a software engineer, attend an Agile conference and count how many software engineers you encounter there. (Hint, you probably only need one or two hands.) And I know, the SM is not supposed to be “in charge” of the process, but that is often the consequence. Three day workshop, pass a test, and BAM, you’re a certified expert who can tell the team why they shouldn’t do something.
+Side note: I have a lot of respect for Project Managers who have successfully made the transition to an Agile mindset, and also those who still perform the traditional Project Manager role (as long as it is an active role and not just status reporting). There are a lot of benefits of Agile Project Management. My complaint is when their responsibilities stray into advising Software Engineers on their processes. It is sometimes difficult to get Software Engineers to learn processes enough to evangelize them, but in my experience, it usually works best when the team’s process “sage” has a software development background. I remember overhearing a Scrum Master lecturing a development team on emergent design - it wasn’t pretty.
+The end result of the Scrum Master role is to protect the status quo. And again, this was not the intention, but it is often the outcome. The extreme examples are the certified Scrum preachers who have found their religion and are protecting their flock from sin. Even the least extreme examples are the fundamental flaw of having someone who’s job is to help the team with their process while having no actual software development experience.
+And a corollary to 4 and 5 are that the Scrum process is fundamentally a project management process, not a software development process. Yet the team usually doesn’t realize this, and so they cede responsibility for decisions to the PO and SM and take no ownership of the way that they operate.
+Famously, the lack of any attempt to interface with the rest of the company. This has led to things like SAFe (which I loathe) or often just a lofty attitude that the company needs to “be more Agile”. There is a general lack of training (aside from things like SAFe) in this area, and little guidance on how to accomplish roadmap planning in the Scrum world.
+Ironically, another famous Agile process, Extreme Programming (XP) is almost the opposite of Scrum. Again, its intentions are righteous, but the outcome can be a process where the business priorities take a back seat to a (self imposed) authoritarian technical standard of practices that a true believer will defend but that many teams struggle to implement. That doesn’t mean there isn’t value in these practices, but things like TDD are not for the faint of heart and require a lot of repeat guidance and potentially workshops.
+My favorite type of process is still a Kanban system. Yes, as with the others, there are imposed rules, and yes, the team members struggle with the rules, but the rules aren’t about who does what job, and they’re actually pretty simple:
+if you want the process to work, keep the stories small
+enforce WIP limits
+as a general guide, start with severe limits and back off only as needed
+when you reach a WIP limit, go to the right to find the bottleneck and help out there
+The rest aren’t rules, they’re just guidelines:
+if you can’t help out with a bottleneck, embrace “slack time” and do some training, automate tests, or research the source of a data issue in production that the team has been seeing lately. Just don’t cheat and do “story work”.
+celebrate the WIP limits. They help you see the bottlenecks in your process. Maybe you need a specialist. Maybe you need to reduce the reliance on specialists. Maybe you need more automation. Maybe you have created an artificial bottleneck and you need to evaluate its value. Maybe you need to completely rethink the way that you deliver stories to smooth out the wrinkles. And on and on. The WIP limits are you friend, and every time you hit the limit, your friend is desperately trying to tell you something (and that something is seldom “increase the limit”)
+use some process control metrics to help yourselves improve. Lead time and cycle time are the obvious ones to start with, plus the usual like defect rates.
+Like any process, the success of a Kanban System depends heavily on having adequately trained leaders. And in my opinion, those leaders should be grown among the software development team, rather than coming from other teams like Product Management or the PMO. This is (IMO) one of the great missed opportunities in companies that train software development managers."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Anusha Hewage,"Agile Thought Leader, Program and project manager",2017,2,"I ll try to answer this question targeting software development as the question is formed that way .
+Actually it is true that only success is most of the time documented and available to refer . Drawbacks are rarely mentioned .
+Issues I have experienced are below.
+Developers feel they are micromanaged
+Resistance basically starts from the stand ups . Everyday coming for this 15 minutes and giving updates are not a comfort for everybody . Hence they start criticizing and resisting the process which can finally lead to say this process is not good for us. (This is when the scrum master has to show his/her leadership and coaching skills and let the people know the benefits of this 15 minutes )
+Leadership team will not get the idea of not having a gantt chart with resource allocations , for a specif period and finally can lead to misjudgment of the progress of the project (Again it is Agile coach’s job to make that right )
+If distributed agile is not properly facilitated with logistics, Audio Visual meeting facilities , distributed agile teams can get worst as they will really feel frustrated following the cadence in different locations . (Agile coach and leadership teams should implement proper distrusted agile and should be facilitated with technology and equipment )
+If not properly implement dev projects in agile can really increase technical debt .
+If the planning is done once in every two weeks (iteration ) then the systems team can really suffer to accommodate the changes. So it can really become messy as they will try to implement to support the two weeks objectives (That is why agile implementation needs to be an enterprise agile exercise from top to bottom. All processes need to be agile. Also continuous integration should be supported , facilitated with the necessary skills, tools"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Michael O. Church,Studied at Carleton College,2014,36,"Agility is always a good thing, in theory, but most of ""Agile"" development is an attempt to patch closed allocation, which is broken from the start. Also, enforcing an Agile style of development, communication, and work allocation means adding more management, not less. Usually, it becomes a justification for yet more micromanagement.
+Scrum, for example, is probably good for turning the uninitiated into reliable, useful junior developers. For senior developers and higher, it's miserable. After 5 years, if you're any good, you get to a point where you're only interested in longer-term projects with some architectural meat and a long-term focus. People like that don't enjoy working on Scrum teams and, paradoxically, often end up as underperformers because it means they have to suffer under more micromanagement, and typically have less autonomy. Now, your best people feel like they're micromanaged and not learning much except how to game a process, and they tend to get pissed off and leave.
+If you want agility, you're better off going to open allocation. If open allocation is not an option-- and sometimes it is not-- then you should, instead, be owning the boring/reliable niche, hiring boring/reliable people, and accepting that agility is not a priority. (It's desirable, but reliability is more important, in that case.)"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Wilson Leung,Software Engineer (2008–present),2018,5,"In my experience, the ‘agile’ part gets too much emphasis.
+People do the work, and it’s the people that get the job done.
+IMO agile really means is to let the ‘team’ decide what’s best for the customer & product an empower them to do it. Agility is a symptom of this empowerment and it leads to efficiency. But unfortunately the ‘symptom’ is what is being ‘taught’ as the cause of successful projects.
+People are left neglected and worse: “Boss, I don’t feel I need to write everything in a sprint, John and I are working quite well together and quite efficiently and we BOTH agree it is of no value” Reply: “Sorry, you need to put it in a sprint plan, and your tasks need to be broken down and reviewed by the rest of the team who are ‘agile’ experts from other companies (not involved in the project), otherwise you are at risk of not understanding a task and you will fail”
+My boss just said he didn’t trust my expertise and personal experience with the project, he trusted ‘agility’ more… ironic."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Saravana Bharathi,Works at Northwestern Mutual,2014,3,"Agile implementations, be it Scrum, XP, Kanban or mix of these requires a huge shift in culture and thought process. It is not about process, not about standing up everyday and answering three questions.
+That being said, most of the time the frustration comes out because of bad implementation, not enough support from your senior management, no training etc. people get stuck with the process instead of understanding value and principles behind it.
+Let me give you an real life example. In the past I consulted with a company, I went there middle of crisis. The VPs and big wigs thought scrum is the silver bullet, they said go scrum. The software teams bought into it. But not support teams like contracts. It was a hell. Contracts still wanted suppliers to write down detailed specs, penalties associated with timeline, lengthy MS project, change control process etc. people kept two books. It was a huge strain on supplier. In the end, it was a failure, left with frustrated people. People blamed it on Scrum and the software group head was let go. I could write an entire book about insights from this experience.
+If you read the above and give it a thought, most of the times the issues are because of bad implementation and misinterpretation. Sometimes your organization may not be ready for it. Better don't do it. Save the frustration. If you still want to do it, hire an experienced consultant, some one who had done it many times. Interview them personally, do a little bit of research about this guy before bringing him in. stay away from middle tier recruiting / head hunters. 99% of the time they don't know what they are looking for."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Sriram Sridhar,"Entrepreneur, Software Engineer, Technology Evangelist , Marketing Fanatic",2014,10,"I cannot speak for other agile implementations, but I have some experience working in scrums and being a scrum master. The following is the biggest disadvantage I personally experienced with the process.
+The biggest problem with scrums is the fact that the tasks included in a scrums are only as good as how well they have been defined. Unfortunately, it is very difficult to define tasks that are new and nobody on the team has a good idea of how long it takes to complete. This is especially true when working on new products or features that do not have precedents. It is also true for tasks that require research and analysis.
+By definition, tasks included in a scrum should be completed by the end of that sprint without requiring any rework. This is great in principle but when you throw in tasks that have not been defined properly, it begins to fall apart pretty quickly. Estimating tasks that have never been done before is almost like estimating the run time of a database query without actually executing it. There is always a good chance that the initial estimate turns out to be wrong by several magnitudes. This consequently results in tasks going unfinished in a sprint. But with scrums, the scrum master is not taught to take unfinished tasks into account when planning future sprints. Consequently, when you start having unfinished tasks, he is either forced to fit them into the next sprint or leave them in the backlog for a future sprint. This creates more delays and/or work in progress, in direct contrast to the agile methodology's objective of reducing both. Furthermore, when this starts happening regularly, It makes sprint planning harder and makes people involved in the sprint grow progressively more frustrated, eventually making the sprints burdensome without any real benefits over other methodologies."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Atif Shahab Qureshi,Worked at Tradekey,2018,3,"I second the point of Ashwin Dhakal that Agile is not suitable for large projects. Myself, i am a software engineer and have witnessed this while working on so many projects. Moreover, other disadvantages of Agile approach are as follows:
+Documentation tends to get sidetracked, which makes it harder for new members to get up to speed.
+It’s more difficult to measure progress than in waterfall because progress happens across several cycles.
+Agile demands more time and energy from everyone because developers and customers must constantly interact with each other.
+When developers run out of work, they can’t work on a different project because they’ll be needed soon.
+Projects can become ever-lasting because there’s no clear end.
+Scope creep and experience rot.
+Clients who work on a specified budget or schedule can’t know how much the project will actually cost, which makes for a very complicated sales cycle (until iteration ends is not something clients like to hear).
+Teams can get sidetracked into delivering new functionality at the expense of technical debt, which increases the amount of unplanned work.
+You need a long term vision for the product and actively work on communicating it
+Products lack cohesion and the user journey is fragmented because the design is fragmented. The more time passes, the more disjointed software ends up.
+Short cycles don’t leave enough time for the design thinking process so designers have to redevelop the experience over and over due to negative feedback.
+Reference: Advantages and Disadvantages of Agile Project Management | ActiveCollab Blog"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Jeff Nelson,Invented Chromebook,2015,110,"My main criticism of Agile is that it's become such an all-inclusive term for so many different methodologies.
+Scrum is Agile.
+Test-driven development is Agile.
+Pair programming is Agile.
+Open-ended specification is Agile.
+It's not a stretch to say even management-by-walking-around and Six Sigma have been relabeled as part of Agile.
+Back in the 1990s, we had many terms for many methodologies, software and management. Now, every methodology is just called ""Agile""."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Aadarsh Patel,"Lives in Pune, Maharashtra, India (2008–present)",2023,141,"Advantages of Agile Project Management
+You can deploy software quicker, so your customer can get value sooner rather than later
+You waste fewer resources because you always work on up-to-date tasks
+You can better adapt to change and respond faster
+Faster turnaround times
+You can detect and fix issues and defects faster
+You spend less time on bureaucracy and busywork
+There's a big community of Agile practitioners with whom you can share knowledge
+You can get immediate feedback (which also improves team morale)
+Developers can improve their skills based on QA feedback
+You don't have to worry about premature optimization
+You can experiment and test ideas because its costs are low
+Disadvantages of Agile Project Management
+Agile has substantial advantages, and it's important to know the disadvantages, limitations, and risks it brings.
+Documentation tends to get sidetracked, which makes it harder for new members to get up to speed
+It's more difficult to measure progress than it is in Waterfall because progress happens across several cycles
+Agile demands more time and energy from everyone because developers and customers must constantly interact with each other
+When developers run out of work, they can't work on a different project since they'll be needed soon
+Projects can become ever-lasting because there's no clear end
+Scope creep and experience rot
+Clients who work on a specified budget or schedule can't know how much the project will actually cost, which makes for a very complicated sales cycle (""Until iteration ends,"" is not something clients like to hear)
+The product lacks overall design, both from a UX and architecture point of view, which leads to problems the more you work on the product
+Teams can get sidetracked into delivering new functionalities at the expense of technical debt, which increases the amount of unplanned work
+Features that are too big to fit into one or even several cycles are avoided because they don't fit in nicely into the philosophy
+You need a long-term vision for the product and actively work on communicating it
+Products lack cohesion, and the user journey is fragmented because the design is fragmented. The more time passes, the more disjointed the software ends up becoming
+Short cycles don't leave enough time for the design thinking process, so designers have to redevelop the experience over and over due to negative feedback
+Check here for some more Scrum sprint planning anti-patterns and product backlog and refinement anti-patterns"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Mike Fontner,IT-Security Engineer / Application Security (2020–present),2020,1,"One of the disadvantages - that most people are not aware of in the beginning - is that it puts all responsibility much further down in the “food-chain”.
+The rule most prevalent I found so far is this one: “You build it, you run it!”
+Seems to be simple and logical at the first glance. True it IS simple and logical.
+AND it has a TON of implications most managers, expecially in the upper management are absolutely not aware of.
+For example: If I’m the one running it, then I also want to know what happens while the system is under production. I also want / need to know how the system is fairing under test. I also … ! You get the drift.
+In agile, High Quality DevSecOps is imperative to do your job successfully! No manager can tell you exactly what to do when and how, because they don’t know what you solved how and where.
+The whole responsibility is on the team. Therefore the team has to decide what works best … for the teams responsibilities.
+In a working agile environment (emphasis is on working!) the role of a manager is not to tell people what to do but to make sure that the team can do what it has to do in order to fullfill it’s responsibilities! That also means to clear obstacles in whatever form they appear, make sure different departments work smoothly together, make sure the proper talent is represented in the team, coaching your people to get the proper education they need if necessary, etc. pp.
+The pressure, the responsibility and also the lack of someone else to blame is not for everyone though. You need properly geared people as well who apprechiate such an environment, because nobody will tell you what to do when and how. That’s YOUR (!!) repsonsibility too.
+And that’s just one aspect.
+A switch to agile is so deep and brings such profound changes in the whole culture, that old silos and management structures within the whole company will either be destroyed in the process or the agile will fail. Because you cannot have only a small agile thingie somewhere in the company while the rest goes “unspoiled”.
+It’s an all or nothing decision.
+Yes, IF agile is truly implemented, you can reap a LOT of benefits!
+BUT on the road to fully get a grip, figure out what works for you and what not, million things can go wrong and nothing will be achieved. Then agility is blamed. It’s not the system though. It’s the change, that people resisted."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Melvin Pérez-Cedano,"M.S. in Software Engineering, Carnegie Mellon University (Graduated 2003)",2015,141,"Most of what could be considered disadvantages of agile software development are typically signs of major essential problems that no single software process framework would make go away. Agile software development helps in making those problems evident, because of the emphasis on delivering working software frequently and the frequent retrospectives.
+In other cases, certain annoyances that can be seen as disadvantages are caused when agile software development is used under contexts like regulatory environments (no working software until comprehensive documentation is developed upfront) and predictable projects (unneeded frequent feedback).
+I would say though, that adopting agile requires significant organizational changes that until they aren't implemented would undermine the benefits of agile software development and even cause more pain. And this is not strictly a disadavantage of agile software development, but a disadvantage of introducing a new paradigm."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Sagar Rao,Studied Master of Science in Computer Science & Software Engineering (Graduated 2011),2022,141,"Photo by Sebastian Herrmann on Unsplash
+Scrum is a modern software development framework. It is an agile methodology that promotes collaboration and transparency by using a cross-functional team approach. As a result, many companies have adopted it, and it has become the de facto standard in the industry.
+Time-Conscious
+The biggest drawback of the scrum process is that it is highly time-conscious. This means that, on top of the numerous other things that the team has to do, it has to keep track of what is due when, and it has to do this in a timely manner. Furthermore, during the sprint planning stage, the team has to work out how they will integrate all the tasks that they have lined up for themselves, and it also has to do this in a way that keeps the customers happy and the project on track.
+Due to all of this, it is clear to see why some companies have resorted to using assistants to help with the planning and the execution of the project. Furthermore, since the task allocation is flexible, you can rest assured that the team will respect your time constraints, and they will ensure that all tasks are completed on time.
+Not Suitable For Large Teams
+The scrum process is not suitable for large teams. This is mainly because it was designed for smaller teams that are more agile. As a result, when large teams are brought in, they often try to operate in a more structured manner, which can either slow the process down or even put a stop to it altogether. Additionally, having too many cooks in the kitchen means that the food is often overcooked, and quality suffers.
+If you are working in a team of more than 10 people, then it is recommended to split the team into smaller sub-teams. This is because, in practice, teams of 5-10 people are more effective and efficient, and it also helps improve quality. If you really want to take it to the next level, then you can even form mini-teams within the team, to tackle specific parts of the project, such as the client-side functionality, the server-side functionality, and so on.
+Poor Hand-Off From Design To Development
+One of the biggest drawbacks of the scrum process is that it is a very “siloed” process. This means that it is highly isolated, and there is very little cross-communication between the participants. In practice, this often leads to a poor hand-off from design to development. Especially when a team is new to the process, it is very difficult to know where to begin, and it can result in a lot of wasted time.
+As a result of this, it is advisable to establish a good process for integrating design and development work, so that both parties know what is expected of them. In this way, everyone involved in the project will be able to act with more purpose and effectiveness. Furthermore, by having a better understanding of what is entailed in the project, both parties can take the necessary time to get everything right.
+Limited Scope
+One of the biggest drawbacks of the scrum process is that it has very limited scope. Especially when compared to other agile methodologies, like Kanban, the process is fairly linear and does not allow for a lot of “side-tracking”. For example, if you are only working on the user interface and the organization structure of the project, then you will have to either use a pre-existing database scheme or figure out how to structure the files yourself.
+Additionally, since it is a fairly straightforward process, there is a limit to how much the team can actually achieve. Especially when working on larger projects, the team may run out of steam, and it can result in a poor quality product being delivered to the customer. Remember, a scrum project is only as good as the team's commitment to it, and if there are any slip-ups, then the customer may end up with a buggy product that is poorly engineered.
+Conclusion
+In conclusion, not all software development companies will benefit from this methodology. This is because, in some instances, scrum may not be the best fit for a specific project. As such, before adopting any kind of process, you must consider your needs and the project at hand."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Agilemania,Agilemania is to be the Preferred Agile Company and partner.,2023,141,"As with other software development approaches (such as the waterfall model, the V-model, the iterative model, etc.), the Agile development model is a methodology for creating software, in addition to being a form of agile method. Software is created in quick, incremental cycles. Agile is an important component of Agile software development and signifies ""the capacity to move swiftly and effortlessly"" and adapt to change quickly in English.
+Advantages of Agile Methodology :
+In Agile methodology the delivery of software is unremitting.
+The customers are satisfied because after every Sprint working feature of the software is delivered to them.
+Customers can have a look of the working feature which fulfilled their expectations.
+If the customers has any feedback or any change in the feature then it can be accommodated in the current release of the product.
+In Agile methodology the daily interactions are required between the business people and the developers.
+Disadvantages of the Agile Methodology :
+In Agile methodology the documentation is less.
+Sometimes in Agile methodology the requirement is not very clear hence it’s difficult to predict the expected result.
+In few of the projects at the starting of the software development life cycle it’s difficult to estimate the actual effort required."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Simon Kinahan,Product Engineering Group Director at Cadence Design Systems (company) (2011–present),2014,3,"I'll document my personal experiences. We were very successful in a previous company in moving to an agile model to try to better accomodate changing requirements. However, there are some drawbacks:
+1. It can be frustrating for the customers of a product company. Agile methodologies make it hard for customers to plan, because the development team cannot give hard delivery dates for functionality beyond the current iteration. Customers in business where they have manufacturing deadlines cannot live with this, so we had to adopt a semi-agile model where certain functionality had to be estimated, planned and tracked across iterations and engineering time reserved to make sure it made progress even if from a purist agile perspective it was not the highest priority right then.
+2. Developers may wait for the customer team to report issues they already know have bad consequences, because its easier than announcing that there is a problem and then trying to persuade the customer side to prioritize fixing it. This led to some accumulation of poor design decisions in the code, which then needed a relatively large not-very-agile effort to rip out and fix.
+3. The emphasis on not planning and designing is fine where tests and customer usage will find issues, but with mathematically deep modelling and optimization, its a bad idea. At this level, requirements and approaches have to be carefully spelled out in as much detail (including maths and pseudocode as necessary) as possible to make sure eveyone understands the consequences of the decisions being made. The amount of work in implementing these things has to span iterations, so some up-front effort is needed to ensure the direction is right. Otherwise you end up with very large amounts of code that don't do what was needed, but also cannot realistically be incrementally improved."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Jeff Darcy,Worked at several startups,2015,6,"Like many others, my main concern is its applicability to all sorts of projects. Agility is about responding rapidly to changing circumstances. That might work well for front-end code with few internal dependencies. I wouldn't know. However, for infrastructure (especially systems) code with many internal dependencies it's solving exactly the wrong problem. There, the problem is not how to change direction quickly but how to maintain direction. It's a bulldozer, not a fleet of bicycles. In my experience, the meetings associated with agile methodologies end up being just distractions where the same slowly-changing information gets rehashed over and over again.
+Another problem that we ran into on my current project is that agile methodologies don't mesh well with the ""upstream/downstream"" development model common in open source. That process is something like this:
+Developer works on some code in their own branch of the upstream/community codebase.
+Developer's code gets merged upstream
+Time passes while upstream lurches toward a release, often driven by other features and release procedures completely beyond the agile-using group's control.
+After the upstream release, the code is pulled into a downstream/corporate branch.
+Developers (often the same ones who developed the features upstream but not necessarily) integrate/backport/etc. the new upstream release into a downstream one.
+A downstream release finally occurs.
+
+Agile's assumption of complete and close control of the requirements and development process conflicts with the middle phase where somebody else has complete control. The only way to deal with this is to treat the upstream development and downstream integration as two separate tasks within the agile team, which is a kludge at best. The result only reinforced everyone's perception that agile is a tool specialized for a problem domain other than ours."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Kavya Tolety,Studied Computer Science and Engineering (Graduated 2020),2020,2,"Hi!
+I believe there is always two sides to a story, just like a coin that has two sides.
+Before i answer your question, let’s understand What is Agile?
+Agile is an iterative based software development approach where the software project is broken down into various iterations or sprints. Every iteration has phases like the waterfall model such as requirements gathering, design, development, testing, and maintenance. The duration of each iteration is generally 2-8 weeks.
+So in Agile, you release the application with some high priority features in the first iteration
+After its release, the end-users or the customers give you feedback about the performance of the application
+The necessary changes are made into the application along with some new features and the application is again released which is the second iteration
+This procedure is repeated until the desired software quality is achieved
+Some advantages of the agile methodology are:
+Because of the high customer involvement, you receive feedback quickly and make decisions on the fly. There’s more frequent communication, more feedback and a closer relationship with your customers
+There is a lesser risk since your work output is reviewed at every stage. You also save money and time from unnecessary expenditures, because you’ll be prioritizing providing value for your users
+You’ll be improving the quality of your output with each cycle. By breaking down your project into bite-sized pieces, you learn from each iteration. There is a lot of trial and error involved, but for the most part, you’re still focusing on high-quality development, testing, and collaboration
+Now, answering your question some downsides of Agile are:
+For the approach to work, all members of the team must be completely dedicated to the project. Everyone must be involved equally if you want the whole team to learn and do better on the next run. Because Agile focuses on quick delivery, there might be an issue with hitting deadlines
+The approach may seem simple but be hard to execute. It requires commitment and for everyone to be on the same page, ideally, in the same physical space
+Documentation can be ignored. Because Agile methodology focuses on working software over comprehensive documentation, things might get lost through each stage and iteration. As a result, the final product can feel different from what was first planned
+I hope this helps :) For more information check out this video
+All the best!"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Sachin Chauhan,Engineer in making,2021,1,"Agile is B.S.
+It's has no advantage, doing work in iterations is a sign of the incompetency of developer and more over the unclear goal of the client.
+To avoid these two issues, they have created very cleverly this so called Agile methodology, which if you look closely you will find that it complicates things and kills innovation.
+This is just non-sense created by some MBA grads.
+This method helps everyone except the people who actually do the damn job.
+Purely managerial oriented process.
+It is a poor attempt to make demeaning and scut work interesting.
+In simple terms, suppose you order a burger at McDonald's. Now, instead of waiting for it patiently outside, you go into the kitchen and follow the process till a bigger is finally made. Just imagine, the ruckus you are gonna create in the kitchen.
+Now, you are the client and kitchen workers are the developers. The person at the counter is the manager just facilitating the client to have his way."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Pepper Hayes,Customer Support at nTask (2014–present),2020,2,"Nothing can give you a 100% output with a 100%input.
+Agile has it’s own flaws and pros.
+But here are some of the major drawbacks
+Projects can easily fall off rails. Agile works best when all the needs of the client are either unknown or they keep changing. Of course, that is not the case with all the projects. The time in between, the team might not have as much to do.
+The predictability of the deliverables decreases.
+Every team member must have a clear understanding and direction of what are the needs and requirements of the product.
+Increased need for constant interaction and communication between the stakeholders.
+There is an increased burden on the developers and the client. Any lack or depravity on the part of either would cause a loss of quality of the product
+because of the nature of agile, the documentation of the project is less detailed.
+These drawbacks should not be of great worry to you, especially if your work coincides well with agile. It is a great disciplined and structured way to get detailed work done."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,S Markem,Author (S. Markem) of The Wizard Of Trope and more,2018,2,"No easy way to say this…
+Its difficult to ‘do it right’.
+It demands experience, intelligence, discipline ( internal ) and professionalism.
+It can help encourage these, but it can’t magically turn groups of people without the above characteristics into high functioning teams.
+At the moment we still have a severe shortage of programmers of a certain calibre and the median age in the industry overall means inexperience is rife. Even if that were not the case the numbers of developers working 20 years ago is now dwarfed by the numbers that exist now. There isn’t enough quality to go around.
+So. Its drawback? Level of competency required."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Nabarun Mondal,Engineering Leader with 20 years of Experience,2021,26,"Agile is NOT a methodology. It is a mindset.
+Team must deliver faster, simpler, workable code.
+The only success criterion of agile is how much time saving it had.
+If using other mindset it used to be delivered in X hours,
+and Agile can do it in 0.1X hours, agile mindset has own.
+Anywhere it is not possible to do, agile is at disadvantage. That includes every possible “serious” Engineering domain.
+Agile will not work, does not work anywhere serious Engineering is required - build engine of SpaceX rocket.
+If someone is actually developing a kernel - even then I do not think Agile works."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Nikita Gureev,"B.S. in Software Engineering, Higher School of Economics (Graduated 2016)",2017,5,"Agile development is frequently praised for its flexibility, quick feedback, efficient communication, and frequent releases, however it is not the best methodology for every case. There exist several disadvantages to this model:
+Agile is as flexible and accomodating for new requirements, as it is difficult to predict and estimate at the start. Some projects adopting this methodology turn out to be too long-lasting. A reason for that may be lack of project focus and clear vision of the product from the customer;
+While frequent communication and involvement from customer can have a huge positive impact on the develoment, there is a potential problem here, as some customers won’t be able to participate so actively in the development;
+Agile prioritizes working code over documentation, and while that may be a positive thing, some projects just end up lacking proper documentation. Combine that with high developer turnover rate and you have a recipe for disaster;
+Agile practices allow for involvement of different roles early on in the project, which is generally a good thing. However, it increases costs for the project from early on, which people should be mindful of. It is important to mention that this practice mitigates some risks. For instance, continious integration throughout the project may be costly, but it is preferable to high risks of waterfall testing process.
+Overall, Agile has many advantages and should be used for a wide range of projects of different scale, however one should be aware of the possible drawbacks this methodology has.
+Links:
+Disadvantages of Agile Development
+Agile software development - Wikipedia
+The Massive Downside of Agile Software Development"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Rajeev Techexpert,Author has 77 answers and 82.8K answer views,2020,1,"Hi,
+
+First of all lets understand what is agile model?
+
+Agile model is a type of project management process which is mainly used for software development. Where demands and solutions evolve through the collaborative effort of cross-functional teams and customers.
+
+Advantage of Agile model:
+- Developers, testers and customer can interact with each other.
+- Software is delivered frequently.
+- Continuous monitoring to technical excellence and good design.
+- Daily coordination and cooperation between business people and developers.
+- Adaptation to changing circumstances.
+- Even last minute changes in requirements are welcomed.
+Disadvantage of Agile model:
+- Agile model is not useful for small development projects.
+- Project can easily get taken off track if the customer is not clear about final outcome.
+- Documentation of the project is less detailed because of the nature of agile.
+- Agile Model require more time and commitment as customers, developers and testers must constantly interact with each other.
+Above answer is based on my experience in a software app testing company. I hope this will help.
+Do let me know in case of any query regarding the same.
+Thanks,
+Rajeev"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Muntaha Anjum,Content writer,2022,1,"Nothing is perfect, even the Scrum approach. Scrum is sometimes paired with other project management strategies to help alleviate some of these drawbacks:
+Due of the lack of a fixed end-date, Scrum frequently leads to scope creep.
+If individuals are not dedicated or cooperative, the odds of project failure are considerable.
+Adopting the Scrum framework in big groups is difficult.
+Only experienced team members can ensure the framework's success.
+Team members might become irritated by daily meetings.
+Any team member who departs in the middle of a project might have a significant negative influence on the project.
+Quality is difficult to implement until the team goes through a rigorous testing procedure."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Piers Campbell,"18 years experience in building, coaching and leading teams",2022,141,"There is one key disadvantage to agile that is preventing organisations, teams and individuals from adopting it fully and making lasting improvements to the way it works.
+No one really knows what it means.
+Which is to say, there are a set of principles that provide a framework in software development to solve a set of problems from twenty years ago, but there is no real consensus on what agile means outside of that context. People with experience of working with an agile mindset, tools and frameworks will have some common ground, but there are other people with literally no understanding of it that will stick the word ‘agile’ in front of any old nonsense to try to make some money out of it.
+A lot of time is wasted over discussion of what is or isn’t agile which would be much better spent improving the situation of customers and teams. Or to put it another way, emphasising people and interactions over processes and tools!"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Abhinav Manchanda,"Techie for 14 Years, International Trainer.",2020,1,"Agile was originally supposed to be a lightweight set of values and principles. In today’s world, Agile has certifications, processes, tools, and a rigid set of guidelines.
+This rigidity has made this bloated version of Agile the opposite of what it was supposed to be. This unfortunately is the biggest disadvantage as of now."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,David Jablonski,Works at Internet Marketing,2018,2,"Agile, though being a rewarding system has some drawbacks. According to me providing agile software development services requires time and commitment with greater demands of clients and developers. [1]
+Footnotes
+[1] Belatrix Software: Software Outsourcing South America"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Marcas Neal,BS in Computer Science Education(SUNY) -- 25+ years as a rent-a-CTO,2016,2,"Agile is a reaction, seeking to address what it considers to be wrong with ""waterfall."" That is one of the many ways Agile completely ignores what waterfall got right, like denigration of requirements and design.
+News to Agile people: User Stories DO NOT equal requirements and/or design. Most software engineers take a more balanced approach, where we recognize that waterfall was too slow and bureaucratic without throwing the baby out with the bath water!
+Some forms of Agile go completely insane, such as the artifical ""definitions of done,"" especially when only one matters, specifically when does the end user use it and will the client pay for it ... thats it! Another extreme is pair programming, which is a complete waste of resources!"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Gerry Claps,"The ""Pragmatic"" Agile + Lean Practitioner",2016,2,"Here are just a few:
+An unfortunately common perception that its methods are to be taken as dogma (e.g. we only do Scrum, Kanban, XP, etc.).
+Their emphasis on engineering and delivery, but omission of product development (e.g. there’s no focus on product roadmaps).
+The dangerous confusion of thinking 'Scrum' is 'agile software development' (e.g. Scrum is one specific method in the ‘agile’ family)"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,John Lee,Lived in The United States of America,2020,3,"5 Key Disadvantages of Agile Methodology
+Poor resource planning
+Limited documentation
+Fragmented output
+No finite end
+Difficult measurement"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Stacy,Knows English,2021,1,"Disadvantages of Agile software development :
+Less predictability. For some software deliverables, developers cannot quantify the full extent of required efforts.
+More time and commitment.
+Greater demands on developers and clients.
+Lack of necessary documentation.
+Project easily falls off track."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Daria Bagina,"Master's in Management & Project Management, ESCP Europe (Graduated 2012)",2022,1,"It is quite difficult to implement and will require lots of changes to how you do, track, measure work, how your teams are organized, roles, responsibilities, and more.
+If you want to to actually work, you will have to invest in it. You won't be able to do it on your own by sending people to training and that's it. You will need to hire an expert, and that's not cheap.
+Some people in your organization will most likely be not willing to change and will be sabotaging the transformation (whether consciously or not). Which means you might have to make some tough decisions.
+And, of course, change is hard and takes time, so at the beginning you most likely will see drop in productivity.
+But in the end it's worth it. The benefits of Scrum implementations are long term and will support thr organization in the uncertain times much better than traditional approaches would."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Antony Marsh,Agile Coach and entrepreneur based in Indonesia,2015,5,"""Agile"" as described in the Agile Manifesto is really a values-based system, not a methodology. Note that the Manifesto does not prescribe tools, techniques or methologies. It values ""individuals and interactions, not processes and tools"" and values delivering working software sooner, amongst many other things. Two key principles for me are""self-organising teams"" and in particular ""Continuous attention to technical excellence and good design enhances agility"". Think about that last one!
+Scrum as a ""type"" of Agile is indeed a methodology. My rule of thumb is to look at the application of a methodology (eg Scrum) in a team and refer back to the Agile Manifesto to see if it's being done right. If the way Agile methodologies are being applied in your team are not consistent with the principles and values, then they are not being applied correctly.
+I often hear the ""that's not agile"" or ""he/she doesn't understand agile"" comments which probably miss the point of what agile is. Remember, the Agile Manifesto says nothing about ""sprints"", ""story points"", ""estimations"", ""product backlogs"", etc etc. These are all artefacts of particular methodologies which may or may not work well for your team.
+Note that I have nothing against Scrum or other agile methods/processes - I use them myself - but following them slavishly is anti-agile in itself."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Bernie Kahn,"Former IT Project Manager, IT Systems Administrator, CSM",2022,1,"Places a lot of responsibility on the team, often more than some team members are comfortable with (self-organizing, estimating, etc.). Requires a culture supportive of scrum values (people over processes, working software over documentation, etc. ) which can be difficult in some companies. Company culture that fosters competition by individuals does not make for good team collaboration.
+Needs a Product Owner to be available, or at least a viable proxy) to the team, on an ongoing basis.
+Trad Scrum has challenges in scaling beyond the team level. Even for a team-centric project, dependencies outside the team itself are a challenge - too often left to the SM to deal with. In a similar way, no one has responsibility for communication outside the team.
+Risk management is too often neglecting. Dev team might deal with purely technical risk, but even there, they don’t have a risk mindset, not are trained in ways of mitigation or avoidance, and anything outside the technical domain is left for the PO to deal with,"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Rank Rise,"MSIT in Information Technology, Assumption University (Graduated 2009)",2022,0,"Advantages of Agile
+1. Flexibility and Adaptivity
+2. Creativity and Innovation
+3. Time-to-Market
+4. Lower Costs
+5. Improved Quality
+6. Customer Satisfaction
+7. Employee Satisfaction
+8. Organizational Synergy
+Disadvantages of Agile
+1. Training and Skill Required
+2. Organizational Transformation
+3. Scalability
+4. Integration with Project/Program Management"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Amy,Former S.D.E III,2022,1K,"Agile has several advantages and disadvantages. If you want to decide whether or not to buy this CRM, you must first determine what features you require. The advantages and disadvantages of Agile CRM are listed below.
+Pros of Agile:
+Reasonable pricing
+One of the most excellent email marketing tools
+Contact management made simple
+Automated sales pipeline system makes it simpler to close business
+Easy-to-use configuration and administration interface, even for beginners
+Cons of Agile:
+For the Starter package, just one integration option is provided
+Buggy email capabilities
+Third-party integration difficulties
+Limited third-party integrations
+Limited service automation functionalities
+Lack of reporting"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Arunchunai Vendan Pugalenthi,Studied Engineering,2017,3,"Its easy to forget what you complete before as the documentation phase is teensy.
+Unlike Waterfall, Agile cannot be flexible for Adhoc requests. You will need to groom the backlogs over and over again when Adhoc requests pop up.
+Agile is a wonderful software model. To avoid drawbacks of Agile, all you need to do is, analyze the use cases and decide whether Agile will fit or not. One cannot expect a mango from apple tree."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Raveesh Rai,Product Management,2022,0,"If not implemented in a right setting, i think agile/scrum will do more damage than benefit. The right setting I mean is more around the agile manifesto principles.
+Also, if there is a lack of support from leadership, compatibility gap between teams, in-effective clarity of purpose and so on it’ll be more painful to operate in agile than traditional established methods."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Otto Gold,Studied Software Engineering at Charles University in Prague,2023,0,"The main drawback is how many ignorant people claim they practice it. Typically the worst are most vocal about it plus like to ""teach"" others. Come on. Common sense anyone?
+The obvious benefit is that the world of today is very fast and ever changing. So being stuck with the waterfall for months only to see it is not a fit or the work is no longer relevant is an expensive mistake."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Julya van Berkel,Scrum and Agile coach since 2006,2017,2,"Question: What are the drawbacks of Agile?
+What is the drawback of discipline?
+What is the drawback of flexibility?
+What is the drawback of creating value?
+Everything has drawbacks, but it comes down to what you use it for, what you are trying to achieve, where you are coming from, etc.
+To really answer this question I would need more information. Drawbacks in which situation?
+The focus of the question seems to be to find out what is negative about Agile. But what can be negative about a mindset. No one is asking you to adopt the mindset. And you have to offset it to something.
+When you come from a more traditional organization the drawback can be that Agile requires the whole organization to change to make the most out of the Agile mindset.
+Often Agile is just introduced into a part of the organization. That will lead to misunderstanding and conflicts with the parts of the organization that have not been taken along in the mindset change.
+Another possible drawback can be that it is seen as a silver bullet or golden hammer. Agile is a powerful thing and has many passionate fans. The passion can be infectious, though the mindset might not be there yet.
+What I also notice is that since Agile is a mindset it is not easy to achieve. Getting Agile requires inspect and adapt and that is hard to teach without help. I see questions about “what is the best online course for Agile” and the like. I am hard pressed to answer those. Agile is best learned in the field, by doing your work in an Agile environment, or work in/with and Agile team. That is hard to learn through books and online information."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Raviteja Chirala,Engineer by choice!,2015,10,I am not a big fan of Agile Product Development. The biggest disadvantage of Agile is not following Agile properly. I have seen people pushing engineers to meet deadlines everyday and focus on new task ignoring the most critical parts like Perfection and performance. It's not how fast you finish or saying that you have finished it. Instead one should assess time properly and give reasonably sufficient time to finish off a task.
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Riley Claire,Software Test Engineer | Technophile | Blogger,2023,0,"While incremental delivery might assist get products to market faster, it is also a significant downside of Agile approach. Because when teams work on each component in separate cycles, the overall result typically becomes quite fragmented rather than a coherent entity.
+5 Key Disadvantages of Agile Methodology are as follows:
+Poor resource planning
+Limited documentation
+Fragmented output
+No finite end
+Difficult measurement"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Peter Vukovic,5 years of experience in agile software development,2015,3,"The main disadvantage is that it's not a standardized process, but a set of recommendations.
+This is almost unheard of in any human activity involving large teams, because process standardization is the only way to control the output.
+Because of this, agile is interpreted differently by every software team on this planet and while some subscribe to certain belief systems (i.e Scrum), most are profoundly confused by the whole thing and experience very few real benefits."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Edward G,CSM under Ken Schwaber (15+ years ago),2024-06,0,"Probably that it's much harder to get right than people realize.
+You can go through the motions and not get anywhere, like getting into a car and driving it at 10 km/h. Yes, you're in a car and going somewhere, doing all the things drivers do. But you're not making any progress.
+Then people give up, get out and kick the tires, and swear cars don't really work."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Tushar Jain,"Agile coach, trainer, author, speaker, eager learner, ...",2017,0,"If there are any drawbacks in short and numerous feedback cycles, trust among team members, always customer present, delivering value incrementally, and evolving requirements the Agile has all of those.
+The real question should be how can I use characteristics listed above in my ..."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Chuck Cobb,Agile Project Mgt Author and Instructor (Over 200K Students),2022,0,"A pure Agile approach does not provide a good framework for managing project costs and schedules if that is important. As a result, it is difficult to apply to a contracting situation. However, that does not preclude the use of a hybrid Agile approach. Here’s an article with more detail on that:
+Agile Contracts - How Do They Work?
+Some people may think that you can't impose typical cost and schedule constraints required by contracts on an Agile project, but it definitely can be done.
+https://managedagile.com/agile-contracts/"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Yuvaraj Mohite,Agile and Devops Coach,2021,0,The disadvantages are mostly people make it very prescriptive rather than understanding the guiding principles. Also it is a most common excuse to work ad-hoc under the guise of Agility.
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,David Crowe,Works at Starfleet,2022,0,"It forces a change in the way people think about problems. This could make it impossible in some environments, and downright risky in some cultures."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,James Chau,Worked at Canadian Armed Forces,2022,1,precision is not valued enough
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Con Bradley,software engineering and product manager,2015,5,"To me Agile is far worse than what is supposed to replace and ironically what does not seem to follow its own declared principles specifically this one: ""We value Individuals and interactions over processes and tools"". Agile is very process heavy and very dogmatic. Consider for example the length of a sprint or the size of a team. These should be flexible but instead are set in concrete by the process masters. Generally I think the principles of Agile are correct but their application is dogmatic, also The Agile principles say nothing about quality which is a serious omission IMHO"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Ganesh,Associate Manager at Virtusa (company) (2019–present),2019,0,There is no drawback If you know which project should follow agile. There are projects which should be done by waterfall.
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Yogesh Sharma,10y,2014,2,"Looks like you are looking for where Agile/Scrum falls, rather than being pragmatic about what is good to what is bad.
+I would say that Agile is good if there is a fast paced project and which required delivery with a known set of features/hiccups. Agile is bad when you have a research oriented project with potentially tons of directions to choose from, then again Agile can help if you wish to dedicate a set of resources to pick and execute the possible directions in the form of Proof of Concept, using Scrum Practices.
+I know that I am not advocating against Agile/Scrum. Every methodology has its own set of challenges and one need to see for what works for them and what not. It is true that team/individuals who hate sharing the status each day shall hate it, since they don't like micromanagement."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Kimberly Johnson,Software Engineer turned Product Manager,2016,1,"Waterfall methodologies have a ""Ready, Aim, Fire"" approach. You get ready and gather your requirements. You design your software up front to meet all of your requirements to make sure you'll meet that target. You build the software, and you test to make sure you've actually hit your target.
+Many criticize Agile for it's ""Ready, Fire, Aim"" strategy, where you haphazardly begin building software without knowing what it's going to look like in the end. Doing this could lead to a less-than-ideal architecture with respect to the final product.
+However, Agile is actually ""Ready, Fire, Aim... Fire, Aim... Fire, Aim..."". You build a small piece of the software, make sure it's what the user actually wanted, and continue on from there with the feedback you've received. In waterfall, when you design the system up front and only deliver it to the customer when it's done, it's more expensive to make changes."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Marina Slemender,Content Writer at Kolosek,2020,0,"Some developers dislike Agile and list these things as disadvantages of such philosophy:
+daily standups are a moment in which the team decides who they should blame and how little has recently been done,
+retrospective planning is here to help them decide who to blame overall,
+too much control,
+not enough time per Sprint.
+Of course, these are personal views of some developers., but the matter is viewed from their perspective, these items should be taken into consideration."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Keshav,Content Writer | Software Developer,2020,0,"Agile software development also referred to simply as Agile is a type of development methodology that anticipates the need for flexibility and applies a level of pragmatism to the delivery of the finished product. Agile software development requires a cultural shift in many companies because it focuses on the clean delivery of individual pieces or parts of the software and not on the entire application.
+Benefits of Agile include its ability to help teams in an evolving landscape while maintaining a focus on the efficient delivery of business value. The collaborative culture facilitated by Agile also improves efficiency throughout the organization as teams work together and understand their specific roles in the process. Finally, companies using Agile software development can feel confident that they are releasing a high-quality product since testing is performed throughout development, providing the opportunity to make changes as needed and alert teams to any potential issues.
+The four core values outlined in the Agile Manifesto are:
+Individual interactions are more important than processes and tools. People drive the development process and respond to business needs. They are the most important part of the development and should be valued above processes and tools. If the processes or tools drive development, then the team will be less likely to respond and adapt to change and, therefore, less likely to meet customer needs.
+A focus on working software rather than thorough documentation. Before Agile, a large amount of time was spent on documenting the product throughout development for delivery. The list of documented requirements was lengthy and would cause long delays in the development process. While Agile does not eliminate the use of documentation, it streamlines it in a way that provides the developer with only the information that is needed to do the work -- such as user stories. The Agile Manifesto continues to place value on the process of documentation, but it places a higher value on working software.
+Collaboration instead of contract negotiations. Agile focuses on collaboration between the customer and project manager, rather than negotiations between the two, to work out the details of delivery. Collaborating with the customer means that they are included throughout the entire development process, not just at the beginning and end, thus making it easier for teams to meet the needs of their customers. For example, in Agile software development, the customer may be included at different intervals for demos of the product. However, the customer could also be present and interacting with the teams on a daily basis, attending all meetings, and ensuring the product meets their desires.
+A focus on responding to change. Traditional software development used to avoid change because it was considered an undesired expense. Agile eliminates this idea. The short iterations in the Agile cycle allow changes to easily be made, helping the team modify the process to best fit their needs rather than the other way around. Overall, Agile software development believes change is always a way to improve the project and provide additional value.
+Disadvantages-
+* Active user involvement and close collaboration are required throughout the development cycle. This is very engaging, rewarding, and ensures delivery of the right product. It’s the fundamental principle in agile that ensures expectations are well managed. And since the definition of failure is not meeting expectations, these are critical success factors for any project. However, these principles are very demanding on the user representative’s time and require a big commitment for the duration of the project.
+* Requirements emerge and evolve throughout the development. This creates the very meaning of agile – flexibility. Flexibility to change course as needed and to ensure delivery of the right product. There are two big flip sides to this principle though. One is the potential for scope creep, which we all know can create the risk of ever-lasting projects. The other is that there is much less predictability, at the start of the project, and during, about what the project is actually going to deliver. This can make it harder to define a business case for the project, and harder to negotiate fixed-price projects. Without the maturity of a strong and clear vision, and the discipline of fixing timescales and trading scope, this is potentially very dangerous.
+* Agile requirements are barely sufficient. This eliminates wasted effort on deliverables that don’t last (i.e. aren’t part of the finished product), which saves time and therefore money. Requirements are clarified just in time for development and can be documented in much less detail due to the timeliness ...
+Access this answer and support the author as a Quora+ subscriber
+Access all answers reserved by
+Keshav
+for Quora+ subscribers
+Access exclusive answers from thousands more participating creators in Quora+
+Browse ad‑free and support creators
+Start free trial
+Learn more"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Anonymous,4y,2020,1K,"The practice itself is rubbish
+It must been introduced by some human trafficking fool or a idiot who just switches of the lights in chicken farm yo confuse the hens to force them for 2 eggs within 24 hr period
+Yea its design to cut cost as much as possible but extract work as long as possible
+Agile put a gun on everyone's head : yes in agile there is no relaxation everyday you have to move the task and complete it so people don't have option to relax themselves
+Agile only works with team is 100% experts. Since people have only days to finish the task. Everyone need to be a expert to make and understand the things and finish them in hours . It won't work with team mix of Medicare + dumb guys ( that's the forums reality on any software team hardly 1 or 2 guys being experts rest everyone relies on buttering and management courtesy )
+Documentation is scrapped . As the main task itself is completed in days people are already frustrated and hardly have time to work on documentation and resources . It leads to hell lot of rework . So some one will work for 2 yrs and create so much of customized setup and decide to leave the team one fine day .. so without documentation the new person can't use and en have the same tool . So he creates his own tools and practices
+Lack of control . Agile only makes brand and practice .. but there is hardly any control on scrum master . People just add task and extend it and screw the sprint as the task has multiple third party work associated with them
+Agile is fictitious . First of all agile is extremely fictitious as it expect everyone has a ETA yup when u plan to create a apple pie everything has ETA including the apple tree which grows the apple for your pie ( what a foolish practice)
+Agile is risky to software . Agile make the work on task based approach .. so people have task and limited time so they just concentrate on completing the task and close it and love to next item . So testing and security validations are literally ignored . So this leads more software is prone to attacks and compromise
+Agile has highest disapproval rate . Literally 80% of developers and engineers hate agile and wait when it will collapse .So there is no point of selling a bacon roll in vegan community. But due to the management adamancy and ignorance it will be there for sure"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,William Hruska,Senior Tester at TestingXperts (2014–present),2020,0,"Here are five leading disadvantages of agile software development.
+Less predictability. For some software deliverables, developers cannot quantify the full extent of required efforts. ...
+More commitment and time.
+Greater demands on developers and clients.
+Lack of necessary documentation.
+The project easily falls off track."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Jessica Wood,"M.tech in Physics, Chemistry, and Mathematics (science grouping), Thomas Jefferson High School for Science and Technology (TJHSST) (Graduated 2010)",2021,0,"Hi,
+Below mentioned are some of the disadvantages of agile software development:
+• Limited documentation
+• Due to less predictability, the projects might fall off track
+• Difficulty in measuring the progress of the project
+• Requires greater collaboration, commitment, and time
+Thanks!"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Harmanpreet Kaur,"M.Sc. in Information Technology, Punjabi University, Patiala (Graduated 2019)",2021,0,"Agile is all the rage these days, but what are its drawbacks? Agile isn't for everyone, it turns out. So, before you embark on a large-scale Agile transformation, keep these Agile drawbacks in mind. Here are some of them:
+It can be difficult to estimate the effort needed at the start of the software development life cycle for certain software deliverables, especially large ones.
+The importance of required design and documentation is undervalued.
+If the customer representative is unclear about the desired end result, the project may quickly become derailed."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Muntaha Anjum,Content writer,2022,1K,"Despite its many advantages, Agile is not for everyone. As a result, it is critical to understand the drawbacks of Agile approach. With that in mind, consider the following five major downsides of Agile.
+Inadequate resource planning
+Because Agile is predicated on the premise that teams will not know what their ultimate product (or even a few cycles of delivery down the line) will look like from day one, predicting efforts such as cost, time, and resources necessary at the start of a project is difficult (and this challenge becomes more pronounced as projects get bigger and more complex).
+Documentation is limited.
+Documentation occurs throughout an Agile project, and is typically ""just in time"" for generating the output, rather than from the start. As a result, it becomes less detailed and frequently gets pushed to the back burner.
+Dispersed output
+While incremental delivery might assist get products to market faster, it is also a significant downside of Agile approach. Because when teams work on each component in separate cycles, the overall result typically becomes quite fragmented rather than a coherent entity.
+There is no definitive conclusion.
+Because Agile involves less preparation at the start, it is simple to become sidetracked in delivering new, unanticipated capabilities. Furthermore, there is no clear concept of what the ""finished product"" looks like, hence initiatives have no end date.
+Difficult to measure
+Because Agile delivers in chunks, monitoring success necessitates looking across cycles. And because the project is ""see-as-you-go,"" you can not specify many KPIs at the start. Because of the length of the game, tracking progress is tough."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Jacqueline Sanders-Blackman,"Agile, Change Mgmt, Teaming & Project Rescue Podcast, 30y IT",2023,1K,"I often tell my client that you will go slower before you go faster. Depending on the extent of the transformation and what is their current state, the transition to agile is like any significant change, and there will be some painful moments.
+You can set up the agile framework, but if the team has the wrong mindset or the team is dysfunctional as a team, then agile is going only to give you minimal gains.
+Agile is very flexible (Agile does not equal Kanban. There are a lot of frameworks to pick from. You can likely find one or a hybrid of a couple that will work for you.) But many times, people want to implement level 1 (i.e., ceremonies, user stories, pointing) but want the benefits of a level 5 implementation.
+Agile has become the catch-all clearinghouse for pre-existing dysfunctional teams, management, portfolios, and company cultures. So even pre-existing issues will get blamed on Agile."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,ProAI,Your Intelligent Advisor @ProAI.co (2012–present),2023,1K,"Lack of upfront planning: Agile development relies heavily on incremental delivery and emphasizes flexibility, which can lead to a lack of upfront planning and a lack of clear project scope and objectives.
+Difficulties with budgeting and resource allocation: Agile development often involves frequent changes and re-prioritization of requirements, which can make it difficult to accurately budget for and allocate resources.
+Lack of documentation: Agile development emphasizes working software over comprehensive documentation, which can lead to a lack of technical documentation and make it difficult for new team members to understand the codebase.
+Dependence on self-organizing teams: Agile development relies heavily on self-organizing teams, which can be difficult to maintain and can lead to communication and coordination problems.
+Difficulties in managing and measuring progress: Agile development emphasizes rapid delivery of working software, which can make it difficult to measure progress and ensure that all project objectives are met.
+Can create confusion and chaos: Agile development can create confusion and chaos, as it can be difficult to understand who is responsible for what, and what the priorities are.
+Difficulties in handling change requests: Agile development emphasizes flexibility and the ability to adapt to change, which can make it difficult to handle change requests and keep the project on track."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Holograph Technologies,Your Trusted Atlassian Solutions Partner,2023,0,"Agile software development, like everything else, has its drawbacks. It can sometimes lead to unclear project scope, making it harder to predict when a project will be finished.
+For example, in building a house, changing the design during construction can lead to delays and extra costs. Similarly, in agile, frequent changes can slow down the project and strain resources.
+Also, a lack of documentation might make it challenging for new team members to understand the project. So, consider these factors for a balanced approach to agile."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Murray Robinson,Agile practitioner and evangelist.,2014,2,"Agile teams move quickly. When an issue blocks progress they raise it openly and expect management to resolve it quickly so they can continue. If the issue is not resolved the team can experience serious delay costs. This can be embarrassing and frustrating for senior executives who made the decisions that created these blockers and have been dealing with them by ignoring them, denying them and covering them up."
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Jayme Edwards,Software Development Consultant & Career Coach,2019,1K,"Since agile development means deliver software in a way that’s easy to change, the problems I’ve encountered while working on over 30 projects are:
+Management confusion. Most companies are still led by command-and-control management structures steeped in WWII tradition. Making things easy to change means less bureaucracy.
+Less predictability. Why use a method that makes things easy to change if you never plan on changing? Once a team commits to agile approaches, they are literally saying “we assume things will change”. This means plans change all the time, so deadlines and estimates become less valuable.
+Consequences of perfectionism. Since requirements of what will be built will change, and features that were built before will need to be ripped apart and re-written - refactoring becomes the norm in agile software development. When engineers create designs that are too rigid, or try to make them perfect, they increase the cost of change.
+Greed. Because agile is a popular term, and certification companies have emerged that promise “become an agile leader in 3 days!”, the greed of people who want to profit off certifications, and make money doing a job they are inexperience for creates big problems. Working in a way that makes things easy to change is counter to over 50 years of history in society, and this is something that’s not easily learned in a short period of time - especially in an industry as complex as software.
+I discuss many of the pitfalls of agile that people don’t like to talk about publicly on my YouTube channel. Here are a couple specific videos that may help you understand this topic:"
+https://www.quora.com/What-are-the-disadvantages-of-agile-software-development,Mark Levison,"Certified Scrum Trainer, Consultant (2009–present)",2020,0,"All work has many risks:
+You will discover no one wants the thing you’re building
+You will discover your team isn’t capable of doing the work with good quality
+..or that their technical skills aren’t up to the job
+You will discover that your team doesn’t like working together and you don’t gel.
+Agile or not, all knowledge work has these risks. Agile approaches (there isn’t one ‘Agile’) will just force you to deal with them sooner."
