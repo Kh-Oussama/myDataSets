@@ -1,0 +1,94 @@
+URL,Author,Author Description,Publication Date,Votes,Review
+https://www.quora.com/How-and-why-do-agile-projects-fail,Assistant,Bot,2024-08,0,"Agile projects can fail for a variety of reasons, often related to misunderstandings of the Agile methodology, poor execution, or organizational issues. Here are some common factors that contribute to Agile project failures:
+1. Lack of Understanding of Agile Principles
+Misinterpretation of Agile Practices: Teams may adopt Agile practices without fully understanding the principles behind them, leading to superficial implementation.
+Scrum But: Teams might claim to be Agile while actually following a hybrid approach that incorporates traditional methodologies, leading to confusion and inefficiencies.
+2. Poor Communication and Collaboration
+Siloed Work: Agile relies on cross-functional teams; if team members work in silos, it undermines collaboration.
+Inadequate Stakeholder Involvement: Failing to involve stakeholders regularly can lead to misaligned expectations and missed requirements.
+3. Inconsistent Leadership Support
+Lack of Executive Buy-In: Agile transformations require support from leadership. Without it, teams may lack the necessary resources and authority to make decisions.
+Resistance to Change: Organizational culture that resists change can hinder Agile adoption and create friction within teams.
+4. Inflexible Processes
+Overly Rigid Frameworks: Strict adherence to frameworks like Scrum can lead to a lack of adaptability, which contradicts Agile principles.
+Ignoring Retrospectives: Failing to regularly reflect and adapt based on team feedback can stagnate improvement.
+5. Insufficient Training and Experience
+Lack of Agile Training: Teams without proper training may struggle with roles, ceremonies, and tools, leading to ineffective practices.
+Inexperience with Agile Tools: Using Agile tools without understanding them can lead to mismanagement of backlogs and workflows.
+6. Poorly Defined Goals and Scope Creep
+Vague Objectives: Without clear goals, teams may struggle to prioritize work effectively.
+Scope Creep: Continuous addition of requirements without proper control can derail sprints and lead to burnout.
+7. Inadequate Testing and Quality Assurance
+Neglecting Testing: Agile emphasizes continuous testing, but if teams skip this step, it can lead to low-quality deliverables.
+Delayed Feedback: Lack of timely feedback on increments can result in significant issues being discovered too late in the process.
+8. Unrealistic Expectations
+Overpromising on Deliverables: Stakeholders may expect rapid delivery of features without understanding the iterative nature of Agile.
+Underestimating Complexity: Teams may underestimate the complexity of tasks, leading to missed deadlines and frustration.
+Conclusion
+In summary, Agile projects can fail due to a combination of misapplication of Agile principles, poor communication, lack of leadership support, rigid processes, insufficient training, unclear goals, inadequate testing, and unrealistic expectations. To improve the chances of success, organizations should focus on fostering a strong Agile culture, providing training, and ensuring consistent communication and collaboration among all stakeholders."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Zak Willis,CEO and Director (2009–present),2020,12,"Firstly, let’s ensure we are talking about Agile Scrum.
+Most answers here fail to address the herd of elephants in the room. The answers seem to explain the fault lies in not being “agile” enough, not “doing agile properly”. This is the exact same statement people claim about socialism. That socialism wasn’t done properly but this time it will work out because we are proper socialists.
+Reason 1 - Scrum focuses on everybody having equal skills. If one developer knows one technology which can lead to a better product versus a team of four developers who know an inferior technology, scrum will choose the latter.
+Reason 2 - Scrum focuses on breaking tasks into smaller units (user stories) that can be developed within a sprint. This sounds sensible, but sometimes development is hard. Sometimes we may have to build something complex. Invariably, business analysts break down a major functionality into smaller chunks which makes sense functionally but when developing it - becomes disjointed. A specific example was one project where dependencies were completely screwed because functional analysts were taking fairly simple tasks and breaking them down to the point it was hard to develop.
+Reason 3 - Scrum (and agile) focuses on the user being king. This is trap because, more often than not, software (especially within an enterprise) aims to eliminate a user or manual tasks. For example, operational risk is a major problem and by focusing on how a user wants to do their job rather than the hint hint “jobs to be done” we build a system around a specific person (persona). This can mean a system built for one user or a team will fail once that user or team moves on.
+Reason 4 - Time intensive and intrusive.
+We have; planning, retrospectives, burndowns, 3 amigos, standups, backlog management. Take a typical 2 week sprint and you can find yourself developing for a week of it. Of course, agile zealots will claim it isn’t being done right.
+Reason 5 - Complete lack of consistency in the product
+Reason 6 - Violation of Goodhart’s Law
+“When a measure becomes a target, it ceases to become a good measure.” Try sitting in a retrospective intellectually masturbating over the shape of the burndown chart line and keeping a straight face.
+Reason 7 - Deferring technical needs
+One book I read described a concept of “habits” in Agile Lean. Habits are technical requirements needed within a system outside the scope of a user. Just try arguing in a 3 amigos for logging consistency within an application when the users are expecting their user stories delivered.
+Does this mean we should never use Agile Scrum? Not at all. Prototyping, system BAU can be good uses for scrum. One thing Scrum is really good for is training a team to become better organised and to focus more on the user. Adopting it at an enterprise level just doesn’t cut it for most types of software development."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Vladimir Jovanovic,"Yeah, failed a lot. A LOT.",2016,3,"Agile is flooded with experts (better known as snake oil salesmen) that try to sell the methodology that will transform your team from bunch of bozos to super-humans.
+Let me go on a tangent, and talk about weight loss. We are surrounded by millions of nutritionists, personal trainers and Vloggers that take enormous effort to determine the difference in consuming 0.9 of an apple vs 0.8.
+There people are called measurebators, and they are the plague of the planet. Actually, some people suspect (those people being me) that they are the reason for dinosaurs disappearing, global warming and reality TV. They will blindly look for the next better “methodology”. They never find it, but focus so much on it that it makes them unable to see that the project was not feasible from the start. Or that
+The moment you claim that your project is agile, you are putting the wrong thing to focus. Nobody cares if you did the “daily shaming meeting” properly, if your core team is not using quality tools. Nobody cares if your “daily waste of cognitive abilities” is actually an exercise in creating daily PR BS for the rest of the team.
+I am now bracing for impact from horde of consultants."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Quoc Huy Tran,6+ years as a Product Manager at EngineThemes,2016,1,"Things that make the process more complicated at the beginning:
+Your team members do not have the same mindset. Assume that all members are well-educated with Agile approach. Agile or Project Management methods should focus on people management. That's the real truth about Project Management.
+You can say about theory: risk management, scope creep, lack of technical skills, lack of planning skills, etc.
+The most important thing is you or team members don't understand and acknowledge that there must be a sense of urgency - is at the heart of Agile culture. If you don't have the right people, then forget Agile immediately.
+Data driven: Great Agile team understands the key role that data plays in informing them about precisely where they are and where they need to go.
+Judgment: Knowing when to push, when to escalate, when to get more information, and when to take someone aside and have a little private chat. This trait is harder to teach, but experience can help."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Brent Harrison,12+ years as a practitioner and 8+ years as a leading Silicon Valley Agile Coach working with product teams.,2016,1,"VersionOne publishes an Annual State of Agile Report (now in it's 10th year). The cite the top reasons for failure as:
+Company philosophy or culture at odds with core agile values. My experience is consistent with this. If the company's leadership is based on command-and-control, process oriented, planning centric and expects outcomes are pre-determined, there is little chance Agile will be successful in the company.
+Lack of experience with agile methods. Solid training and coaching can help here.
+Lack of management support. See #1. Agile sounds good - ability to manage changing priorities, increased team productivity, improved project visibility - but if management is not fully committed or conflicted on how to gain these benefits (see #1 above), it will not work.
+Lack of support for cultural transition. Again see #1. Culture will eat Strategy for breakfast. Everyday.
+Inconsistent agile practices and process. Often times teams will take shortcuts and practice elements of Agile (e.g. daily standup) but not fully commit or try and adapt and then wonder why they are not getting the results they hoped for."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Murray Robinson,Agile practitioner and evangelist.,2016,1,"I've done a lot of agile projects and I've never seen one fail or be cancelled before delivering. However I have seen a few agile projects get into serious trouble.
+The main reason agile projects get into trouble is because there is a loss of trust and faith between the product owners and the delivery team.
+Some business people believe that you can only get a good result from suppliers by being aggressive, extremely demanding and controlling. When the business refuse to play by the agile rules an agile project can quickly become chaotic, poor quality and go way over time and cost. The best way to defend yourself against this is to implement waterfall. Better to walk away.
+The other reason that Agile projects get into trouble is when they are doing Agile very badly. This usually happens when the development team is doing Agile but the rest of the organisation is not. In this case the dev team is blocked by the rest of the business and is defenceless against aggressive managers blaming them for all problems. Again this is a problem caused by the other players in the development game refusing to play by the agile rules.
+If you have trust and respect for each other and if you all agree to play by the agile rules then Agile will not fail you."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Pradnya Shelar,"Lives in Mumbai, Maharashtra, India",2020,0,"I recently moved from waterfall to agile model and could see some reasons why agile projects fail.
+Lack of training on agile methodology- Although it may sound simple, not everyone on the team is well aware of agile processes, team structure etc. Lack of clarity around roles that each individual plays in the team makes it difficult to follow the process correctly.
+Resistance to transition from Waterfall to Agile - People are used to traditional and most commonly used SDLC approach, waterfall model where each role is clearly segregated. For example, BA will focus on gathering requirements, Developer is responsible for coding and unit testing etc. The Agile model requires developer to perform QA role as well and he/she may not be that good at it.
+Frequent feature delivery- Agile needs a super fast delivery of features within 2 weeks. Sometimes, it is challenging to breakdown a big feature into smaller stories and complete them in one shot. If multiple people are working on the related stories, there is high possibility of miscommunication impacting overall delivery.
+Less involvement of Product Owners - Product owner plays an important role here since they have domain knowledge. They need to guide developers to come up with accurate business solution. Their lack of technical knowledge often prevents them from communicating with tech team."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Stephen Green,10+ years of agile,2016,1,"Here's my top 4 reasons for agile project failure:
+Failure to manage the hype curve: Scrum (and Agile generally) is touted as being the answer to all the problems that beset traditional projects. In fact it isn't, it just deals with those problems in a different way. The way that Scrum/Agile works makes problems apparent earlier on in the project. Failure to deal with the disillusionment that this causes is a key cause of the failure of agile
+Failure properly to define and prioritise requirements. Scrum relies on the Product Owner role to do this. This is an incredibly difficult role that requires a combination of business analysis skill, technical knowledge, communications skill and chutzpah to pull off. These attributes are very rarely found in one person. Without this role in place, or a suitable way of compensating for it (perhaps by ensuring that the team has analysis skills) agile projects have a very high risk of failure.
+Failure to understand that Agile/Scrum requires more structure and discipline than traditional projects. A surprisingly large number of people think that agile means that you don't have to plan, you don't have to write documentation and that you should respond whenever the client changes their mind, cos that's agile, right? The reality couldn't be further from the truth. As an Agile PM/Scrum Master there are two things you should never compromise on:
+Iteration/Sprint end date. This stake in the ground is the key to your ability to monitor and control the project.
+Definition of done. At the end of the sprint, something is done if it is potentially shippable product. Anything less is not done. There is no '90% complete'
+Risk transfer. In traditional projects, the client comes to you with requirements and you respond with a timeline and a budget. Once these are agreed you have taken on the responsibility for delivering that project. Any failures are your fault (I'm talking in a psychological, rather than a contractual sense here). Scrum/Agile recognises the uncertainty that is inherent in delivering projects and asks the client to take a share of that responsibility by accepting that some of their requirements will not be delivered. Some clients are unwilling/unable (because of the culture of their organisation) to accept that responsibility. If this is the case, then the agile project has a very high risk of failure"
+https://www.quora.com/How-and-why-do-agile-projects-fail,Naveen Kumar Singh,Confused agile coach but excellent software developer.,2016,1,"Some of known reasons:-
+1st - They don't understand agile. Just like this question. What is the meaning of Agile Project? Can project be agile? Is agile a framework to develop project?
+2nd - Role has changed but not the habits
+3rd - Scrum kind of framework used for micro management
+List is long but above 3 points is enough to start thinking."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Sean Hoegaarden,"Developer, Product Owner, Scrum Master, Team Leader, BA",2020,0,"Projects fail when the scope, deadline and resources are misaligned. Even agile projects. E.g. the regulator rejects your incomplete solution which you managed to come up with by the deadline. That is a miserable failure, isn’t it? Or how about you are running out of budget and your desired goal is nowhere near? None of these cases depend on the delivery approach. Furthermore, agile alone cannot guarantee that team members are good professionals, thus they can generate any reason for failure."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Niladri Bose,Agile Coach and Advanced SCRUM Master at Standard Life Bank (2018–present),2019,0,"Agile projects fail when they are waterfall disguised as agile. More specifically when the primary focus is on agile as the delivery mechanism and no or little focus on the agile mindset.
+With agile mindset missing agile quickly turns into waterfall or worse.
+By agile mindset I means embodiment of the agile manifesto. For example if we only focus on output and not outcome we might just be delivering useless stuff very fast , that would be opposite of agile."
+https://www.quora.com/How-and-why-do-agile-projects-fail,Saket Bansal,"Scrum , Kanban , DAD , SAFe",2016,4,"Every year some organization conduct surveys and publish report on it, the recent report you may want to look at is :
+The 10th Annual State of Agile™ Report
+I have seen trend, most of the report find culture and mindset as top reason for agile failure but again to me this look combination of many things since culture is difficult to influence and blame ... its like when we do not know science we believe everything is act of god :-)"
+https://www.quora.com/How-and-why-do-agile-projects-fail,Joao N. Da Silva,Lean Agile Coach | Lean Agile Business Strategy,2022,0,"people assume to many things.
+usually agile people do not have training in complexity, multivariate analysis, marketing, behavioral economics and so they fail to integrate all of them.
+plus it comes from a very reductionist approach where A lead to B and therefore we need the
+right people
+right training
+right mind
+and so all will happen…"
