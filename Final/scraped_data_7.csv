@@ -1,0 +1,168 @@
+URL,Author,Author Description,Publication Date,Votes,Review
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Jeff Gib,Author has 1.2K answers and 3.8M answer views,2019,15,"Scrum erases some of the essential activities of projects, mostly design decisions, necessary evils, getting things clarified so that the right decisions are made (RnD stuff). Here are a couple of examples:
+Should we use RDB or NoSQL or combination of both? Ok, which implementation of those should be use? (Just examples…_) MongoDb + MySQL? How does Mongo handle our input or query needs. Hmmm, not very well. Why? Should we switch or tune?
+What’s the best way to handle that data widget? Pre-process it once a day? Do it on the fly? Let’s pre-process every day at 4am. (Implement that but… by 4pm it’s too stale). Let’s re-implement it to do it on the fly. But we’ll need another server and interface for that.
+How are we going to do auth/auth? What are the capabilities of that geo-spatial library? Does that API in XYZ allow us to do that? What’s a work around for that?
+You get the picture. In scrum there’s supposed to be a story worked that you can demonstrate at the end of the sprint. Yeah, yeah, I’ve heard it all before about having stories to do these things. And that WOULD be fine if software dev professionals were running the show. I personally would have a story for each one of the above. The developer would then demonstrate / explain results at the end of the sprint to the team, NOBODY ELSE. But my Direct experience has been, as soon as one of these stories is in the backlog, along comes Joe Scrum Master or Product Owner or Manager and we start arguing about whether that’s a story. Here comes the time wasting nonsense - Can’t we work it into this or that? Or, what can we demo when that story is done because that’s the only way we show progress. You can’t demo THAT! It’s endless nonsense on the dogma that has become scrum.
+There’s alot more wrong including how to handle defects flowing in from customers and previous iterations, how to refactor something, etc. I’ve heard the answers from scrum “professionals” and it’s like we’re trying to find the answer to a car question in a yoga manual, i.e. I’m fixing a headlight but that needs to be done in the downward dog position. Everything but the simple stories are unnatural.
+Oh, and don’t forget the daily status meetings. Don’t even try to convince me they are Anything But. That’s what they are, that’s what they will always be. A way better way to handle that is a dev is supposed to have responsibility to report potential slippage. If somebody isn’t doing that - then THAT’s when a manager should pop their head in.
+It’s a very unnatural, babysitting-like environment."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Tom Rose,Studied at King's College London (KCL),2020,10,"Agile is fine. We should all try to be agile
+SCRUM is not Agile, never was, never will be. It goes against the most important Agile principle, “People and Interactions over tools and process”
+It might be a good methodology for some projects [it is!]. It is most certainly not the one and only good method for everything.
+It often takes away the pleasure in work that used to be felt by many excellent programmers that for decades delivered good quality software without the help of SCRUM. That is enough to treat it with suspicion. And it is true of both “real” SCRUM and the cargo-cult variety.
+I have never yet met a programmer that asked be part of a SCRUM team. So far as I can see it is always imposed from above by control freaks with the word “manager” or “director” in their job title, but with a complete lack of any ability to manage or capable only of directing in the wrong direction."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Amir Hakim,8y,2016,18,"Is nuclear power the biggest evil ever invented ? or is an incredible source of energy ?
+Answer: it depends on how you use it!
+Currently: Scrum is anti-engineering.
+Scrum like everything on earth is a powerful noble idea that capitalism took and turned into an evil monetisation tool, just like Christmas and Vegetarianism. The way it’s usually used, makes it nothing more than continues rapid prototyping while ignoring the technical debt, to generate your first sale and may be sell off the company, then the horrible code base becomes someone’s else problem. It is used by non-technical bosses to drive developers and work them to the bone. To micromanage everything and ask you to log every minute of your day. All the accumulated technical debt doesn’t matter because all you need is to show your feature to sell them. Then once you do, you blame the current heroic development team for the bugs and you replace them with others. It is used so your trade code monkey are driven to produce, while the engineering talent is suppressed. It pushes Devs to choose the fastest solution to implement, not the best solution, because who has time to research and implement that new library or framework that will make you future proof, when you can hammer out few lines now, then when a change comes along, you delete that crap and start from zero. Why try to abstract and code re-use, when you can simply copy-paste. Because when you over or under estimate your user story, management look at you as either a thief, or lazy, or both. Because when you try to object and raise concerns about being hampered by all the tracking and estimation, management says: light process is a privilege that you have to earn. And don’t blame the scrum master for being a management puppet that is only there to spy on the team because he is not trained, but we don’t have the budget for real scrum training. But we are scrum.
+Others agree as well
+Why do some developers at strong companies like Google consider Agile development to be nonsense?"
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Miles Fidelman,"Systems Architect, Entrepreneur, and Policy Wonk",2016,25,"Because it's broken. For incremental changes, to small projects, it works fine. For large, complex systems, it ignores anything resembling well thought out architectural design - leading to truly hideous systems."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Peter Pang,Studied at Corning Community College,2019,11,Why hate Agile? It is a great opportunity to micromanage the developers and keep their noses on the grindstone at all times. It is yet another management fad which the humanity will survive. It is as simple as that.
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Anonymous,3y,2021,7,"Because, precisely, it erases engineering. i.e. it forbids planning as we were thaught, studied and practiced for, it punishes thinking and design, you are a rebel if you spend some time on documentation or ask for it if you want to know part of the legacy code, nstead they prefer spend hundreds and hundreds of hours talking about the same thing again and again. Guess what, if the Architect/Engineer would have been allowed to document this piece of the system, the whole team wouldn't need to waste so much time asking the same detail again and again…. Guess what, the team will have new hires and they will ask and more time would be spent on explaining the same thing over and over again"
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Bruce F. Webster,"Corporate IT Consultant, Expert Witness at BFWA (2001–present)",N/A,13,"Because it’s often seen as a “silver bullet” that can magically overcome the essential complexities of software engineering. And it isn’t. Nothing is.
+Back about 30 years ago, I wrote and published a book titled Pitfalls of Object-Oriented Development (M&T Books, 1995). Now, I wasn’t a skeptic of OOD — on the contrary, I had just spent several years as chief architect and lead developer of a desktop publishing program written entirely in Objective-C. But OOD was seen as a “silver bullet” back then, with incredible hype as to what it could do, and I felt I needed to point out some of the actual problems with blindly adopting OOD as the cure to all your ills. And the first three chapters of my book covered managerial, political, and conceptual pitfalls in adopting OOD (and of software engineering in general).
+What I subsequently realized is that those pitfalls can be applied to just about any new technology or methodology (‘TOM’) that is being adopted as a panacea for the usual challenges of software engineering. And so I rewrote them to be more general, I have them posted online, and they are part of the required reading for my CS 428 students. I once posted this list to a private tech listserv, and one of the senior experienced developers there said, “You could substitute the word ‘agile’ for ‘technology or methodology’ and you’d be spot on.”
+Along the way, in my work as an expert witness, I have frequently seen a trend in large software projects that are late. At around the second major schedule slip, the development organization will sometimes adopt “agile” as the methodology that will magically get them back on track — and this in spite of the fact that they’ve never used agile (or what they think it to be). The usual pattern is that they then abandon it after a few months, since it’s not working for them.
+The core truth is that methodologies, like programming languages, are just tools. They can’t overcome a lack of experience and/or competence on the part of managers, team leaders, or developers. People are what matter most. Give me a small group of talented, experienced developers, and I don’t care what language or methodology you mandate; we’ll get the job done, assuming it can actually be done.
+Here’s my list of pitfalls:
+Managerial pitfalls
+Using the wrong developers
+Using the wrong metrics (or none at all)
+Lying to yourself and others
+Not identifying and managing risks
+Adopting a technology or methodology without well-defined objectives
+Misjudging relative costs
+Allowing new features to creep (or pour) in
+Allowing the specification to drift or change without agreement
+Attempting too much, too fast, too soon
+Abandoning good software engineering practices
+Political pitfalls
+Not educating and enlisting management before the fact
+Underestimating the resistance
+Overselling the technology or methodology
+Not recognizing the politics of architecture
+Getting religious about the technology or methodology
+Getting on the feature release treadmill
+Betting the company on a given technology or methodology
+Picking the wrong horse
+Conceptual pitfalls
+Adopting a new technology or methodology for the wrong reason
+Thinking a new technology or methodology comes for free
+Thinking a new technology or methodology will solve all your problems
+Confusing buzzwords with concepts
+Confusing tools with principles
+Confusing training with skill
+Confusing prototypes with finished products
+Confusing approach with results
+Asking the wrong questions
+Your mileage may vary."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Sneha Gangan,Studied at LFS,2015,15,First of all the time Limit. It stops the creative process that takes time to develop.
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Anthony Minessale,"Founder, CEO at SignalWire (2018–present)",2015,23,Software development is chaos. Agile is an attempt at order. Order can be brought to chaos only temporarily. Anyone who hates on it probably is being forced to follow it at all times. Its good to have guidelines but rules are meant to be broken when the chaos is at a maximum. The secret that takes most 10+ years to learn is to avoid religous affinty to any one style or practice for anything to do with tech but be willing to borrow from any of it.
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Dave Voorhis,"Software entrepreneur, engineer, and educator for 35+ years.",2022,357,"The original notion of Agile[1] was:
+Individuals and interactions over processes and tools;
+Working software over comprehensive documentation;
+Customer collaboration over contract negotiation;
+Responding to change over following a plan.
+I don’t know any developers who dislike that, because it’s about empowering software engineers.
+I know some managers disliked its original form, because it implied a lack of managerial control. That’s because software engineers see themselves as the source of software and software excellence, but some managers see themselves as the sole source of software and software excellence and software engineers are — or should be — mere instruments to implement managerial vision, like compilers with eyes and fingers.
+So those managers pushed back against Agile in its original form, and came up with what we sometimes see described as “agile”:
+Processes and tools over individuals and interactions;
+Comprehensive Jira ticket comments and constantly-revised Confluence pages over working software;
+Customer interaction via a hierarchy of managers, analysts, and formal processes rather than collaboration with software engineers to build software that works;
+Endless changes due to lack of any planning or foresight.
+It should be self-evident why people might dislike that kind of “agile.”
+Footnotes
+[1] Manifesto for Agile Software Development"
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Ray Gardener,Worked in several software firms,N/A,7,"I honestly can't think of anything Agile adds that improves software development.
+Sprints? But everyone is already working diligently. If anyone isn't, it'll be noticed and dealt with. Code review sniffs em out.
+Standups? 99% of my coworkers don't need to know what I'm doing and vice versa. And for the rest, we have email/chat/etc. If a more global issue arises (e.g. I had to refactor a library) then there's email and maybe a meeting.
+Task management? We're already using a database, maybe even JIRA. They've been around since forever.
+User stories? We already have those, we call them specs.
+Sprint retrospectives? We already adopt best practices and drop bad practices. I got an email yesterday from John about this awesome Youtube video describing how to optimize something.
+Sprint planning? You mean task assignment? Yeah we already do that.
+Adapting to change? We already use loose coupling design patterns, they've been around forever too.
+CI/CD? That's not an Agile idea, everyone's been doing that too for eons.
+Tests? We've always had a QA department. We have test programs too. Nothing new there.
+But the most common reason is that Agile is abused or misimplemented. People before processes? Nope. Continual refactoring? No, no! Typical management thinking: Hmmm, I can hire a bunch of mediocre developers and Agile will make their productivity match good ones. Sorry, but that's not what it was about.
+Take ten good developers working without Agile, and another ten ordinary developers (or let's say eight ordinary and two good) using it. The first team will wipe the floor with the second. It won't even be close.
+If you want to boost productivity, it's very simple: train your developers. There's no substitute for skill."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Jaap Koop,Observer (1969–present),2023,1K,"‘A fool with a tool is still a fool.’
+I have no issues with Agile development per se. It is an SDLC that can work really well when applied ‘correctly’, and by the right organisations. With right organisations I mean development shops whose software products are their main asset.
+The issues I have with Agile development (and I will generalise):
+Applying the methodology to any software project without consideration of the scope of work, thinking along the lines ‘if it works for Google, it must work for us’ (did I tell you that I think that following Best Practices is just a lame excuse for not doing proper analysis?). But what if your project is an upgrade of your OS? What is the MVP here? One upgraded system?
+An SDLC should reflect the (product) risk associated with the project. Sometimes, Waterfall or iterative (or dare I mention Clean Room?) is simply more effective in mitigating risks. If I can choose what plane to board where the one says ‘My software is Agile developed’ and the other says ‘My software is Clean Room developed’, I know what plane I will board. Hint: it is not the first one.
+Once the burn rate for an Agile team is established, it is cumbersome to change a team. Consequently, it is harder for team members to grow and get promotion into a more senior role. In addition, there are less roles and all participants are expected to be generalists, rather than specialists.
+These are my personal observations, and they are generalisations."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Robyn Hood,Veteran job hunter,2022,2,"There are many answers to this question.
+But my biggest beef with Agile are
+Many shops labelling themselves as Agile but are in fact breaking fundamental Agile rules
+Great examples include no defined sprint start and sprint end. Product owner is the scrum master. And much more…
+Too much bastardized versions of doing what the customer wants and not enough of understanding of what the customer needs.
+I once raised a concern with Product that we’re taking “requirements” too literally with no analysis or taking account downstream implications. I compared the development practice to car manufacturing. I simply asked Product “If the customer never asked for brakes, would we still ship the car?” Blank stares said it all. Yes?
+Sprint items often ignore technical debt
+Because “it’s not what the customer wants” yet it chews up development time which is not reflected on the scrum board. Product will often tend not to yield priority until technical debt becomes grows too severe to ignore. And it’s not their fault. But it is a flaw in the process because they don’t feel the pain.
+In other words, preventive maintenance is ignored so it becomes manage by crisis which creates crisis."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Jos Buurman,Worked Agile/Lean since long before they became hype,2023,1,"The main reason people dislike agile is that it requires a transformation of the existing organisation.
+Far to often someone, be it a developer, manager or someone else, proposes “working agile” and starts to implement what is known as agile ways of working. Scrum, kanban, whatever.
+The problem these people face sooner or later is that the organisation is not attuned to working agile, which is in its core a culture and ingrained habits problem.
+An organisation exists to produce results, which is achieved by processes. Agile working does not stop this, but puts a different emphasis on the results and processes. It tells that processes can be improved, adjusted, and that results will improve because of this.
+While this might be true, the current process is likely the result of a large amount of past experience, experience that any agile transformation lacks.
+While the result of such a transformation might be better, this is because of the leaning experience in the transformation, and that learning experience takes time and effort. There will be resistance to such change, sometimes significant.
+Add to this that “agile” is likely introduced to “solve problems”.
+This is not the case. While the result of working agile might result in solving known current problems, it will also uncover many existing problems.
+For example, the last couple of years one of our teams started to collaborate a lot more by removing department boundaries. You would expect that the time to get from A to B would decrease.
+But we find that this depends a lot of which A to B we are talking about.
+Responding to changing markets? Huge improvement.
+Changing product propositions: not so much.
+The latter not because of the lack of collaboration, but where previously people could point to each other for not collaborating we now find that the process to change the proposition is not efficient.
+We solve A, only to find out that B was just as problematic, but never noticed because of A.
+You learn, but it does not result in faster delivery.
+Agile, done right, will just allow you to uncover these inefficiencies faster, but you still have to solve them.
+Last, and this is interesting, Agile might be too slow.
+Let’s assume a scrum setup with daily standup and sprint length of a week?
+What if we need to respond and adapt to changing circumstances (with competitive advantage) on daily or even hourly basis?
+Your PO + SM + dev team cannot respond in time, there is too much overhead.
+As final remark something which intrigued me.
+Someone made an assumption about the role of the (scrum) product owner.
+I responded with a deviating answer. The guy gets confused: that deviates from what my scrum exam told me. I told him to start reading the vision of those who developed scrum, it's out there… And goes far beyond what the exam will ask you.
+The problem here: assuming scrum/agile is something you can learn from books and is known when you pass the exam.
+That’s the kind of mindset which hinders agile, even more than a manager deciding that agile is the way forward because some consultant told him, or because that’s what everybody is doing…"
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Riley Claire,Software Test Engineer | Technophile | Blogger,2022,1,"The fact that software developers and employees' supervisors don't get the notion of agility is one of the main reasons why Both groups despise agile. They attempt to apply Agile principles in a structured way, which goes against the spirit of Agile, and they ultimately fall back on tried-and-true project management techniques.
+Their failure to comprehend the Agile Manifesto's guiding principles is to blame. They use structure and hierarchy that they are accustomed to through experience since they cannot understand the notion. This causes a work environment where employees feel like they are enslaved, which further distances them from teamwork and causes them to cooperate less frequently.
+Several things apply to other outside programmers:
+Agile Labels on the Same Old Stuff Being ""SOLD""
+Agile Uses ""Jargons"" Far Too Much
+Agile = End of Liberation
+The fallacy of programmers believing they are not competent enough
+The consultants for agile will choose their own schedules
+Programming in Doubles
+Lack of Senior Management Commitment to Agile
+Agile, according to programmers, mandates ""doing more with less"""
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,David Hayden,30 years of professional programming.,2021,6,"Agile is “software development as project managers want it done.” It solves one problem and creates another.
+The problem is solves is one where the software never gets finished, doesn’t work, doesn’t meet the customer’s needs, etc. These are real problems in some organizations and Agile will definitely solve them.
+The problem it creates is that it values code over design, and functionality over maintainability. The idea is to get it working and ship it out. Unfortunately, the real cost in software isn’t in the initial implementation but in the maintenance. If you don’t have a solid design and good design documentation then you’ll paint yourself into a corner is no time.
+I work in an organization that did “waterfall” development very successfully for many years. High level management came along and imposed Agile on us to solve a problem that we didn’t have."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Steve Manning,Software Engineering Manager (1996–present),2021,4,"By and large I dont think we hate agile. We hate agile ceremonies and realize that most of agile has nothing to do with programming software. If we were to stop pretending to do agile today all that means is that I wouldn’t have a standup tomorrow morning. I still write the same software.
+Just remember… agile isnt for the developers. Its for the people who care what the developers do."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Alex Osborne,Scrum,2016,6,"My take on this is:
+1. It doesn't lend it self well to people who want BRUF (Big requirements up front) and want detail estimates and a detailed plan before you start a project. Some stakeholders want this, this is not how Scrum/Agile works. People who say they hate Scrum tend to not understand the core differences between waterfall and agile enough to even debate it. In a lot of cases companies, teams and the like don't try hard enough with Agile. They do the practices and wonder why they aren't delivering?? Well, because attending some meetings and getting a white board doesn't go deep enough. Ask 100 teams what the principles of agile are and they stare at you blankly. Its all about continually refining the process, inspecting and adapting as you. Many teams that I've worked with in the past, once they've got the principles down, they just stay with it, even if the project changes, the context, the complexity and wonder why things aren't going well enough.
+From a stakeholder perspective I'd say this:
+1. Senior Management want to fix time, cost and quality and scope from the outset - this doesn't play well with emerging requirements and pivoting, hypothesis for change and small experiments to derive a good ROI. You need a good PO to help here.
+2. People get fixated on 'when' they finish, not 'why' the are doing it. Is there any business value? How many times I've had to say to Directors, ""what problem are you trying to solve?"" the solution they devised for themselves take 6 months and they've given me a deadline, tonnes of work and we could have given them 80% in 2 weeks. So, now I use the word 'no' lots...95% effort in understand the need, the opportunity or the perceived problem, then options analysis, then prioritisation, the theme, epic calve up, then start work on a solution that provides a good ROI with the least amount of effort. We add value 10 times in the year, not once, happy days.
+3. The scrum skeleton is an empirical process, so feedback is key. If your building a product/feature because your boss had an idea in the shower and it will take six months to build some perfect thingy bob, you've missed the point. When it bombs and he or she is unhappy and blames the team, well...Unless you have some kind of feedback early, how you could possibly know whether you are going in the right direction or now??? it just boggles the mind how waterfall every derived any value for anyone. NHS as an example.
+4. Most teams don't know how to manage expectations with estimates. Giving a fixed timeline is silly, especially if you are releasing features one at a time. High level estimates (wks) with tolerances is good enough and it will refine over time. See 'cone of uncertainty'. If you have an arbitrary date, start culling the low priority features.
+5. Some people in management hate agile because its implemented badly. Some hate it because they see no outputs/outcomes, due to poor prioritisation by the PO, some hate it because they have no idea what it means to use Scrum and don't care. Some dislike it because it disrupts the command and control behaviours of old, where the Project Manager knew everything, aggregated all information to themselves and passed out instruction to all team members. Personally, I am delighted that traditional project management has been disrupted. With Scrum its more of a shared efforts, the PM can't code so can't tell the developers what to do and the PO is more of a facilitator between the stakeholders and the team. Its has a better balance and all team member share in the effort, the wins and the failures. In stops team members parking their brains and waiting to be told what to do. It gets everyone more engaged.
+Personally, I think there is far more to gain from Agile than waterfall. The cost of change is lower, reduces contractual relationships between stakeholders and the team, embraces change and uncertainty, boosts collaboration and communication and in a good world, delivers shippable product once a sprint. The stakeholders feel more engaged, the team does and everyone is happy. I might be an idealist, but I've worked very hard over the last 5 years to make these things happen in team, across department/division. It can work with the right people in place. Good POs, good Scrum Masters/Agile Coaches/bright, enthusiastic and talented software developers."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Steve Seidel,Author has 3.1K answers and 2.5M answer views,N/A,0,"From my experience, developers are fine with Agile/Scrum. Why? Because estimates in the backlog are high level in nature. Detailed estimates are only used for sprint planning which is typically 2 weeks at a time.
+That said, there was a lot of hype around Agile and people eventually discovered that even for the best case scenarios, it wasn’t a magic bullet to make projects successful. Work doesn’t magically happen faster with Agile. If you ever want to see a real comedy show, watch an agile consultant explain the virtues of Agile to a company’s leadership."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Greg Beutler,26 yrs as a systems engineer,2021,1,"dunno , could be they have had a bad implementation
+or poor training, worked for us at the last 3 companies I worked at"
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Chuck Cobb,Agile Project Mgt Author and Instructor (Over 200K Students),2021,2,I don’t believe your supposition that “software developers hate Agile” is correct. There probably are some software developers who don’t like Agile because it imposes additional responsibilities and accountability on them beyond simply writing code. They have to take full responsibility for their own work and collaboratively work with a team of developers and business people to develop effective business solutions. Many developers see the increased responsibility and empowerment as very challenging and motivational bug some people just want to write code.
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Andre Simones,"Agile coach and trainer trying to put the ""agile"" back into agile.",2016,6,"Primary reason is the misuse, misunderstanding and horrible implementations of Agile. Many software developers look at it as management's excuse for more micro-management, which is exactly opposite of what Agile requires."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Mark Roberts,Former Software Development Manager,N/A,0,I suspect that Agile is used by fools to manage developers in the very manner which makes them least productive - constant pressure.
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Reed Wade,Visual Effects / Virtual Production Infrastructure-er,2015,1,"Clients can often not want it used because they are happier with an arrangement where a Microsoft Project style list of specific end results and costs is provided up front--often before the product is even designed. This doesn't ever go well but that's only found later.
+Government projects have this disease a lot but so do large organisations -- really any place where someone is unable to have the freedom to succeed.
+I haven't seen engineers not like it when it's done correctly. I can imagine being involved in a poorly organised or cargo cult style agile process would make people think the whole idea was bad. But even done incompletely, Agile can be quite nice for devs."
+https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum,Sayed Hajaj,Author has 945 answers and 2.3M answer views,2016,1,"Because instead of making a very complex thing perfectly, it focuses on making small things quickly to test out assumptions. They prefer to measure progress as how much they have done in terms of their spec where agile development measures progress as how many assumptions they are testing. Basically, they prefer to make a full, bug-less and clean-looking product even if no one wants it and don't like how agile or scrum development can often have bugs or not look perfect."
