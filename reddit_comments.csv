@@ -1,0 +1,1576 @@
+author,score,depth,comment
+theavatare,559,0,"Agile can’t die because is everything and nothing.
+
+But im seeing more upfront work done in projects and longer iterative cycles or just kanban style with releases"
+ninetofivedev,441,1,"This is correct. The ""service"" version of agile, which is what everyone refers to... is dying. Turns out hiring a bunch of college flunkies who spent 8 weeks getting a certificate certifying their ""Agile"" skills is all bullshit. Who could have seen that coming?
+
+Now if your company is like ""Hey, let's be flexible in our process, iterate on our product, deliver software bit by bit, and constantly try to improve our process and workflows""...
+
+Well, you'll have more success."
+diablo1128,107,2,">Now if your company is like ""Hey, let's be flexible in our process, iterate on our product, deliver software bit by bit, and constantly try to improve our process and workflows""...
+
+Isn't that what Agile is at it's core?  
+
+My understanding is how you get there is something that teams were suppose to define on their own.  That's because every team is different and has different needs from a process."
+xcrszy360,86,3,"It is..., the problem I think is the gap between principles and actual steps needed to get it implemented, that everybody has a different view on it
+
+Also, I think most people don't work well under uncertainty, and when you try to force push constant changes to these people, what you get is get is resistance, and low engagement"
+diablo1128,35,4,">Also, I think most people don't work well under uncertainty,
+
+This is definitely true from my experience.  This is not just in terms of process, but just general work.  I think I lucked out in this department because uncertainty doesn't bother me.  
+
+I have seen many SWEs get all flustered when they are giving some open ended task and are told to investigate, come up with a solution, and come back to them to discuss.  I love these tasks because I feel like I'm in control and get to come up with ideas to how I think things should happen.  If I'm wrong or miss things then I just take that as input moving forwards.  
+
+It seems like many SWEs I have worked with, from senior to junior, want clear tasks because they fear being wrong or something."
+ArcanePariah,40,5,"I think that's partially driven by fear from product/management, because those groups are even MORE fearful of uncertainty. So they seem to want to shift responsibility down to the engineers. Which might work except engineers are rarely given the power to make systemic change, so you get all the responsibility and consequence and no power to make things successful. Basically setup to fail. So engineers correctly want nothing to do with that, they want all the uncertainty removed BEFORE, so they can the deliver the certainty desired by management.
+
+How many times have we heard stories of engineers asked to make an estimate only for that estimate to either be taken as gospel/hard commitment, or instantly ignored in favor of whatever the deadline is, decreed from on high?"
+The_Krambambulist,5,6,">How many times have we heard stories of engineers asked to make an estimate only for that estimate to either be taken as gospel/hard commitment, or instantly ignored in favor of whatever the deadline is, decreed from on high?
+
+To add unto this, there is a lot less complaints if something takes less time than the other way around.
+
+A lot of incentives to either pad the estimate or get to a place where a decent estimate can be made.
+
+The deadline from above is just horrible, either results in shittier products or people working extreme overtime. Usually also with a lot more mistakes because people aren't well rested."
+diablo1128,-1,6,">I think that's partially driven by fear from product/management, because those groups are even MORE fearful of uncertainty.
+
+Again I think I lucked out in mental state because I don't really give a shit to a degree.  I can definitely see that fear of management being part of the problem.
+
+&#x200B;
+
+>So they seem to want to shift responsibility down to the engineers. Which might work except engineers are rarely given the power to make systemic change, so you get all the responsibility and consequence and no power to make things successful.
+
+What is the definition if successful here?  The perfect design or the solution to the problem management wants solved with a given set of constraints?
+
+I don't know, this is probably just me but I have no problem working with management to understand what they want to solve and the concerns they want to address.  I don't need to make the ""perfect"" software solution at the end of the day.
+
+It's like if I hired an architect to create plans for a house that I want to build.  I give them an overall idea of what I'm looking for, but don't know enough to know what is and is not possible. They do their thing and give me a preliminary design.
+
+I'll probably give comments say what I like and don't like about it and then ask for the feasibility of changes.  Granted my changes are probably more superficial, like I want a bigger room here or can we get more natural light in that room, as I see it as their job to figure out the structural and safety stuff.
+
+I've never built a house, but that's how I see it going in my mind, lol.
+
+&#x200B;
+
+>How many times have we heard stories of engineers asked to make an estimate only for that estimate to either be taken as gospel/hard commitment, or instantly ignored in favor of whatever the deadline is, decreed from on high?
+
+I just ignore all that shit.  If management wants to impose unreasonable deadline I just work normally and if the deadline passes then it is what it is.  I keep them up to date on progress and revise estimates as needed with reasons.
+
+If they choose to ignore them then I don't really care and it's not going to change how I work.  It's really never a surprise to anybody that we missed arbitrary deadlines since we communicate status constantly to set expectations. In my 15 YOE that has never been an issue.  Management knew the deadlines was arbitrary and was just happy things got done.
+
+Hell I remember one time a project was over a year late and they still had a company party celebrating victory.  Not one time they look to see why it was late.  They just kept setting arbitrary and unreasonable lines in the sand until things eventually got done.  Nobody on the SW team worked over time or killed themselves to get things done faster.
+
+I don't know if it's because I worked on safety critical medical devices at shitty non-tech companies in non-tech cities that this worked out for my 15 YOE.  I would not be surprised if somebody said this would never fly at a company like Google due to their significantly higher bar for employees."
+ArcanePariah,6,7,"> I worked on safety critical medical devices
+
+I think this is a key aspect to your experience. A lawsuit, or getting FDA approval yanked can be a death sentence to a company such as yours. Also FDA approval is critical, you don't get to just slap a new version out. Also, while there is competitive pressure, like any other industry, medical device and medical in general moves a lot slower. Other industries, being 6 months late means your competitor gets to bury you.
+
+Also, and I may be wildly mistaken, but how susceptible is your industry to being outsourced to some contractor in some random part of the world? I get a feeling it is less common, so there's less pressure to deliver by some deadline, lest you be laid off in favor of some offshore contractors."
+RougeDane,1,7,"> I just ignore all that shit. If management wants to impose unreasonable deadline I just work normally and if the deadline passes then it is what it is.
+
+I love deadlines - I like the wooshing sound they make, as they pass by."
+ArcanePariah,1,8,"Yeah, in most cases, deadlines are amusing. However in certain industries, they are hard deadlines, as in, you will lose massive amounts of revenue for missing a release window (think holiday stuff), or you start suffering mega fines (things like GDPR compliance, or COPA compliance, etc.)"
+itsgreater9000,1,5,"> It seems like many SWEs I have worked with, from senior to junior, want clear tasks because they fear being wrong or something.
+
+I used to be like this, but after one too many run-ins with other devs looking to weasel a promotion in via management-by-ticket-output and not solving the given problem, paired with managers who have 0 interest in understanding the outcomes besides ""ticket moved right"" has caused me to not want to deal with the crap associated with unclear tickets.
+
+Also, I've worked at one place in a decade of experience where I had significant freedom, latitude, and support from management to learn, discover, and implement good solutions. Every other job has been ""yeah, but like, we needed it yesterday, where's the time machine at?"". So, it highly depends on the work environment I'm in. If I'm surrounded by a bunch of machiavellian developers and incompetent management, I will _always_ push back on significant ambiguity."
+Dx2TT,-1,5,"Half of the SWEs I deal with neither want to think nor make decisions and are literally punching a clock. They want spoon fed tasks they can slow roll and cash checks. At the same time, companies cannot figure out how to actually vet good candidates nor pay them appropriately, so we get a team of 2 terrible devs being carried by one average and one really good."
+diablo1128,1,6,">so we get a team of 2 terrible devs being carried by one average and one really good.
+
+I feel like that's every company I have worked at.  90% of the work is really done by a small subset of SWEs.  I'm not even saying the best SWEs on the team but the SWEs motivated to get things done."
+Butterflychunks,29,4,"We had this issue on my product. 80% of the engineers were < 2YOE and we struggled hard with agile. Basically turned into waterfall with sprints.
+
+Fast forward several years later, more senior talent enters and the juniors have more experience. We’re executing in a far more agile way than before.
+
+I think it does come down to experience. If you lack experience, the uncertainty is crushing. Once you have a few years under your belt, you understand that no matter the situation/uncertainty, you’re a few 1-pagers away from understanding the problem better and resolving the unknowns so it’s no big deal.
+
+So I think it’s more a product of the market being flooded with junior engineers."
+drslg,2,5,"> a few 1-pagers 
+
+Shudders in documentation that goes immediately out of date"
+Butterflychunks,2,6,"Rely on the docs to truth seek and develop a plan, then never look at those things again. Code is the only source of truth :))"
+CpnStumpy,2,5,"I feel like it's always flooded with junior engineers - people don't like the work, and until they do it a few years they don't know it. So they get the paper, get a job, work a couple years and be like ""Oh.. uh, sitting at a computer all day long every day is uh... No like it..."" So they leave and one less experienced engineer in the pool"
+Hog_enthusiast,38,4,"That gap exists because there are no principles of agile. The principles on paper are incredibly vague, and one of the core tenets is “disregard any of these principles if you need to”.  
+
+It’s like if I said “I’m founding a political movement on two principles, people always need to wear blue hats when they are inside, and people can decide whether or not to follow the first principle whenever they want with no repercussions”. What is the point?"
+Comfortable_Ask_102,11,5,Agile does have some [principles](https://agilemanifesto.org/principles.html) and a manifesto.
+Smallpaul,-6,5,"Liberal democracy:
+
+""Our government is based on the premise that we're going to have a strong constitution to protect people and provide stability. And also, that constitution is mutable.""
+
+It's a good thing, not a bad thing."
+Hog_enthusiast,8,6,"That’s not the same thing though. The constitution may be mutable but the belief in the constitution is not, and there’s a defined process for changing it. Agile is like if we said “here’s a the agile constitution, you can change literally everything in it even to the point of not having a constitution at all, and there’s no defined process for how you make those changes”."
+delphinius81,2,4,"You need to be iterating towards an ever clearly defined goal. If iteration is doing 90 degree turns every sprint you end up back where you started with no progress. That's frustrating and more a sign of poor management / product owners, and no one wants to put up with that for long."
+ninetofivedev,43,3,"Sure. That's what it's supposed to be. 
+
+But like most things, if it can be packaged up as a product or service and sold to the masses, it will be. Today, you can't talk agile without talking about a bunch of BS rituals that come along with it. Or worse, some completely bastardized version of it like SAFe. 
+
+Today if you join a company that is strict on agile usage, what you'll find is a bunch of bullshit ceremonies that everyone spends 80% of their work attending. Fuck all gets done. A bunch of people, who aren't your boss, act like they have decision making power. When their job is literally to hop on meetings all day and try and direct things they don't even understand.
+
+Some companies probably have success with Agile. But more often than not, those are companies that abandoned the ""service"" model and did things their own way."
+potatolicious,13,3,"Sure. Kind of. Depends on who you ask.
+
+The trick is that Agile is both a general approach to software development and also an extremely regimented process with a lot of arbitrary rituals.
+
+As originally proposed in the Agile Manifesto by Beck et al, Agile is mostly a philosophy and loose set of approaches.
+
+As actually implemented in-industry it became a funhouse mirror caricature of itself. One of the original tenets was ""Individuals and interactions over processes and tools""... and in practice there was/is an intense focus on processes and tools. So much so that you have certifications around it.
+
+Relatively few companies/groups practice Agile in the way that the original Manifesto proclaimed, many more follow the dogmatic version. So as to what Agile ""is"", you get into the age-old problem of whether something is defined by its theoretical ideal or its practical real-world use.
+
+\[edit\] Worth adding - since I think I'm coming off as pretty pro-Agile-Manifesto here is that the Manifesto is quite a vague document. It proffers a lot of principles and some general vague gesturing at solutions... This is the Agile leads so much to ""you're doing Agile wrong"" type accusations - because the document is so vague that you can project basically whatever you want on to it!"
+Schmittfried,1,4,"> also an extremely regimented process with a lot of arbitrary rituals.
+
+Such as? What exactly about reviewing your finished work, reflecting on the team and process, and planning the next iteration seems arbitrary to you?
+
+The only ritual I find redundant is the daily standup (with that frequency). "
+potatolicious,3,5,"> What exactly about reviewing your finished work, reflecting on the team and process, and planning the next iteration seems arbitrary to you?
+
+That's literally every type of product development, including non-Agile. The above description *literally can also describe waterfall*.
+
+""We have cycles of reflection and planning, followed by execution"" is literally how 95% of software is made.
+
+This is what I mean by the Manifesto being vague to the point of uselessness in general - it proffers platitudes that sound obviously good but also apply to many other schools of software production.
+
+The rituals that I'm talking about are the common manifestations of Agile that *aren't* also simply universal to every other type of development: backlogs, planning poker, stories, burndown/velocity, kanban, etc. These are concrete practices that are fairly unique to Agile, as opposed to simply being general practice across all schools of development."
+Schmittfried,1,6,"> That's literally every type of product development, including non-Agile. 
+
+So? What makes Scrum worse than those others then?
+
+>The above description literally can also describe waterfall.
+
+Not really. Waterfall typically doesn’t include short iterations with continuous reflection and improvements. That’s literally why it’s called waterfall.
+
+> ""We have cycles of reflection and planning, followed by execution"" is literally how 95% of software is made.
+
+Yes. The difference is waterfall does it at the end of the project whereas agile methods typically consider the project an ongoing stream of requirements and do these things in short intervals.
+
+Of course, everything works with cycles of planning, execution and reflection if you consider the trivial case of one big cycle, too.
+
+
+> backlogs
+
+How is that a ritual? How is it unique to Scrum/agile? And how is it arbitrary?
+
+>planning poker, stories
+
+Fair enough. Then again, they have their reasoning behind them. I don’t consider them completely arbitrary. 
+
+>burndown/velocity
+
+Measuring progress. What’s the problem? How is it unique to agile?
+
+>kanban
+
+That’s not a ritual, it’s a whole different method. I‘m not even sure if you’re criticizing agile as a vague concept, all agile methods or Scrum specifically at this point.
+
+> These are concrete practices that are fairly unique to Agile, as opposed to simply being general practice across all schools of development.
+
+Yes and for quite a few of them there are analogs in other methods. My point is: You‘re just enumerating stuff, not explaining why agile methods are so arbitrary and (I suppose) bad."
+robhanz,3,5,"The daily standup is *really* useful if you're trying to get as much stuff done as possible, and if you aren't pre-assigning tasks.
+
+Making sure that people aren't working on the same thing, and that anybody blocked (and using blocked in an *extremely* wide sense) gets unblocked ASAP makes the daily standup super helpful.
+
+It's used like that maybe 5% of the time. MAYBE.  Most of the time it's just a daily progress check, and that isn't helpful."
+Schmittfried,1,6,"I find the standup useful too, just not on a daily basis. But that may be because I was primarily in companies that struggled to package stories small enough that daily coordination made sense. "
+robhanz,1,4,"Any time someone says ""you're doing X wrong!"" they should be required to come up with *specific* things that aren't being done, and what should be done instead.
+
+Otherwise, STFU."
+Hog_enthusiast,7,3,"On paper, at its core, agile is nothing. But we don’t define things how they are on paper. The definition of a term is based on what people as a society use it to represent. So while the agile die hards may say Agile is flexible and whatever you want it to be, that isn’t really true. Because businesses, agile certification programs like SAFe, they all rigidly define agile to be a system of specific meetings. People use the word agile to represent those meetings and processes."
+Schmittfried,3,4,"No, you’re talking about Scrum and Safe. "
+Hog_enthusiast,5,5,Those are agile. When companies say they do agile that’s what they’re talking about. When people say they have agile certifications that’s what they’re talking about. When devs complain about agile that’s what they complain about. That overrules whether or not the agile nerds believe scrum is different than agile
+Schmittfried,1,6,"Kanban is also an agile method, to name a counter example.
+
+Regardless, I don’t see much to complain about with Scrum that wouldn’t be true with any other method as well. "
+Envect,0,6,"People misusing the term agile doesn't somehow invalidate the manifesto that lays out what, exactly, is agile. You'd do well to read it rather than call people nerds for having a more complete understanding of the topic."
+NUTTA_BUSTAH,3,7,"You are not wrong, but their point is that agile is no more a philosophy, but part of language, and it is describing completely wrong things. Same goes for many things in the tech space, DevOps coming to mind as the first thing. That was also a philosophy, and now it's just ""an infrastructure-focused engineer that wears 10 hats and hiring them is supposed to fix everything""."
+Hog_enthusiast,2,8,"Exactly. Using “well that’s not agile” as a response to legitimate complaints about the thing everyone refers to as “agile” is counterproductive and aggravating. The same people who say it isn’t agile will refer to it as agile, as long as it isn’t in the context of it being criticized."
+Izacus,1,7,"Words mean what people think they mean. And right now when people say ""agile"" they mean scrum ceremonies."
+Envect,1,8,"Well, I and many people like me think it means self-organizing teams. Why is your interpretation the correct one?"
+diablo1128,2,9,"While you and me hear Agile and think the manifesto.  The vast majority of people hear Agile and think Scrum.  It's not really a matter of who is right or wrong, but everyday nomenclature has resolved to Agile == scrum because that's what most companies are using as a process.
+
+The vast majority of SWEs don't care enough to internalize Agile and learn how it came to be.  They just blindly follow a process that companies call being Agile and complain to the internet along the way."
+xelah1,1,3,"> Isn't that what Agile is at it's core?
+
+I quite like the idea that it's like treating your work as a series of experiments: have a hypothesis that doing a certain thing in a certain way is valuable and technically sensible, do some small amount of work in that direction, and then validate that the hypothesis is correct....and do all of that in as short a loop as possible, over and over.
+
+Following that it's not enough to be iterative. Many fake-agile people iterate, trying to do a little step of their pre-determined plan at each iteration and/or doing nothing to validate it."
+Perfect_Temporary271,1,3,"""Doing Agile"" should die. Classifying ""Agile"" as a verb should die. 
+
+This is what the Mckinsey style consultancies who are leeches and pests to Software development do with their Scrum and SAFe BS.
+
+The real intention of Agile maifesto was to treat ""Agile"" as an Adverb - it qualifies ""how"" you do things. Like ""Be Agile in the way you work and deliver Software incrementally"".
+
+That can be Implemented in many different ways. 
+
+But just see the r/agile sub - it's infested with Scrum Masters, Agile coaches and POs who benefit from the Agile industrial complex and they have now fully invaded Software development - partly to be blamed on the Techies and Tech leaders for giving up the space and the influence so meekly. They are not going to give the control back to developers and development teams.
+
+But they can't hide their shit for long. There are already several movements gaining ground - like NoEstimates, Story Mapping etc. that are driven by develoeprs and self-driven techies and most of the Big tech companies don't do the Agile TM nonsense anyways. Let's see how the future turns out."
+darknyght00,-1,3,"Nope, that's what agile is at its core. The core of capital Agile is tool and process bloat that only benefits Agile coaching firms and the type of management that spends the two hours a day they aren't holding useless meetings and pestering ICs for updates jerking off over the latest Gallup survey results"
+Bullshit103,42,2,"lol I hate these fucking bootcamps. 
+
+My best friend did a Front End Developer bootcamp around 10months. Got his certification and can’t get a job because he still has no idea what an API is. It drives me bonkers. I hate how all these dumbass tech influencers have convinced people that coding is easy. 
+
+I love my best friend, but he’s not an engineer. He’s a salesman and that’s okay, they make a fuck ton of money too."
+orbtl,12,3,"You only get out what you put in.  IMO the boot camps are there to give you a base level knowledge of how coding works and how to do your own research to learn more with that fundamental knowledge you gained.  If you go and expect them to teach you everything you need to know you will not likely succeed.
+
+I went to a 3 month boot camp and got a job a month later.  But I spent every free moment I had doing more research to learn more stuff, reading docs, watching youtube vids, practicing leetcode problems etc"
+gHx4,3,4,"> *""If you go and expect them to teach you everything you need to know you will not likely succeed.""*
+
+The problem is that many bootcamps do sell themselves by convincing people to expect that. For example, by throwing around figures like post-camp employment rates."
+nzifnab,8,4,"One of our hires out of boot camp is a VERY solid junior, I've also seen some come out that were... missing some fundamentals or just couldn't complete a task for the life of them.
+
+It really depends on the individual and what you put into the boot camp. They can work, or they can be a waste of time if you aren't invested in it."
+TTCondoriano,3,5,"I've seen the same. One of the best engineers I've ever worked with was fresh out of a 12 Week boot camp.
+
+But also one of the most helpless engineers I've ever worked with was fresh out of a 12 week boot camp.
+
+There was a third I worked with who was also helpless after a boot camp but eventually became one of the best engineers I've ever worked with.
+
+I think it especially depends on the individual (and also the program). Also just because someone is weak at something today doesn't mean they can't grow."
+7HawksAnd,0,4,"I am certainly not Pro Bootcamp, but I do concede it’s largely because people conflate bootcamp with some sort of [Matrix Cheat Code](https://youtu.be/6vMO3XmNXe4?si=3LsjwD_RPsuqcMu1).
+
+Where bootcamp originates is the military, right? No one expects someone who just finished bootcamp to be able to be some seal team 6 operative taking out bin Laden in  40 minutes.
+
+All that’s to say, I agree with your sentiment that it’s just a quick crash course to jump start your education journey and not the end of it.
+
+If bootcamps were pedagogically sound, all the top schools would start ever CS student with a bootcamp instead of intro to CS."
+Ok-Yogurt2360,5,3,Bootcamps can be quite nice but they oversell themselves a lot. Bootcamps work when you already got the core skills needed to learn programming.
+nightzowl,5,3,If he is your best friend and you know the problem he has then why not explain to him what an API is or even send him a YouTube link explaining it?
+DeathVoxxxx,7,4,"A lot of bootcamp grads truly believe they are employable after, and won't care to listen to anyone telling them otherwise. Some guy I knew went to a bootcamp. When I found out, I reached out and tried to work my way towards gently letting them know they'll need more upskilling. He was pretty dismissive before I could get to that, so I let it be (wasn't gonna hassle him with unsolicited advice). He ended up not doing anything with the bootcamp."
+,1,3,I’ve seen CS majors come into the embedded industry and are completely clueless as to what a register is and how to read/mod/write and/or mask some bits. It’s like all they know is web oriented development. So it goes both ways and shows it’s about what you put in to it as well as the curriculum.
+theavatare,6,2,Might be the first time someone say i said something right on the internet so thanks! Only took like 25 years of use!
+dablya,5,2,">Now if your company is like ""Hey, let's be flexible in our process, iterate on our product, deliver software bit by bit, and constantly try to improve our process and workflows""...
+
+The problem is your company most likely isn't like that... If it was, it would've succeeded with agile or ""agile"". More likely your company is like ""We'll pretend to adopt a flexible process that allows us to iterate and deliver software bit by bit until that process fails to deliver on a 6 month project plan we committed to in advance. And then it's crunch time/do whatever it takes to deliver something that looks a little like delivery"""
+ninetofivedev,2,3,I’m not describing my company. I’m describing a lot of people’s companies.
+dablya,1,4,"My point is that you’re not, actually."
+aristarchusnull,1,2,But only if those are more than mere words....
+readynext1,1,2,I think a lot of companies interpreted agile as upper management can control the development process
+NightflowerFade,1,2,"What the hell are agile ""skills""? I'm no agile expert but all I've known of agile is putting cards in a jira board for each sprint."
+Nulibru,1,2,"I think the problem is you need technically good people who work well as a team to make it (2nd last paragraph) happen.
+
+And they'd probably do a decent job using any methodology.
+
+But if you have bad developers who are too busy playing politics agile won't fix it."
+ReflectionEquals,1,2,Convincing 20-50 people that this approach is good can be done. Convincing a large company where people are just in it for the pay check and benefits… that’s where agile fell down.
+Perfect_Temporary271,1,2,[https://safedelusion.com/](https://safedelusion.com/)
+_AndyJessop,19,1,"Do you mean ""scrum"" is dying? Projects with longer iterative cycles and kanban with releases is not incongruent with Agile."
+theavatare,7,2,"No my point is talking about agile these days is useless.
+
+Is better to just talk about a specific methodology and how it got adapted to a domain."
+jacobissimus,44,1,The real agile was the scrum inside us all along
+Infamous_Ruin6848,8,1,"Same here. We just do waterfally ""agile"" because we deliver embedded devices and kanban for the cloud tech. There's no reason to go full on agile."
+Hog_enthusiast,42,1,"Agile is basically just “what if we had a business methodology based on the no true Scotsman fallacy?”
+
+“I don’t like how agile forces you into meetings that waste your time”
+
+“Well actually agile is supposed to change based on your needs so that’s your fault, you’re just not doing agile correctly”
+
+“But every single place I’ve worked has implemented agile in basically the same way and it has the same issues and agile certifications are based on teaching people to do things the same way”
+
+“Nuh uh that’s actually not agile”
+
+
+If the definition of agile is just “when it works it’s agile and when it wastes your time it isn’t agile” then there’s no actual value to it."
+theavatare,23,2,"Agile was a reaction to a previous movement like CMM certification. But for real we need to stop saying the word agile and just talk about specific processes and its variants for different domains.
+
+Like web development for a e commerce should look different from and ai chat application on your phone"
+Schmittfried,-5,2,"> But every single place I’ve worked has implemented agile in basically the same way and it has the same issues
+
+I seriously doubt that. I’ve never seen it implemented the same as in a different company and I‘ve worked for 5 different companies. 
+
+> Agile is basically just “what if we had a business methodology based on the no true Scotsman fallacy?”
+
+Not really, no. "
+Neurotrace,4,1,Who could have forseen that stopping to think for a minute before committing code to file could be useful
+brazzy42,2,2,"Agile was a reaction to people stopping to think *for half a year* and producing hundreds of pages of detailed specifications before writing *any* code.
+
+Yes, people actually used to do that routinely. It did not work well. See https://en.m.wikipedia.org/wiki/Software_crisis"
+Neurotrace,1,3,"True. I think we just swung the pendulum too far the other direction. Just recently I got the opportunity to work on a project with, I think, the right balance. Planning time was about 3 days, execution time was about 4 weeks, we're scheduled to finish 1 day ahead of schedule. Previously this project got tossed to the side because it required planning for more than a couple of hours and wasn't expected to be done in 2 weeks. Absolute insanity in my opinion"
+tamasiaina,5,1,"In all my ""scrum"" teams I've worked on. It eventually devovled into Kanban style eventually because scrum was just too expensive with so many different ceremonies."
+MistryMachine3,8,1,"Yeah, what exactly is the alternative to Agile?  Waterfall?  Is there a company in the world still doing that for software?"
+ninetofivedev,43,2,"If it were simply ""do agile or do waterfall"", this would be the case. In reality, it's ""We're doing agile. We're doing scrum. We're having these 18 ceremonies. We plan with t-shirt sizes and points because that's what the cargo cult told us to do. Every 8-10 weeks, we spend a week pretending we're going to make a plan and stick to it, even if it doesn't make any sense. Week 1, our entire plan will be thwarted because some bullshit will take priority. We invite all our devs to all of our meetings because we need everyones input. Nothing seems to get done and our developers spend 20 hours a week in meetings, but we can't figure out the problem. Only certain people are allowed to move things into the current sprint. If you have something you think needs done, you can throw it in the backlog and you'll need to get like 16 people to agree to it before you can work on it.
+
+So yeah, I think there is something between that and waterfall.
+
+In other words, most teams would be better off having no ""framework"" than whatever that nonsense is."
+hubeh,3,3,"We've switched to poker chips now, clearly points and t-shirt sizes weren't fast enough."
+Schmittfried,8,3,"> We're having these 18 ceremonies
+
+What 18 ceremonies are prescribed by Scrum exactly?
+
+> Every 8-10 weeks, we spend a week pretending we're going to make a plan and stick to it, even if it doesn't make any sense.   
+
+Let’s not get into the „That is not agile“. How is that even Scrum?
+
+> Week 1, our entire plan will be thwarted because some bullshit will take priority. 
+
+Rash and chaotic management will produce bullshit with *any* project management methodology. How does this truth warrant cynism against the method rather than stupid management? I mean seriously, how is any method supposed to clear the bar of reigning in idiotic managers?"
+ninetofivedev,5,4,"Because it's bad more than it's good. The purist form isn't a methodology at all by being so vague, that it's not really useful. The other forms are solutions looking for problems.
+
+And because the majority of people have a bad experience with it, Agile becomes a meaningless term. Because who knows what level of top down management style you're getting that has been deemed ""Agile""."
+Schmittfried,4,5,">Because it's bad more than it's good. The purist form isn't a methodology at all by being so vague, that it's not really useful. 
+
+That’s why I didn’t talk about it. My questions, that you didn’t answer, were specifically about Scrum.
+
+>The other forms are solutions looking for problems.
+
+Projects incapable of reacting to change, years of development without deliverables, madeup deadlines and stuff like that are not problems that needed (and still need) solutions in your opinion?
+
+Scrum isn’t perfect at solving all of them, but it makes an effort to establish a structure that addresses all of them.
+>And because the majority of people have a bad experience with it
+
+Source?
+>Agile becomes a meaningless term. 
+That’s a non-sequitur. And again, I didn’t ask about Agile.
+
+>Because who knows what level of top down management style you're getting that has been deemed ""Agile"".
+
+Again, that’s criticism of bad management. Not of Scrum, and not of Agile."
+ninetofivedev,2,6,"Source: read the fucking comments on any agile related post on a dev subreddit
+
+Scrum is another meaningless term. 
+
+I’m not saying that people can’t figure shit out. They can. I’m saying most companies are top down driven, which means things either get whored out to agile consultants who will do whatever it takes to keep those billable hours rolling or some clown exec will start an entire organization for project management. And that org will be so disconnected from everything following their bullshit “teachings” from some other agile organization.
+
+The entire project management as a service industry has made this shit absolutely horrid."
+Swamplord42,2,7,"> read the fucking comments on any agile related post on a dev subreddit
+
+Most workplaces have some level of dysfunction  and no one is going on reddit to talk about the parts that are going well.
+
+On top of that, the entirety of scrum and Agile in general is about parts of the job that people don't like to begin with. A lot of people would rather do whatever they want (or not do any work at all if we're being honest). Agile/Scrum are about organizing how work is done, there will always be resistance to that."
+aristarchusnull,2,3,"This is the sad truth, I'm afraid. I've been in places that are relatively better at agile, and places that aren't. The place I'm at now is very much like what ninetofivedev describes. We've snuck in waterfall-like practices, such as due dates, without realizing they are anti-agile. We have this silly notion that story points are equivalent with time. We think we're doing a kind of scrumban, but it obviously isn't. We could be so much more efficient and agile, but we're not. No one seems to notice this but me."
+MistryMachine3,-6,3,"Agile doesn’t mean doing stupid shit.  Whatever you want to call your methodology, if you are being dumb it isn’t the methodology’s fault."
+ninetofivedev,8,4,"""Just not doing it right"" is the excuse as old as time."
+MistryMachine3,-3,5,The whole point of Agile is to modify it to get the job done and put productivity ahead of documentation.  If you are wasting developer time in meetings etc. that is not the methodology’s fault.
+ninetofivedev,10,6,"You're not the first person to say that, but you're denying how nearly all organizations operate. 
+
+Like I hear what you're saying. You're not saying anything new. That's not the reality of the situation. I'm not blaming the methodology. I'm saying that for some reason, there is a phenomena where despite all that, that's not what ends up happening."
+theavatare,5,2,We just need to stop using the word agile is not useful in conversation. What is more useful its the specific agile methodology being practiced and what domain.
+,3,2,[deleted]
+MistryMachine3,2,3,Waterfall is great when there are mostly knowns.  Works well for physical infrastructure.  Software is a moving target and the tech you will use in 2 years hasn’t been invented yet.
+Izacus,2,4,"Really? What kind of tech are you exactly using that hasn't been invented like 10 years ago? (React is 10 years old now, most common libraries and languages are nearing more like 20-30 year mark.)"
+,2,2,"We are. Tho, we specialize in critical sw, so niche case. And also, in many ways, it's a false dichotomy"
+_alber,1,2,my team does shape up and it's amazing
+khooke,1,2,I’ve worked on many large government projects recently that were strongly committed to waterfall development methodology.
+Double_A_92,1,2,Government contractors maybe that don't care about the product and just want to milk that sweet sweet tax money.
+MistryMachine3,6,3,I was a government contractor for a long time.  We certainly didn’t milk anything.  The jobs I have had in other sectors are waaaay less concerned about getting things done in a timely manner.
+Double_A_92,0,4,My point was more about the waterfall process that usually produces something that nobody wanted at the end...
+abrandis,1,1,"Kinda funny how before Agile came onto the scene people were building software ....Agile in its original form was about empowering developers, but then managers and the agile consulting cottage industry became a  thing and executives were giddy about seeing progress via dashboards the entire thing went to shit ...
+
+. We really don't need agile in the state it is today, building quality software is the same as it always has been, small talented motivated teams building well defined projects with minimal scope creep."
+ledouxx,1,1,Communism
+larsmaehlum,329,0,Right now most Agile companies are doing semi-waterfall with Jira.
+TextileWasp,88,1,wagile!
+enceladus71,22,2,"This term deserves its own logo. Something consisting of 2 parts, split vertically, perhaps with some water dripping because it's supposed to indicate the relationship with waterfall. And if we want to go crazy we can add something that indicates iterations like a shaft going back and forth."
+,10,3,[deleted]
+agumonkey,1,4,on point
+NUTTA_BUSTAH,0,3,Would probably work best in a black and white format or perhaps in a yellow tone.
+morphemass,9,2,"Ahhhh, yes - where the requirements are drip fed to the engineering team as POs think of them."
+Mortal_Crescendo,2,2,Fragile!
+Sensitive-Flatworm87,1,2,OMG you made my day.
+bulbishNYC,65,1,"Managers gets the best parts of agile and waterfall - can keep shifting priorities and requirements(we agile), and our engineers will need to deliver the above mess on waterfall timeline.
+
+Engineers get the uncertainty of agile AND deadlines."
+PoopsCodeAllTheTime,10,2,"Managers love it so they will keep implementing it. As long as engineers don't learn to hold leverage and keep competing amongst each other, we will lose."
+ZennerBlue,28,1,Iterative Waterfall
+Shnorkylutyun,21,2,Waterfall was always meant to be iterative. Just none of the business people bothered to look past the first slide...
+Convenient_Wisdom,6,3,"Iterative in what way? 
+AFAIK Waterfall was based on traditional engineering project management, which were planned beginning to end with phases like design finishing before implementation started. For example, building a bridge over a river - which you cant do iteratively."
+Antilock049,2,3,Gut reactions and gumption is all you'll get from a business degree tbh
+larsmaehlum,14,2,If it was only iterative.
+mjratchada,1,2,"Having done iterative waterfall, I would say Agile is nothing like that."
+keefemotif,19,1,"Everything is agile, everyone is an engineer, etc. I have had the worst experiences with waterfall shoved into agile shoes.  So many status meetings, jira tickets, kanban boards endlessly inflating a simple task to look big on some quarterly report."
+SkyPL,5,2,"Status meetings, jira tickets, kanban boards, were all born out of Scrum, not Waterfall.
+
+Waterfall requires *zero* meetings, boards or tickets, outside of those between the developers themselves. But it does require a technical specification to comply with. It's a kind of development that is done *very* rarely."
+keefemotif,3,3,"Real waterfall I've only ever seen on government contracts, with specific SLAs. It can be effective, if you've got the time and money to do it. 
+
+I'm a big proponent of rapid prototyping, small teams and largely informal meetings."
+SkyPL,2,4,"> Real waterfall I've only ever seen on government contracts, with specific SLAs. 
+
+Me too!"
+augburto,39,1,"1000% true. They'll even have all the ceremonies like demos and retros but when things come up that differ from original design (which is the entire point of agile -- to be able to catch these things ahead with stakeholders so you don't end up building something completely out of line with what is desired), rather than changing things and course correcting, they just say ""Fast follow"" and then never get to it lol"
+LearningAllTheTime,13,1,Scrumfall
+aristarchusnull,3,1,"Yes, that's right. I was astonished to read in my copy of _The Art of Agile Development_ that the authors explicitly tell you multiple times not to use anything like Jira."
+larsmaehlum,3,2,There’s a big difference between agile and Agile
+xdyldo,2,2,Why?
+aristarchusnull,2,3,"Because Jira et al. have features that are waterfall-like, and thereby encourage you to lose focus on the simplicity of agile and be anti-agile."
+xdyldo,2,4,It also has features that are agile as well? You don’t have to use all features
+aristarchusnull,2,5,"I suppose that the authors might say that having those non-agile features so readily available would make it easier to slip into anti-agile, especially if the corporate types up above were enamored with the waterfall-like reporting and so forth."
+whisperwrongwords,1,1,Yay scrumfall
+derpdelurk,1,1,Aqua scrum.
+jdlyga,175,0,"We're due for a ""protestant reformation"" of agile. Use the principles from the manifesto and work from there. There's so much cargo cult and overly prescriptive processes that don't necessarily work and actually violate many manifesto principles that we're due for a massive overhaul. The manifesto itself is great."
+espo619,52,1,"Yeah somehow my company adopted so much of ""agile"" and yet completely missed the intent of providing quick, iterative value to stakeholders"
+szank,29,2,"I struggle with ""value"". How can a team provide a value in a two week sprint if delivering any mid-sized feature on the backend takes 2 months?  And the work is hard serialised. Run db migration. Update the db access layer. Update the rpcs. Update the rest api. Run another db migration. Qa stuff. Update auxiliary processes."
+RockleyBob,11,3,">How can a team provide a value in a two week sprint
+
+Especially when your org defines ""value"" or ""done"" as ""delivered to the business"" aka ""in prod"". 
+
+If all developers at my organization had to do was hand code off to QA or a release team, we could easily get stories done in two weeks.
+
+But when we're pressured to provide estimates based on incomplete knowledge or assumptions about the capabilities of our infrastructure and support teams, or the delivery isn't clear because we haven't had a dedicated product owner, or we can't get decisions from architects or principals because they're stretched too thin, and then because of shifting requirements the devs couldn't give the testers a heads up on what to expect, so they twiddle their thumbs until the final few days when everyone hands them their stories all at once, and then there's a mad dash to complete the elaborate maze of change requests and you beg and plead and cajole and soothe enough egos to coordinate your database changes or get the security people to place your production credentials in the right file and hope that a million things fall into place but your production deployment goes tits up anyway so your story carries over to the next sprint - AGAIN, and during sprint review someone mentions your team's velocity is down and you imagine burn-
+
+Sorry, I blacked out. What were we saying?"
+Smallpaul,21,3,"You could break down the mid-sized feature into small features.
+
+You could figure out why running db migrations and updating db access layers are taking more than a day, and optimize those processes.
+
+You can put the feature behind a feature flag so QA can get to it in the next sprint.
+
+You can keep a facade to make the auxiliary processes happy until you update them in a later sprint.
+
+This is the work of agile: to figure out what in your processes are slowing you down and fix it."
+szank,5,4,"I've been in the industry for long enough to comfortably be an ""experienced dev"". I know all these things. I know the solutions. Unfortunately I am not running the show."
+Envect,2,5,"Agile is about letting teams self organize. If your company was adhering to agile principles, you *would* be empowered to change it. Agile is great when management trusts developers enough to actually do it."
+szank,1,6,"Somehow that place was pushing ""agile"" the most 🤷‍♂️. At this point agile is just a meme."
+Smallpaul,2,7,"""Agile"" is the right way to think about it. Scare quotes.
+
+The term Agile was coined by the people who wrote [this](https://agilemanifesto.org) and [this](https://agilemanifesto.org/principles.html). 
+
+If those are the things that the company were pushing, then I don't know why your builds take months. And if they weren't, then they just weren't pushing Agile, so why prioritize their lie over the truth?
+
+If we allow people to steal the name Agile for things at odds with those two documents then we'll just end up re-inventing Agile under another name in a year. Seems kind of a waste of time to me. Makes more sense to defend the name by reference to the canonical docs."
+szank,1,8,"This is what the company was pushing. Unless the devs were trying to enforce any kind of accountability against the non-devs. Then it was just silence and pushback.
+
+It was all about giving the dev team the support and trust to the dev team until the dev team flags a communication problem with the produc owners. The it's top down stfu and do what you are told (which is usually incoherent gibberish in the guise of requirements).
+
+But we had agile coaches!
+
+I don't work there anymore. Given the perennial discussions about failings of agile I see everywhere I've personally concluded that the management at large has captured agile and turned into a means of oppression and micromanagement.
+
+At some point it's time to look at how agile is being used in real life and not how it's is supported to be used."
+Smallpaul,2,9,"So if you don't think that these are good practices:
+
+[https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
+
+Then what do you think *are* good practices."
+Envect,0,7,People getting it wrong doesn't invalidate the tenets of the agile manifesto.
+szank,1,8,"You could say the same about communism.  It's not bad, just let *me* do it this time and it will be a paradise! It will work this time, I promise !
+
+If a good theory doesn't work in practice is it a good theory ?"
+Smallpaul,1,9,"But it DOES work well for the teams I've worked with.
+
+The people I work with know what Agile means, know what the documents say and practice its principles.
+
+At this company that you work for that pushes the word ""Agile"" the most, how often do you discuss the documents at this site?
+
+[https://agilemanifesto.org](https://agilemanifesto.org)
+
+[https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
+
+The difference between this and communism is:
+
+a) some people use agile and succeed with it
+
+b) the people who mess up communism are usually DEEP into communist theory and it's their implementation that's messed up. The people who mess up agile have generally not even read the Agile manifesto, despite the fact that it's so short."
+Marck112234,1,9,Right analogy but on the wrong system - 'Agile' is a mindset and a culture. The communism analogy should be applied to the BS like Scrum and SAFe - which is what many companies are doing nowadays - they don't have an Agile mindset or culture.
+szank,1,10,"Honest question. Why do you think agile has been so widely adopted and so widely butchered (scrum, safe and friends). Did we (as devs) asked for agile and let the management run with it ? Or was it destinies to be made a parody of itself by design?
+
+I've worked in a few high performing teams and we really didn't have all that much processes in place. Just enough so that management knew what's going on.
+
+I doubt we would be working differently if agile as a well published methodology never existed. On the other hand the dysfunctional teams would still be dysfunctional waterfall teams. At least we wouldn't have had waterfall coaches.
+
+So, why are we where we are ?
+
+If you ask me, agile was perfect excuse to push more responsibility on the developers without giving us more power, and it's the main reason it was adopted in the first place.
+
+I still stand with my opinion that agile is a methodology that promises great thing for perfect people. And terrible outcomes for real flawed people. Like communism .
+(Although I feel like I am pushing this analogy a bit too far now)."
+omgz0r,9,3,"The pressure of incremental delivery flags those latencies as dubious - why must it take 2 months, there must be a holdup somewhere and it is likely communication. Alternatively, there might be a slicing or MVP opportunity. Agile is big on “just barely good enough” - does your increment fit that?
+
+Things don’t change overnight - but now that is a smell that encourages someone to dig deeper, and likely lead to faster flow."
+szank,7,4,"Passing a new value from rest api to the db and returning it back to the rest api in a microservice setup takes 2 weeks. 80% of it is not dev time. 2weeks trying to wrangle out some answers to basic questions from the pm.
+1 week for the fe to use the new field.
+
+So I guess it's communication. 
+The thing is that when a ""simple change "" takes 5 weeks then the pm and the management are happy to blame the devs and don't want to hear about the real problems the devs are dealing with .
+
+Like bad product/project manager."
+omgz0r,8,5,"Perfect. We tackled this by ~~changing the definition of done~~ raising our bar for refinement to identify and supply these prerequisites. Why it was valuable… the engineering team had tons of work and was a bottleneck, and so any time work sits half complete it is bad, as you aren’t getting payoff for that work. So as part of refinement/estimating we required these things to be figured out. Talk about that a bit here: http://blog.con.rs/2024/05/08/shipping-software-jit.html
+
+We also switched to a spec first style design using Openapi so that we could iterate with the PM but block implementation until the interface made sense. It helped a ton with domain driven design and saved a lot of wasted effort."
+Slappehbag,5,6,"Half of my role as a consultant tech lead is to get teams to appreciate that thinking about the work ahead of time IS work. 
+
+Many engineers only pride themselves on their code output and struggle to engage properly in all the pre-work. 
+
+Product refinements, technical refinements, DDD, TDD, Spec first design, RFCS, ADRs, sequence diagrams, C4 diagram, state diagrams, ERDs, breaking down stories, mapping dependencies, roadmaps, story maps etc etc etc
+
+There are so many tools we have to accelerate work by just thinking about the next iteration beyond acceptance criteria but many teams naturally fall into a vague fence throwing between product and engineering. 
+
+I've been able to course correct this most times, but have also ended up the bane of both product and engineering and behavioural change can be glacial even with evidence. 🤷‍♂️🤷‍♂️
+
+
+... Sorry, had a bit of a mini rant there. Aha."
+omgz0r,2,7,I know the feel. I’ve actually been more or less shown the door more than once when folks simply aren’t willing to tackle the political winds. Local optimization can only do so much - they need to learn their Theory of Constraints :)
+szank,2,6,"I appreciate the response. On reflection I think that my initial rant was about a dysfunctional organisation where any change was met with a total apathy.
+
+You're making good points,  but trying to use spec first openapi design was met with resistance in my case for example. Both from devs and the management. Imagine that agreeing on the spec first and blocking the implementation did put some responsibilitity on the pm. That was deemed unacceptable. And half of the team did not see the point of doing it this way either, while it was a no brainer for the other half.
+
+Agile was not the problem it seems, but all my experience there was filtered through the agile workflow."
+omgz0r,1,7,"Yeah. This is where escalation or exit comes up. And most of the time, odds are it is going to be exit. A lot do the math and pick the familiar but miserable, avoiding either option.
+
+I made openapi more adoptable by using it as a POC for an internal service - standing up a github repo and a generated Swagger UI docs site and all. Then I’d use it during chats and it also helped that sdk, type generation, and validation generation happened “for free” (open source generators coupled with internally published npm module). People liked it and started using it. It still isn’t everywhere but now is clearly better and the friction of picking it up is minimized. Kind of a “platform engineering” approach."
+szank,1,8,"Yeah, but people need to actually like it. And some people (devs) there were dead set on not liking any kind of improvement no matter how many metrics you could come up with in favour for the improvement. 
+
+I did my share of platform engineering in the way you've described. Worked well in the teams that actually cared about good engineering."
+mjratchada,2,6,The issue seems more to be about lack of clarity of what needs to be done. That would make it more a case of Definition of ready to be pulled into the sprint. My issue with DoD and DoR it can lead to similar issues experienced with Waterfall and can go against agile principles.
+omgz0r,1,7,"You’re right - I totally meant that as opposed to “done” - thanks. Essentially, quality gates on the incoming work so it passes it before hitting eng."
+omgz0r,3,5,"Sorry to double reply, but forgot to add: talking about this stuff in terms of its impact helps bypass bad management - they end up having to justify why this won’t help save wasted effort, rather than just shooting it down in the moment because it wasn’t their idea. I use metrics and impact a lot for harder conversations like these - essentially try and keep the conversation as far away from the person’s identity/ego as possible."
+szank,4,6,"Oh I did. I just got a feeling that the middle management didn't really care.
+
+ For the record, the places where me and the team were delivering the most value quickly was not using any scrum methodologies, maybe kanban to track work.
+
+In the places I was ranting in the post above me and let's say half of the team had a really bad chemistry with the management/pm. The other half of the team did not give a damn about anything, total apathy when ""we"" were trying to improve anything."
+,1,5,">Passing a new value from rest api to the db and returning it back to the rest api in a microservice setup takes 2 weeks.
+
+This is my life, every day, all day, over and over and over.
+
+'Agile' has become a neverending rerun of the shit-show called corporate software development."
+mjratchada,1,5,That sounds like the requirement is not well defined or understood. That work should not enter a sprint until there is a clear vision for it.
+mjratchada,3,3,There is no stipulation on the length of a sprint. Delivering a piece of vaueable functionality in two months sounds quite a long time. Though if that is how long it takes then simply make your sprint 2 months or break down the work if that is possible.
+SkyPL,1,3,"> I struggle with ""value"". How can a team provide a value in a two week sprint
+
+Agile does not have any sprints. Agile does not have any X-week timeboxes.
+
+That's Scrum you're talking about. It's not Agile."
+Izacus,1,3,"That's kind of the issue with this - it's preached by people who do one type of thing (churn out web-ish type features) and then they sell it like it fits to all type of work, even when such work can take months.
+
+But that's a common problem with all the prescripivists that see their success in pushing their thing to as much people as possible."
+hubeh,1,2,Same here. 18 months ago they committed to a huge rebuild of basically the whole backend architecture. Nothing as yet has gone live and I'm not sure when it will. But we're doing standups everyday so we must be agile!
+aroras,27,1,"The issue is that the agile principles were commercialized.  Shops were set up to ""certify"" people in Scrum and other processes that claimed to adhere to the principles but missed the mark significantly.  Now there are people out there in the work force pushing bad ideas -- because their livelihood \_depends\_ on us adhering to bad ideas they are ""experts"" at
+
+I'm all for a return to principles -- but the minute it becomes commercialized again under a new brand name, the cycle will continue"
+,5,2,"Yes, and many of those people don't understand anything about software so have no context for applying their agile ideas. I was asked by someone newly hired as a agile manager ""what's a server?"""
+PoopsCodeAllTheTime,2,2,why hire a manager that has experience as an IC when you can hire a charismatic salesman with a certification for much less?
+TotallyNotUnkarPlutt,12,1,Now I just need to decide if I should post 95 theses to my companies door or just send them in a mass email.
+rwilcox,4,2,I love a good 500 year old reference
+rayfrankenstein,3,1,"Reformed Manifesto For Agile Software Development
+
+https://github.com/rayfrankenstein/reformed-agile-manifesto/blob/master/README.md"
+theavatare,2,2,"I feel like this manifesto is only good for one side of the team. Management needs predictability(i get it is hard and impossible in some cases) but switching to what works for engineers only devalues our role.  
+
+Instead of a manifesto i feel we are at a point we have enough engineering projects that we should have prescriptive examples of how to run things and that we should study them.
+
+Building software for a rocket booster cooling thingimajig go heavy waterfall.
+
+Doing consulting showing apps that integrate with llms. Just put them in prod without tests"
+acidw4sh,1,3,Why do managers need to exist? 
+Lgamezp,1,2,"I dont agree with writing code over plan. If you don't include someone who knows about the bussiness and you start coding it usually ends in rework.
+
+Maybe a different phrasing. Also, it starts to sound  anti-bussiness-people which wont help you sell it to them.
+
+They are the ones who pay, like it or not."
+rayfrankenstein,1,3,It’s very intentionally written in way that 97% of all business people will reject it.
+combatopera,3,1,"My first job used the extreme programming agile methodology with minor adjustments. It worked! A team of mostly graduates delivered good stuff, and as others have said, it's because we lived the process not just box-ticked. Since then I've seen agile rebranded a few times, and each time it gets more diluted to pacify the waterfall addicts. Most recently something called 'flow' which doesn't have any new ideas. The extreme programming website still exists, c2 wiki still exists, but certain individuals prioritise sucking up over adopting simple measures proven to work"
+Jestar342,2,1,https://agile2.net/
+robhanz,3,1,"The whole original scrum idea was basically:  ""You know how we work in the last few weeks of a project?  We seem to get a lot done.  Let's just do that all the time.""
+
+People who haven't worked like that can't see it.
+
+How do you work like that?  You focus on *done*.  You don't worry about who's assigned what, you grab the most important thing to do and *do it*.  If somebody is having issues and not making good enough progress, you work with them to figure it out or take the task, because you can't wait for them to figure it out.  You don't build out crazy infrastructure, you make sure stuff works and then improve if you need to and if you have the time.
+
+I've worked in those situations, and that's how I see scrum.
+
+That has nothing to do with 99% of scrum situations I've seen."
+,7,2,[deleted]
+robhanz,3,3,"I mean that in terms of workflow, not in terms of hours.
+
+Nobody can sustain that.
+
+Another thing that two-week increments does (that massive planning doesn't) is push to get something at least sort-of-working as quickly as possible.  I""m a huge believer in Gall's Law.  I just inherently don't trust something that's 80% done, and 0% functional.  I do trust something that has 80% of the functionality in place.
+
+Make it work, make it better."
+InfiniteMonorail,1,1,"The message is okay but manifestos feel like cults. They were really full of themselves, making a website that looks like some Jesus painting."
+IAmTrulyConfused42,1,1,"Dave Thomas told us this nearly 10 years ago
+
+https://youtu.be/a-BOSpxYJ9M?si=Pen8PE6UwXhkaIok"
+omgz0r,1,1,"I’m not convinced the core problem of Agile is the manifesto. I think the main problem is people  looking at only the process, and not understanding why the process works.  
+
+In other words, the problems with Agile aren’t going to read the new manifesto, either. So, you have to educate them - Retro is the place to adjust process, and you can use the core tenants and theories (TQM, Theory of Constraints, etc) to justify your adjustments. 
+
+If you can’t adjust your process incrementally then you aren’t doing Agile - try to escalate this as high as you can, with your risk increasing of being stuck with “””Agile””” if nobody in the chain understands it. Fortunately, in that case, you’re now a pro on advocating for optimizing flow and process for your next gig."
+TheophileEscargot,239,0,"No matter what they tell you it's[ a people problem](https://blog.codinghorror.com/no-matter-what-they-tell-you-its-a-people-problem/).
+
+Any methodology works mostly as well as the people implementing it. Are they doing it seriously, or just box-ticking, or trying to cater to delusions of senior managers. Waterfall done well is better than Agile done badly. Whatever replaces Agile will have the same problems."
+yolobastard1337,60,1,">As Weinberg said, *it's always a people problem*. If you aren't working with people you like, people you respect, people that challenge and inspire you-- then why not? What's stopping you?
+
+\*sob\*
+
+i wish i knew"
+gyroda,35,2,"Very much asking this question of myself today.
+
+I used to love my team. Then all the people who knew what they were doing left, now it feels like I'm handholding. I have been told to delegate more, but every time I give someone an inch of rope they find a way to turn it into a Gordian knot."
+Nulibru,1,3,"Low pay, or some other reason the good people left?
+
+And why are you still there? (only joking)"
+gyroda,1,4,"Pay isn't that high. Not terrible, but you can get higher. 
+
+A lot of them left to get promotions. I've managed to get promotions in part because these people leaving cleared the way - when we had an opening for senior dev there was no competition because he had taken a senior role elsewhere (I also applied for the job he took but didn't take it, he quit it a  year later). When the most recent couple left I was given a ""half"" promotion (increased pay and responsibilities, no new title) because they had to reshuffle people.
+
+Other than that, there's a few people employed here that I just don't get to work with closely anymore for various reasons."
+DuckDatum,8,2,">Whats stopping you?
+
+I’m 27 with two kids attending elementary, not even making it by paycheck to paycheck, 3yoe, 20k+ in non-student debt, already had a bankruptcy once, and I keep up on my countries current politics. Things are grim. I take what I can get, which happens to be $85,000 right now as a- idunno- data engineer turned fullstack devops, BE, and FE on a one man team."
+,9,3,"Those aren't stopping you though. If you were given an opportunity to work with a great team with decent pay you would take it right away. 
+
+What is stopping you from working with good people is that good people are hard to find. And even then they are burned out and hamstrung."
+TuataraTim,2,2,"Because you usually interview with only a smart part of the team you're joining. You don't always get a chance to talk to the jerk on the team. Or you'll talk to the manager that seems really nice and says all right things but winds up being a slave driver. It's a total crapshoot whenever you join a team. Unless everyone on the team is toxic, you might very well have a better chance waiting for the bag eggs to leave rather than roll the dice on another move."
+diablo1128,35,1,">Are they doing it seriously, or just box-ticking, or trying to cater to delusions of senior managers.
+
+Every place I've worked in my 15 YOE boiled down to this.  The majority of SWEs didn't care about the company process and just did the bare minimum to not be bothered by others.
+
+The SWEs who tried to take it seriously and point out issues / improvements were hushed by the majority for the most part.  They didn't want things to change because they knew what to do and didn't care more than that.  Changing process would create different work that they didn't care to learn since they were already comfortable with current process."
+Careful-Combination7,6,1,How do I solve for 'do you like the people you work with?' and the answer is no lol
+,1,2,[deleted]
+Careful-Combination7,3,3,Wish I were better at it not gonna lie
+last-cupcake-is-mine,19,1,"This is it. Agile, and all other project methodologies are only as effective as the people running and executing it."
+Hog_enthusiast,3,1,"The whole point of a business methodology IS to solve people problems. If agile isn’t doing the one thing it’s supposed to do and you have the same people problems as before, then it’s shitty. Sure the core problem is herding cats, but if I told you I had a solution to herding the cats and then you still couldn’t herd them, it’s not valid for me to say “well that’s just because you’re trying to herd cats”.
+
+A good business methodology should work, and it should work regardless of the people implementing it because it is just that good. Look at how book keeping operates. Imagine if your ability to keep financial records was dependent on your employees being good at accounting. It would be a nightmare. So we develop business practices that eliminate that variable and force all employees to be good at it. Agile claims to do the same thing with software development but it just doesn’t."
+soundwave86,3,1,"I agree with this.  Having talented people working in a transparent and merit-based environment will likely make any methodology work.  That is why I like Agile, because it champions transparency and adaptability, which tends to reward merit or at least helps expose things that can be improved upon.  As such, it limits gatekeeping, silos and propagation of bad top-down decisions.  Being transparent also implies being able to speak truth to authority when technical limitations make certain deliverables unrealistic, so that you are not devolving into box-ticking a doomed project.  Waterfall done well probably incorporates the most beneficial practices that Agile done well does.  Certain team dynamics just work, regardless of what you label it or how you try to formalize it.  On the flip side, certain team dynamics are not salvagable regardless of what methodology you are using.  Agile is just a tool that can be used well or poorly."
+kjmerf,1,1,I read the article anticipating an argument but all we really get is an assertion.
+fudginreddit,1,1,"Could not agree with this more. Im only 5 years deep, but in my experience, teams are held up by 1 or 2 extremely strong engineers (or management) while the rest are just ticking boxes and doing enough to not get fired. Not that I can blame anyone for that, I dont expect everyone to be obsessed with this shit like I am."
+Droi,0,1,"This is not a logical argument. You are claiming that the process doesn't matter at all. So if the process is ""go play sports outside instead of work"", it's still the people's fault for not delivering and good people would have somehow delivered working code as they do something else.
+
+Of course the process is important, of course some processes are inherently better than others - and good people makes the best of the situation regardless."
+,-6,1,"Agile and communism, always a people problem…"
+PhilosopherNo2640,-1,1,This is the answer.
+Hot-Hovercraft2676,99,0,Have worked in several companies all claimed they are agile. It turns out that you are the one that has to be agile. Allow unclear requirements and priorities but finish your work before the deadlines.
+KaleidoscopeLegal583,36,1,Thank you for encapsulating perfectly why agile is so popular with management.
+TheRealJamesHoffa,9,1,"Yeah they use all these productivity tools and tickets etc etc, but it all boils down to just tracking progress in my experience. Not actually being useful to the developer experience. There’s so much that goes unused and is instead replaced with daily/weekly meetings with way too many people who don’t need to be there. Asynchronous communication needs to catch on more."
+jeerabiscuit,4,1,"Oh boy if I did that, the manager and client would blow up the roof"
+Varrianda,29,0,"Agile started to become process over people(which is exactly what agile is NOT about). That’s, at least IMO, why it’s dying. It’s basically a bastardized version of what it used to be."
+SkyPL,1,1,"Process over people is the essence of Scrum, not Agile. People confound the two all too often."
+pydry,37,0,"It was never defined properly in the first place so I'm not sure what there is to ""die"" exactly?"
+,12,1,Exactly how can it die if it never really lived.
+arbitrarycivilian,2,2,*What is dead may never die*
+Chem0type,2,1,"It's a mindset that's well-defined in the manifesto. What's dying is the hype around it, and I think OP is talking about Scrum than Agile, two things that often get mistaken by the other but they're totally different concepts.
+
+Agile is simply:
+>We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+>
+>Individuals and interactions over processes and tools
+>
+>Working software over comprehensive documentation
+>
+>Customer collaboration over contract negotiation
+>
+>Responding to change over following a plan
+>
+>That is, while there is value in the items on the right, we value the items on the left more."
+pydry,6,2,"It blows my mind that you think that the principles you listed are well defined. 
+
+
+It's more of a lame rallying cry than a battle plan."
+Chem0type,-1,3,It's a mindset that offers you a quick way to make good decisions in a software development project.
+pydry,2,4,"Ive seen these very principles used to justify all sorts of bad decisions like not writing documentation and tests.
+
+
+I think there *is* a kind of mindset that leads to better software development but it's not described by any of those principles."
+Pure-Finance-5759,1,5,Where is a mindset that leads to better sw development described? Would appreciate a link or reference.
+soft_white_yosemite,1,1,They’re talking about “capital A” Agile. The thing that has become a huge certification industry. Not “agility” - the thing that a team and company IS when they prioritise some things over others
+pydry,1,2,Yes so am i
+SilentButDeadlySquid,50,0,"I was in a discussion group with some ""Architects"", this must have been like ten years ago, and one of them said ""I hate big A Agile. Little a agile I like quite a bit, but when everyone starts talking it up that's when it sucks.""
+
+It's like everything, it was a good idea, it became a religion.  Once you have a religion you need heretics and infidels. Anyone not doing the Agile dance the way your Priest-King thinks is right should be executed.
+
+We do this a lot.  I am sure other fields do too but I only know this one."
+rubizza,8,1,"The accountability of standup, the kanban board, and pointing/breaking down tasks are the vital parts of the framework for me. My first tech job was in an XP shop, so Scrum feels showy and overblown. 
+
+But I do love the pigs and chickens metaphor."
+rayfrankenstein,14,2,"> The accountability of the standup
+
+That’s some maximally toxic agile, right there."
+rubizza,2,3,"I guess. I’m thinking about my own accountability, though, not others’."
+soft_white_yosemite,2,2,Accountability for what? Are you not working during work hours?
+rubizza,2,3,"Do you think that a 1/2 hour standup would accomplish that? So no. Reporting progress every day gives me incentive to make progress every day. 
+
+Are these real questions? Do you not need to sometimes be accountable to yourself? That must be so nice, having a self that just does exactly what it’s ordered to. I’m not so fortunate."
+rayfrankenstein,1,4,"If you want to be accountable to yourself, then by all means write in a journal your goals for the day and measure your progress in the next entry.
+
+But I don't want to have to justify on a daily basis to the rest of the team and to a manager (who technically shouldn't even be at standup) ""yes, I didn't get yesterday's required daily quota of work done because I hit an unexpected rabbithole that required an entire unexpected day of reading docs."
+SilentButDeadlySquid,1,2,"That's fine, you should do what works for you but I have never worked anywhere with a standup that it wasn't a huge waste of time and never saw the value in it. 
+
+I would describe the way I do work as Agile-ish. I use a Kanban board, I break down works into tasks, I do work over iterations. I do this because it keeps me on track and it is also how I keep client's informed."
+rubizza,5,3,"My wife and I are both devs. We have a family standup now almost every day. It’s extremely useful (especially for getting recognition/awareness for things you did that might otherwise go unnoticed—which works well in relationships, but may also apply to the workplace). 
+
+We tried the kanban, but it didn’t move like it does when everyone is getting paid."
+SilentButDeadlySquid,1,4,Lol
+negativecarmafarma,1,1,"Why ""Architects"" in quotes?"
+SilentButDeadlySquid,2,2,"Lol, that's because when we talked in the group we always air quote ""Architects"". I doubt at the time any of us had that title, I know I never have, and I have build a lot of software from the nothing for a lot of different people.
+
+It was an interesting group and it was all put together by a tech recruiter. I ended up having to leave it because of other commitments and I wonder how long it went on but I never forgot the big A Agile thing."
+InfiniteMonorail,1,1,Have you seen the website? It looks like a Jesus painting.
+Hot-Profession4091,38,0,"Story time. 
+
+A _decade_ ago we were interviewing for a dev mgr. I asked everyone of them the same question, “Have you read the Manifesto?” All of them had “Agile” on their CVs. _None_ of them had read it. None. One guy even said, “I’ve been meaning to, but haven’t had the time.” I told him, “It’s on that poster behind you. You can read it on your way out.”"
+hippydipster,31,1,">“It’s on that poster behind you. You can read it on your way out.”
+
+lmao.  That's fantastic."
+Hot-Profession4091,15,2,"I was normally nicer than that, but that _particular_ guy had an ego and needed knocked down a peg."
+Pure-Finance-5759,1,1,"Having the privilege of a non-open landscape, non-hot desk office situation I’ll be hanging up the manifesto in my office! 💡🖼️"
+Hot-Profession4091,1,2,It was actually kind of really cute. My boss was so excited when he gave me that poster and asked “where we hanging it?”
+gk_instakilogram,43,0,"Kanban style all the way. Daily stand-ups and retrospectives are beneficial, but agile practices are declining because they have become confused and inconsistent. Despite the intentions of the manifesto and various coaches, there are constant contradictions and shifts in approach. For the sake of efficiency, I think it is good that it is declining, but it might resurge if the industry becomes complacent and stops prioritizing efficiency, as it once did."
+Spring0fLife,36,1,"I'm always puzzled when people say retros are beneficial. Any way of making them *actually* beneficial?
+
+In my experience it's always a repetition of the same structural issues. And a circlejerk of praising team collaboration or full sprint completion. Do you ever discuss anything apart from those in retros?"
+szank,38,2,And God forbid you address the real problem ! Shit subcontractors integrated into the team? Untouchable . Broken infra ? Nothing can be done about it. Shitty requirements from the PM ? Sacrilegious.
+FanoTheNoob,10,2,"In my experience, it depends on how the retros are structured, retros can be just a place to vent your frustrations out into the void with fellows devs, or a place where action items get created and followed up on throughout the week.
+
+Obviously you'd rather be in the kind of workplace that allows for the latter, but the former can also work as a way to build camaraderie if you're stuck in a place where actual change isn't possible."
+somesortofusername,2,3,"I'll go one step further and say that the griping and grieving that builds camaraderie _also_ is really valuable from the process improvement perspective. It forms a great starting point for discovering what's really bothering the team. An attitude of always looking for solutions in my experience makes retro discussions far too reasonable, since people are looking for problems that seem concrete, solveable, and a little too safe. Griping makes the necessary space for those problems that people are less sure about, seem insurmountable, but are honest. From there, the entire team can work together to try and validate, diagnose, fix or mitigate the issues, which is IMO a much more valuable use of the time together."
+FanoTheNoob,1,4,"You're definitely right.
+
+On the other hand, what I've also seen in some terrible adaptations of agile is that management and stakeholders always like to stick their noses in these retrospective sessions which are supposed to be for devs only, making it impossible for it to be a safe space to vent frustrations without fear of retaliation or repercussions."
+BlackCow,1,4,"Is it just me or is griping becoming less tolerated in our profession in recent years? I miss working with grumpy devs who knew what they were talking about, seems like most are just defeated and checked out now."
+Feroc,5,2,"I think you make them beneficial by giving the team the power to change things they don’t like. 
+
+I worked with teams who decided to switch from Scrum to Scrumban. Code reviews and branching strategies were changes in retros. We added rules and processes for our unbeloved support ticket work. And so on."
+nyanyabeans,3,2,"I've noticed retros are much better the more anonymized the feedback is, but also still relies on the team actually wanting things to improve/change.
+
+The least productive retros I've participated in have been retros where people have to announce their feedback adhoc, verbally, themselves. I think it puts people on the spot, and feels more like trash talking if you are critical. 
+
+Google doc where everyone types in long lists/exerpts? More anonymous, but your teammates can probably guess who's who based on writing style, or view edit history. 
+
+One of the best retros I've been in used a sticky note retro tool. The stickies were short, so it kept peoples feedback concise and therefore less identifiable. Lots of conversation elucidating details and asking questions."
+gk_instakilogram,1,2,"The way I prefer to handle it is to allow all team members time to add topics they want to discuss or issues that bothered them. Then, you can address the top three issues based on votes. When discussing these issues, create an action item based on team consensus, which can be a ticket with a description of how to address the issue. Additionally, you need to assign someone to work on it, typically decided by the manager. In the next retrospective, review the progress made on previously raised issues before creating a new list of current problems. You can also have a praise section to mention wins, but I personally don't think it's necessary. The focus should be on raising and addressing issues. Once you have actionable items that the team believes they can address, and these issues are revisited in stand-ups, it becomes easier to tackle structural problems. By keeping records of how often issues arise and who was responsible for addressing them, you can better quantify and manage these structural challenges. Rinse and repeat."
+Spring0fLife,5,3,"This only works if the said issues are related to something you could fix inside your team. I don't really see any benefits in spending 30-60 minutes per sprint on those, do you not have a dev chat to raise and tackle such things?
+
+And then, when it comes to actually blocking cross-team or even company-wide issues, they tend to come up every time and nothing can really be done about it."
+gk_instakilogram,2,4,"You just have to keep bringing it up. If it depends on other teams, mention it in the action item or ticket, ask them to address it, or at least create a record that it's on their plate. Keep following up and recording their responses. If no progress is made and it affects everyone on the team, escalate the issue and keep a record of the escalation. Ideally, all information and steps taken towards resolution should be added to one ticket, so everything is in one place. If nothing can be done, then you just have to live with these issues. Keep a record of how many times they come up and what has been affected by them."
+koreth,3,1,"> Daily stand-ups and retrospectives are beneficial
+
+I think if both of these things are true, it's a sign that the team's communication has room for improvement. Ideally, people shouldn't be waiting until the standup or the retro to identify blockers or point out process problems.
+
+Another reply talked about retros, so I'll do standups: a 15-minute daily standup meeting is 1.25 hours of meetings a week, but worse than a single meeting of that length because it's five interruptions instead of one. IMO it's usually possible to spend _much_ less time than that to communicate the things a standup is supposed to communicate.
+
+On a team of 6 people, a 15-minute daily standup would need to save you an average of at least 7.5 hours of engineering time every week to break even with its time cost. Emphasis on _average_: ""A couple months ago, our standup saved one of our engineers two days of work"" isn't breaking even."
+slicker_dd,2,1,Dailies and retros are like the biggest cancer of agile.
+BlackCow,3,2,I think the stress of needing to give a status report *every day* ends up hurting my productivity more than it helps.
+Feroc,0,2,It's cancer to plan the day and to change things that don't work?
+slicker_dd,1,3,"Yes.
+
+Dailies are basically micromanagement and retros are like talking to the police, anything you say can and will be used against you."
+Feroc,-1,4,"Who micromanages you in the dailies? The daily is a meeting from the developers for the developers. There is no manager who could manage you.
+
+The retrospective is also only for the Scrum team. If you are blaming people instead of working on issues, then that's a people issue and shows a major dysfunctionality in the team."
+,1,1,"My team was Kanban since formation for the last four years, and we were all happy and productive as could be. Company recently mandated that all teams start adhering to Scrum practices with ceremonies and two week sprints. Not a fan."
+LaintalAy,11,0,"Processes can’t replace people. Incompetence won’t be fixed by a process. 
+
+Also processes need to be adopted as a means to a specific goal. I’d say that if you have a software development team and adopts agile ‘just because’ the result won’t be great. 
+
+Agile and the agile manifesto provided a series of guidelines that if understood, make sense (remember, people over processes and all that). But this is seldom the case and people think that you are agile if you use Jira."
+bwainfweeze,2,1,"Graphs are for asking better questions, not answering them.
+
+Processes are for making people better, more responsible. 
+
+Any metric or process that fights those goals needs a time out. Either ban it outright, or (more realistically) relegate it to being used at infrequent intervals."
+PoopsCodeAllTheTime,1,1,"tbh the manifesto is just bad. None of its points are rules, it's all up for interpretation, this gives absolute power to the ruler and no one can tell him that the is implementing ""people over process"" the wrong way, because the manifesto is not giving any way of measuring the implementation thereof.
+
+It is a bible, it sounds great, every church says they know the true way of interpreting it and everyone else is going to hell."
+LaintalAy,1,2,"There is no silver bullet process that can be applied for every team and every product. The manifesto is just a compass with general instructions to where to go. That doesn’t make it bad, it is just reality."
+PoopsCodeAllTheTime,1,3,"It makes it bad for implementing a process!
+
+I mean, it MIGHT work in a communist-like organization where everyone has the same amount of decision power. After all it is a manifesto, lol!
+
+Jokes aside, REAL processes that are certifiable are not up for debate, when you are doing compliance with some ANSI standard or whatever, you are either doing it correctly or you aren't. 
+
+Of course, if I were selling a process-improvement plan for your organization, I would leave all the leverage to myself by never talking up points that would hold me accountable. So Scrum is born."
+LordRelix,25,0,"We went full Kanban. Just put cards in the board and we will move them along to complete features. Purely sprint based agile development should be used for junior teams in my opinion but more experienced teams? Just do kanban. Hell, we do trunk based development without problems if you have a kick ass team. 
+
+Agile ceremonies are a massive waste of time, and if the team can’t communicate well enough asynchronously then your team is busted."
+Feroc,3,1,"Though I also met quite a few people who think that Kanban is just the board and they pick the top item and that’s it. 
+
+While they ignore things like WIP limits, pull principles, right to left rule and retrospectives (even if they aren’t called that way)"
+SkyPL,0,2,"> WIP limits, pull principles, right to left rule and retrospectives
+
+Yes, because those are not a part of Kanban ([edit: ok, except pull principles]). They are not a part of Agile either.
+
+The *team* can agree *between themselves* to follow these practices, but by no means they are universal rules. They can also agree to make exceptions when needed."
+Feroc,0,3,"> es, because those are not a part of Kanban. They are not a part of Agile either.
+
+Retrospectives are part of agile:
+
+""At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ""
+
+This and all those parts are key elements of Kanban. If you are just saying ""we do Kanban, because we use the Kanban board in Jira"" that's as valuable as ""we do Scrum, because we use the Scrum board in Jira"".
+
+The whole point of Kanban is to visualize the work and to create a smooth workflow. That's why also Kanban comes with some rules.
+
+Of course the team can change the rules, you can also meet with friends to play baseball and change the rules. Though are you still playing baseball if you remove the ball and the bat?"
+SkyPL,1,4,"> Retrospectives are part of agile:
+
+That's not a retrospective though. Agile's ""team reflects"" is a broader, more lose *thing* than Scrum Guide's ""timeboxed"" ""Retrospective"". You could say that they're 95% the same, and 5% different.
+
+> This and all those parts are key elements of Kanban.
+
+They're really not. They are often used because they are a good practices, but Kanban doesn't *necessitate* any of that.
+
+Also, Kanban isn't just a one *thing,* it doesn't have a clearly defined framework, there's no ""Kanban Guide"" the same way there is the Scrum Guide."
+Feroc,1,5,"> That's not a retrospective though. Agile's ""team reflects"" is a broader, more lose thing than Scrum Guide's ""timeboxed"" ""Retrospective"". You could say that they're 95% the same, and 5% different.
+
+Retrospective is just a name and not automatically a ""sprint retrospective"". The name doesn't matter, the format doesn't matter. Reflecting things and changing things that don't work is what is important.
+
+> They're really not. Kanban as a process does not have stuff like pull principles. They are often used because they are a good practices, but Kanban doesn't necessitate any of that.
+
+Don't know how else to say it, but you are simply wrong. Especially the pull principle is probably one of the most important parts after the visualization.
+
+""Work is pulled as capacity permits, rather than work being pushed into the process when requested.""
+
+https://en.wikipedia.org/wiki/Kanban_(development)
+
+""Limiting the work that is allowed to enter the system also
+creates a continuous flow of work in which drawing or “pulling”
+work only happens if there is capacity.""
+
+https://kanban.university/wp-content/uploads/2023/04/The-Official-Kanban-Guide_A4.pdf
+
+""Kanban is a strategy for optimizing the flow of value through a process that uses a visual, pull-based system.""
+
+https://kanbanguides.org/english/
+
+Even in the automobil origins of Kanban it's a key element:
+
+""Work is pushed into the queue step and pulled into the process step.""
+
+https://en.wikipedia.org/wiki/Kanban"
+SkyPL,1,6,"> Retrospective is just a name 
+
+I disagree. Retrospective is a relatively clearly defined meeting in the Scrum Guide. In Venn Diagram Retro is inside Agile's Reflection.
+
+> pull principles
+
+Fair, you got me there."
+Feroc,1,7,"In the Scrum Guide it's the ""[Sprint Retrospective](https://scrumguides.org/scrum-guide.html#sprint-retrospective)"", because you look retrospectively at the sprint. A retrospective itself just means ""looking back"". You can do retrospectives for basically everything that happened in the past: software projects, sport events, your last gaming session, your last vacation or the last week, month, year of work.
+
+The goal is the same: See what worked and what didn't work and hopefully learn for the next time."
+SkyPL,2,1,"IMHO, fundamentally Kanban in much closer to being Agile than Scrum ever even pretended to be."
+Vasivid,1,1,"Very well said. This is the sober thinking and comparing the right things for value. The sad part is that so many implementations of either Kanban or Scrum end up with using Jira... I am biased here but this is why we have started Teamhood, there are so many issues with Kanban implementations among current top tools, that they bring false understanding of what is value and how to get that value. 
+
+Frameworks and methods become equalized with tools, which is absolutely the wrong order of things from the get go."
+,1,1,This is the best answer here. So true. 
+Franc000,10,0,"The main thing that is making agile dying is the problem that it serves a different purpose than upper management needs. 
+
+So in environments where the power balance is heavily skewed by upper management that do not know the purpose of agile, agile will die. For agile to thrive, it needs to be in an environment where the workers have more power in the balance, or the upper management is very well versed into the why devs need agile (very rare that upper management deeply understands the why.)
+
+Upper management needs predictability, because they are steering a huge ship, and it doesn't turn on a dime. So they need to see what is going to happen down the line to make decisions and steer the ship properly.
+
+Developers need adaptability because the customers don't know what they want, and the path to get there is not fully known. They do not necessarily know ahead of time how to get there. So they need to adapt on the fly. This is the purpose of working with an agile mindset.
+
+Predictability and adaptability are the sides of the same coin, or they are a spectrum. When you cannot adapt quickly, you need to predict to be able to thrive. When you cannot predict you need to adapt quickly to be able to thrive. If you cannot do either even god can't help you.
+
+So, upper management needs predictability, and devs needs adaptability. If the upper management has too much power and not enough wisdom, they will enforce their need down the line, forcing dev to not work with agility. 
+
+The middle management is the one that needs to translate the adaptability into predictability, and predictability into adaptability. If things don't work well (the upper management is not able to have the required visibility/predictable outcome to make their decisions, and devs are enforced to work in a predictable way (not agile/usually waterfall)), its because the middle management do not make the bridge properly. Assuming they are competent, it's usually because they are strong armed by upper management.
+
+/Rant"
+Altruistic_Brief_479,6,1,"Really well said. I'd also say that prioritizing predictability over adaptability on the dev team harms velocity. I've always liked to optimize for velocity and control the predictability problem with conservative estimates. Middle management isn't fun, but being able to keep upper management from messing with the dev team is key. It means staying up to date and understanding why they're taking the direction they are so you can tell good stories to get upper management to go away. And sometimes, it means reeling the dev team in from turning a bug fix ticket into a massive refactor."
+hippydipster,2,1,"> The main thing that is making agile dying is the problem that it serves a different purpose than upper management ~~needs~~ desire for control. 
+
+ftfy"
+Franc000,2,2,I'll allow it.
+TheChewyWaffles,8,0,"I think \*institutionalized\* Agile is dying - it's already apparent imo that feedback loops and solid delivery pipelines are among the best way to deliver customer value. This is simply the best way to deliver complex work (in the Cynefin model sense of the word).
+
+I think companies are going to view Scrum Masters and Agile Coaches as unnecessary overhead. There's already evidence of this happening post-COVID. I guess we'll see."
+bwainfweeze,10,1,"XP era Agile was a magic box where the management team had to trust the team to accomplish goals, to strive for professionalism under their own steam. I will go so far as to say that it was a form of organized labor.  Little clusters of XP people were effectively crypto-unionists. That's one of my hottest takes.
+
+Schwaber let the magic smoke out of that box, and I don't think I will ever be able to forgive him for it. His solutions are a pessimization of Agile, and all the levers and screws are management-facing instead of internally-facing. Scrum is more about institutionalized distrust of the devs. Treating us as dumb animals that need the lash  (an unrelenting sense of false urgency) to be useful and valuable. 
+
+He staged a counter-coup to put the old bosses back in charge and they couldn't be happier about it."
+TheChewyWaffles,7,2,Schwaber and let’s not forget others like Jeff Sutherland who need the temple of Agile (and especially Scrum) to remain standing in order to have a paycheck. I want to throw up in my mouth whenever I hear the phrase “good Scrum”. And mgmt in my company swallowed it hook line and sinker.
+Blues520,1,2,Well said! It's a way to create a false sense of urgency to manage devs. It's creates an vs them mentality where development is a commodity. The whole idea of team spirit and building an environment that fans the flames of the creative process is lost on these imbeciles.
+bwainfweeze,1,3,"I’m always trying to build team throughput at least enough to fight entropy, but I guess they don’t teach in MBA programs that software cycles will slow down without a countervailing force.  They just take for granted that of course we will do as many features this year as last. That is very much not a given in my experience.
+
+But the thing with doing things right the first time is nobody appreciates how hard it was."
+pathema,1,2,Ha! An actually experienced dev. Preach!
+bwainfweeze,2,3,"The worst part about Scrum is that I was happily trucking along, kicking ass and taking names on a Kanban project when I ran into my first Scrum sycophant. He was using bluster to cover up the fact that his team was all sizzle and no sausage. 
+
+I didn't use Scrum until my next project after that one. It's really all been downhill from there. Look how they massacred my boy."
+,1,2,Such wisdom. Love your hot take. 
+,8,0,"continue marble physical cats cow thought pen dog head outgoing
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev)*"
+timmytester2569,7,0,Kanban/XP is king. Scrum is a huge waste of time for small teams. Companies are just using it like waterfall with a Jira board. Gross. 🤮
+Fiskepudding,1,1,"This. Scrum sucks (most of the time).
+
+
+Kanban is great. Combined with Acceptance Tests and trunk based and ci/cd it is awesome. We also do standup (sucks slightly) and retros (hard to actually implement the outcomes), and a weekly roadmap/planning/pirority meeting (20 min, like a super light sprint planning at the epic level to sort the todo column)."
+fzammetti,7,0,"Agile isn't dying.
+
+It's just being turned into Enterprise Crap(tm).
+
+What I mean is you have a lot of companies proclaiming they're ""agile"", but what they're doing is building an insane amount of process and procedure around agile, making it as rigid as anything that came before, just in different ways.
+
+Developers are starting to WISH Agile would die as a result, but they're not really wishing for the death of Agile so much as the death of turning it into just another corporate abomination.
+
+Turns out, those in the C-suite don't actually like giving control to their underlings."
+aroras,25,0,People misunderstood Agile and never practiced it in the first place (spoiler alert: the thing you call Scrum probably does not adhere to Agile principles).  That bastardized version of Agile is dying (and should).  Real Agile is still beneficial and may reemerge under a new brand name in the future.  The principles still hold.
+caksters,17,1,"Agree. Many people equate doing waterfall type of planning in Jira and split work into 2 week sprints as Agile (Include ceremonies, story points etc) as Agile (note capital A).
+
+Agile has nothing to do with those. Being agile means to ship software quickly to get customer feedback and readjust what you are building to ensure it meets the expectations. Thus priority is not the process or tools, but to quickly ship code to the end user acknowledging it will not be perfect and will require iterations and adjustments.
+
+How you want to do this totally depends on the team. Most companies don’t practice agile because they don’t follow the most basic principle of shipping quickly and getting feedback. Minimising the feedback cycle as much as you can."
+NUTTA_BUSTAH,3,2,"To fix it a bit, quickly ship value, not just code. And to add, fail fast. If you know after the first iteration there is no saving the original idea for whatever reason, kill it and move on to the next project."
+_ak,3,1,"Yep. Agile as such is fairly abstract, but once you read the Agile Manifesto (most people doing Scrum that I met haven't, shockingly) and internalised it, it's easy to spot the projects that aren't agile."
+hippydipster,3,2,">  Agile as such is fairly abstract,
+
+It shouldn't be:
+
+1. Feedback loops: shorten them (ALL of them whether it's tests, or customer feedback or sales results)
+2. Experiments: do them
+3. Data collected from experiments: use it  (I find this needs to be said explicitly continually since people by habit go by gut rather than data)."
+Izacus,1,1,"It's funny how this no true scotsman fallacy appears in these conversations. If noone could implement the process correctly, it's kind of a crappily defined process innit? Just like an API which noone can use correctly is a horribly designed API.
+
+(Agile was, after all, designed by consultants to consult about it. Take from that what you will.)"
+aroras,1,2,"That's false. Uncommon does not equate to impossible. I've worked on teams that adhere to its tenets -- and it was great.    
+  
+Also, Agile was not designed by consultants...one flavor of ""agile"" was \_commercialized\_ by consultants who really have no clue how to do it right (because the practitioners often don't even have a background in software)"
+Izacus,1,3,"""Uncommon"" also can mean ""it's a lucky fluke"". If it fails most of the time, it's a bad approach. This goes for engineering, process and social solutions. Even if you've seen it work once or twice - I've also seen waterfall working amazingly a few times.
+
+>Also, Agile was not designed by consultants...one flavor of ""agile"" was \_commercialized\_ by consultants who really have no clue how to do it right (because the practitioners often don't even have a background in software)
+
+The manifesto was literally written for consulting gigs."
+aroras,1,4,"> ""Uncommon"" also can mean ""it's a lucky fluke""
+
+It wasn't a lucky fluke; we just had team members who took an active interest in the principles behind Agile.  Those team members read extensively on the subject and convinced the other team members to do the same.  They taught what they knew and recommended books so others caught up if they were new to the subject.
+
+Once you have a group that is reasonably knowledgable; then you can do it.  I suppose it  \_would\_ be extremely ""lucky"" if the team just ""happened"" to practice Agile without putting any effort into it...
+
+> The manifesto was literally written for consulting gigs
+
+This is just gross misunderstanding and oversimplification of what they are saying.  The principles of the manfiesto are applicable to software development processes, regardless of the terms of any participant's employment"
+Logical-Idea-1708,5,0,"Agile was never mainstream. It’s just people fail to acknowledge it.
+
+Agile is about being agile about requirement changes. What management fail to acknowledge is that agile requirement change also requires agile deadline change. You can’t change requirements while standing firm on delivery date. The whole pipeline needs to be agile.
+
+People need to realize all the red tape around design docs and RFCs is waterfall process, and that’s ok! What’s not ok is doing waterfall while calling it agile 😂"
+jakofranko,8,0,"I don’t think Agile is actually possible in publicly traded companies, because every quarter investors need a report, which means that at some point, somebody is going to ask “please give me an exact time you will deliver X”. This means that at some level of the organization, it doesn’t matter what your velocity is, hard times are required.
+
+All of the effort that goes into agile is meant to abstract real time estimates, and break down work into deliverable chunks. That’s why agile is always this mishmash of waterfall, fake story points, and lots of meetings. The good aspects are often better than old waterfall methods, but “pure Agile” is just not possible imo. If somebody is going to need a real deadline, then all the ceremonies are pointless, and I think people are starting to realize, and what you’re left with is something that’s not Agile."
+metaconcept,3,1,"That also applies if the software is made with a fixed price contract. Management want requirements upfront, accurate estimates, gantt charts and burn-down charts. Any user feedback that might change requirements need to go through a guantlet."
+jakofranko,1,2,100%
+SkyPL,1,2,"Fixed-price software is only possible to be accomplished in 2 scenarios:
+
+1. project has a fixed *technical* documentation, and the team that's left on its own to meet it, while said team also participated in the negotiations of the pricing and that team gets paid in line with that pricing (preferably: no money until project is completed).
+2. customer is accepting all of the down-scoping that the dev teams decides to be necessary in order to meet the budget."
+wearecyborg,1,1,"I was thinking along these lines based on my experience. Not sure if directly related to being publicly traded, although that makes sense.
+
+I had thought (in relation to my experience) that large and/or specific domain companies by their nature can't move so fast due to management processes. My company creates software in a heavily regulated and evolving domain for multiple clients. Each client will have a legal team and management that need to approve certain things, so sometimes we can have a ticket come in for a sprint and not even be signed off by legal. They sometimes want to launch a new product and tell us about the idea and a rough date, then don't even have a set of requirements until a month or so before the date.
+
+So my company using Agile makes no sense with this model. 
+
+All these companies heard about fast iterative start-ups and wanted to get on board, but have no understanding why they were able to iterate so fast."
+jakofranko,1,2,"Yeah it's similar for sure. The ""true Agile"" approach is actually supposed to protect you from that, because the tech team would not start a story until it is sufficiently refined, meaning requirements are in, definition is set, acceptance criteria is written, and the story is pointed. Only at that point would the technology team say ""ok, we should have that to you about X time based on our velocity."" I'm a huge fan of making your product team accountable for the work they're asking you to do, and not allowing the tech team to have to eat the cost of last-minute decisions.
+
+  
+But to your point, if the deadline can truly not be negotiated, then just drop all the ceremonies and get the work done, everything else is a hinderance. For these big companies, Agile is the new hotness even though it's like 20+ years old at this point."
+obscuresecurity,4,0,"SCRUM is rarely agile.
+
+The process has too many tricks and traps to be effective in many situations.  It needs the right situations and discipline to work, which rarely exist IMHO.
+
+Lighter weight agile processes can be done at smaller scales and with less support, Kanban for instance.  It's pretty hard to stop a team from using kanban, because they can still largely react like any other team, they just have internal processes to help various things and prevent various things.  None of which show up at the ""team API"" per-say.
+
+SCRUM is like a hard API break via sprints.   Once you understand this, agile as in what the C2 wiki promoted is much easier to sneak in the side door, and you often just look like ""Wow, that team is getting things done.""  Product Owner can often be synthesized if needed.  If it keeps the damn chickens out.... It may even be worth it.  Getting user feedback, as an engineer?  Depends on your firm.
+
+That's my view on agile.  Good agile is really good, but bad agile is possibly the worst clusterfuck known to man.  I will take waterfall first."
+SkyPL,1,1,"> SCRUM is rarely agile.
+
+I'm yet to see a Scrum project that would be agile. And I did see several Agile teams (typically doing Kanban or XP as their framework).
+
+Agile Scrum is like that mythical beast that all the Scrum proponents talk about, but noone ever seen."
+i_has_many_cs,4,0,Everything Works under perfect conditions/teams
+bwainfweeze,1,1,"""In theory, there is no difference between theory and practice."""
+i_has_many_cs,1,2,🤣
+questi0nmark2,4,0,"I think agile is not dying or going anywhere because so many core elements of its philosophy are now fully baked into software production. Shorter iterative cycles vs multi-year scoping and specs; CI/CD, some degree of Kanban (not least Kanban boards as a framework) and many smaller details and nuances.
+
+What I do think is changing is the deification of Scrum specifically. I've seen scrum done well, but extremely rarely and with pretty huge investment. Most implementations of scrum violate the agile philosophy. I think this has always been the case but there was a sense that if you didn't do scrum you were letting the side down, and that seems to be fading, because so much damage was done by poor implementations and a scrum certification industry with too many perverse incentives or inadequate filters.
+
+I've enjoyed working in Shape-up which doesn't describe itself as agile, but it is philosophically if you've actually dived into its literature and leading voices. I have then iterated over Shape Up to be true to agile principles, adding retros from scrum, and kanban, and we are currently iterating over cycles.
+
+I think dogmatism is generally a poor approach to any essentially facilitatory approaches, but as a way of thinking about process, I would say agile principles and design templates stand well the test of time. Agile techniques I think are more variable, and context dependent. I think it is fair to say that good teams are agile, whatever techniques they employ, while I also think that solid agile leadership and processes fosters better teams. The techniques are good starting points, but as skill based and above all intentional processes and frameworks, not as formulae. 
+
+The reverse of your point is also true, anyone who would approach agile techniques in dogmatic, inappropriate, anti-agile ways, would probably mess up any other approach or technique they embraced. Having said that, some agile artefacts are likely to reduce the cost of poor management, like short iterations, ci/cd, tdd, etc"
+bwainfweeze,4,1,"We all do at least half of eXtreme Programming now without even talking about it. Someone once asserted to me that Scrum cannot function without it and I think that's probably true. It's certainly been living rent free in my head for almost ten years.
+
+(The problem is not that Scrum needs support, it's that it pretends it doesn't. Pride goeth before a fall.)"
+questi0nmark2,1,2,"Yeah that's where I'm coming from. Even if the industry dumped the ""agile"" terminology and framework and never spoke of it again, I suspect core parts of its principles have been baked into software development for a long time to come. In 10 years or 20, maybe people will forget about agile, but the oldies amongst us, and those who like reading about the history of programming will recognise a bunch of ""common sense"" stuff as having first been introduced in eXtreme Programming, Scrum, Kanban, and agile manifesto and adjacent talks.
+
+A bit like not many programmers realise how much of modern programming patterns, tools and approaches were adopted from Smalltalk into the mainstream, from MVC to IDEs to the heart of OOP. Most people who use these concepts may not even have heard of Smalltalk or anything beside the name, yet so much of it's approach is baked in in so much of modern programming."
+SkyPL,1,2,"> The problem is not that Scrum needs support, it's that it pretends it doesn't.
+
+That's an *excellent* line!"
+Agilitis,11,0,"I think it’s just a matter of too many people confusing scrum with Agile. Agile really can’t die because all it says is: Look at what you are doing, and if something does not work, change it. 
+
+
+So if agile is dying means you are changing stuff so it better suits your company: you are being agile."
+Smallpaul,5,1,"Agile says a BIT more than you are giving it credit for.
+
+[https://agilemanifesto.org](https://agilemanifesto.org)"
+danknadoflex,7,0,I hope so.
+por-chris,7,0,"Agile principles are applied everywhere. Fast and short feedback cycles, iterative and incremental approach, adaptiv ways of working. For example continuous deployment and A/B testing are very much agile. Today it's a normal practice in many companies. Technology has enabled us and the ""baseline"" is simply more agile today than 10 years ago.
+
+Talking about it as a pure project management approach skews the discussion. It's also where most marketing happens.
+
+I'm just 10 years in the business, so my perspective is limited."
+mattgrave,7,0,"5 year startup, we ditched agile and do a kind of waterfall right now.
+
+Rarely we have any downside that waterfall is preached. At all."
+supyonamesjosh,1,1,"Startup waterfall seems fine?
+
+The problem with waterfall is its inflexibility. That is much less of a problem with fewer people."
+WJMazepas,3,0,"Look at the agile manifesto. Those rules/advices are still very much valid and good to implement on it. 
+
+
+One of the most important aspects of it is to let teams manage themselves and see what fits them and their use case.
+
+
+Most companies have a top to bottom way of implementing Scrum, even if it is not the ideal method for that team or project. 
+That's why Scrum shows problems in a lot of places. 
+
+
+Hell, there were places that even our JIRA board was dictated by the CEO because he wanted to, very occasionally, enter our board and see our progress. 
+But it was structured in a way that he better understood, not how we preferred. 
+
+
+Was that agile? No. But if any potential investors asked him if it was, he would proudly say that it was."
+metaphorm,3,0,"""Agile"" (note the capital A) isn't a software development methodology, it's a set of business management practices. 
+
+The kind of agile software development that was described in the original manifesto is also not a software development methodology, it's a set of perspectives that developers are encouraged to integrate into their own relationship with work and how they organize their time and attention. 
+
+So in that respect agile software development was never alive in the first place, and therefore can't die. To describe it such would be a category error. All of us, as working developers, can incorporate certain types of perspectives in to our decision making process, but that's as far as it needs to go. Use it pragmatically. 
+
+""Agile"" as sold to corporations was another productized management fad, like many others before it. It does seem to be well past its peak though that means we've still got several years to go before the lagging sclerotic BigCorps actually stop trying to do it by hiring ""Scrum Masters"" and ""Agile Coaches"" or whatever they're doing. I hope it dies sooner rather than later. This was a very bad thing for the industry."
+ConsulIncitatus,3,0,"Whenever given the choice, my dev teams stop using agile immediately and switch to kanban.  Put tickets in a prioritized queue and just leave them alone.  Let non-devs determine after which ticket we cut a release.
+
+That works if you have a high performing team who doesn't procrastinate and has earned trust.  Scrum is a punishment."
+CNDW,3,0,"We recently had ""Agile Training"" for our entire department + Product. It felt like a gigantic waste of time. I don't think it will have any substantive impact on any of our product processes since we were already following an ""agile"" process. The whole thing felt like a racket, cooked up to convince high level executives to fork over cash.
+
+I'm also very cynical about process, it really boils down to people management and there is no one size fits all methodology."
+ancientweasel,3,0,"IMO, no. Just the garbage scaled frAgile versions dreamed up as manager porn."
+tugs_cub,3,0,"I don’t know why people even bother to talk about big-A Agile a lot of the time. I’ve never had an experience with it (or with whatever name brand version) where it didn’t end up getting bent and hammered into a shape that fit better with what management really wanted to see. There are plenty of things that came out of Agile - the quick feedback cycles, the tools to support that - that make a lot of sense, at least in appropriate domains, and aren’t going anywhere. There’s obviously a lot of bullshit attached, too."
+remington_noiseless,3,0,"One of the problems with agile is that it takes power from management and gives it to the people who do the work. That's why so few places do agile based on the manifesto.
+
+Instead scrum is more prevalent because managers love having the daily standups to micromanage people and can track everything that people are doing every day."
+Agent666-Omega,3,0,"I have seen agile work well and you are right, it works well on fantastic team. Like any process, you need everyone's buy in. I think the problem with agile philosophy and scrum is that it is treated like a panacea, thrown in haphazardly and hope that it works.
+
+If you are using a process that needs everyone to buy in to it, that means when it comes to compensation/promotion and performance reviews has to be tied to it in some way or form. YMMV but there are companies who practice agile and have ICs who don't take it seriously enough and managers who don't take it seriously enough. And they get away with it. I'm sorry, process isn't a thing you just do. Process is part of the job and if it is part of the job, it needs to be scrutinized. But because it is not, because people don't understand it properly and because people know they can get away with not taking it seriously, agile/scrum ends up being more performative than effective leaving that impression that a lot of engineers have for it."
+jonmitz,11,0,"the alternative is waterfall. Go try that out with software, let us know how that goes (it won’t)"
+tdatas,14,1,"Same story there though. For a skilled developer waterfall will still probably work fine because people will anticipate and deal with needs outside of what ""the framework"" says. Especially for projects that aren't websites where you aren't so easily able to break it down in to ""change this button colour"" ""do this bit"" etc etc. The fact it was used before agile implies that a lot of stuff was successfully built with Waterfall methodologies so there must've been some way people made it work.
+
+A lot of non-trivial projects and/or mission critical software you can't just wing it/""iterate"" as you're going along, you \*\*have\*\* to spec and plan things quite extensively upfront anyway and build a load of things that a customer will never use and will only use indirectly (e.g a DBMS system). At the point where you're spending a sprint or two in planning/design what stops anyone accusing you of doing waterfall?"
+pemungkah,15,2,Many projects at NASA were waterfall and succeeded fine. Voyager is certainly an example.
+tdatas,6,3,"""Ok we descoped the navigation for now, we probably won't need that till a later release anyway, not flying into the sun is a non functional requirement so how many sprints can we push that back?"""
+daedalus_structure,14,1,"Waterfall works as well as anything else, and misses deadlines and costs just like everything else, it just requires planning which most people don’t want to do.
+
+Go do fixed price contracting and agree on Agile and see how quickly undefined scope at time of signing makes that a horrible deal."
+Potato-Engineer,2,2,"""Plans are useless, but planning is invaluable.""
+
+If you've done the planning, then you have at least half of a Plan B that you can scrape together from the ruins of Plan A. If you didn't do any planning, then you're fumbling much more."
+Solrax,11,1,"Probably 90% of the people here have never done waterfall, and so when they badmouth it they are just echoing what their ""Agile Coaches"" taught them.
+
+I was in Agile training once and the trainer said ""it is impossible to write good software without Agile"" I raised my hand and said ""excuse me, I worked for a number of companies that made hundreds of millions of dollars on very successful software long before Agile existed"". I was unpopular with that trainer for the rest of the course.  But the problem is more junior engineers would have just absorbed that ""fact"" as truth, because they don't know better."
+brolybackshots,5,2,"My real question here is, what the fuck is an agile ""coach"" and why were u being trained by one of these fraudsters lol"
+Solrax,1,3,"You think that's bad, I recently interviewed for a Principal role that they decided mid-way should really be a Team Lead. Interviewed with 10 people (most I've ever had), and finally the last person I interviewed with, right after their Director was... wait for it... their Scrum Master. They apparently wanted to make sure I would be fully on board with and help facilitate their Agile Transformation. It would seem I did not exhibit enough enthusiasm for Agile and was not offered the job, despite acing all the technical interviews. I had already decided I would turn it down if offered, and having to pass muster with the Scrum master was the reddest of red flags."
+Izacus,1,3,"Well, agile coach is a guy that spews out bullshit like ""the only other option is waterfall"" ;)"
+TheBrawlersOfficial,24,1,"What do you mean? It's simple, just take this 200 page spec I wrote and go build it - see you in 2 years, I'm sure it'll be exactly what I was expecting!"
+,9,1,"Maybe an unpopular opinion, but for small projects, waterfall generally works better than agile."
+Altruistic_Brief_479,2,2,"Waterfall works perfectly fine as long as the customer knows what they want, you know what the customer wants, and it's unlikely to change. It's actually cheaper than agile in these cases because the quick releases can add quite a bit of overhead.
+
+Agile is industry's response to the fact that rarely are those conditions true in software. The rapid feedback was meant to allow course correction before going too far down the wrong path, and preventing expensive redesigns. Agile is only cheaper if customer needs change. 
+
+I think the pushback on Agile is probably closer to pushback on scrum. Or at least to me, if feels like people were expecting Agile to come in and reduce cost significantly and it was going to radically transform companies. At first, customers get happy because people take their feedback and pivot. When they get stuck with the overrun cost because they changed their mind 40 times, they get less so and the money dries up and they get stuck with half of what they originally wanted. Or the company ends up footing the rest of the bill."
+PhilosopherNo2640,6,1,I've worked on waterfall projects that went fine.  A strong team can overcome a questionable methodology.   A weak team will struggle with any methodology.
+Potato-Engineer,19,1,Waterfall was always a non-existent counter-example. No project has ever been perfectly waterfall. No project has ever been perfectly agile. Reality is always somewhere between the two theoretical extremes. Even waterfall projects pivot.
+tonjohn,5,1,It’s not one or the other - there are infinite alternatives.
+Awric,2,1,"My company has small waterfalls, I think. We spend 2 weeks planning everything for the next 5 weeks and have minor adjustments to the design throughout.
+
+I kinda wish we had a ~~scrum master~~ technical program manager to enforce the book keeping honestly. Sometimes key information between backend and frontend isn’t communicated because one side assumes the other doesn’t need to be in the loop for some things, even if it touches the API contract (which is wild to me)"
+Resident-Trouble-574,2,1,"Or the V-model. Or the spiral model, that is still iterative, but tend to improve the whole project at each iteration."
+thodgson,1,1,"The corp I work for dropped Scrum for Agile because leadership wanted deadlines and to dictate when user stories and bugs had to be completed by.  
+
+After 7 months, it's awful.  No visibility into process.  Poor communication.  Loads of overtime."
+Mtsukino,1,1,"ugh, i hate waterfall so much."
+siege_meister,1,1,They call it SAFe now
+SkyPL,1,1,"There are multiple other alternatives than waterfall. Eg. Scrum, Rapid, Chaos, etc.
+
+Also, there's nothing wrong with waterfall, if applied to a correct type of projects. The stupid mistake people made in the past was trying to apply it *everywhere*, just like right now people are trying to apply Scrum *everywhere.*"
+reddit_trev,2,0,"> …apply Agile…
+
+The phrasing of much of your post suggests your only experience of ""agile"" has been Agile™, some kind of prescriptive process teams follow. 
+
+This is most teams experience of agile and is mostly why everyone hates it. 
+
+The original philosophy behind agile is that engineers and real users work directly together to produce working software in small iterations.
+
+The other key philosophy is that the team chooses and runs its own process and adapts it over time as they see fit. There are, of course, a whole load of techniques and disciplines teams can pick from. 
+
+This is not the same as most organisations adoption of scrum, which is to break a fairly waterfall project into 2 week chunks under the watchful eye of a project manager (who may be called a project manager, product manager, product owner, scrum master, etc but is still performing the role of project management)."
+Lower_Sun_7354,2,0,"Idk.  I think agile is what you make it.  When it driven by the devs who use it, it's fine.  When it's driven by upper management to keep tabs on their employees, *coughs in micromanagement*, it kinda sucks a lot."
+jeerabiscuit,2,0,Fsck no it's being replaced scaled fragile with hard deadlines in advance. Let's break software!
+andymaclean19,2,0,"As with everything you have to take the good, throw out the bad and tailor it to your own needs.  There are good ideas in there but it is not a set of rules that you can just follow and automatically be successful.  It never was."
+El_Gato_Gigante,2,0,"The core problem is almost always management.  It's easier to bring in scrum coaches to passive aggressively blame devs than admit that what they do day-to-day is not working.  These processes are easily toppled by endless meetings, constant fire drills, devs as tier 1 support, and overall lack of investment."
+hippydipster,2,0,"It should be a requirement before writing any post about ""agile"":
+
+Define what you mean by it."
+bwainfweeze,3,1,"I think it's safe to say that in many cases when we have an anti-agile post we are talking about second hand agile - whatever amorphous blob of confused ideas came to management through a sad game of Telephone. Semantic Dilution means that it doesn't matter what Platonic Ideal of an idea exists because we are never going to experience it. We just have the vocational version and we have to deal with the consequences of that.
+
+And as one mentor who actually wrote books on the subject observed, sometimes people think they are doing Agile but they are doing Lean, and [the cognitive dissonance] makes things turn out poorly."
+hippydipster,2,2,"> Semantic Dilution means that it doesn't matter what Platonic Ideal of an idea exists because we are never going to experience it. 
+
+Not with that attitude!  
+
+The important part of agile isn't the what and how of the processes, but the whys and wherefores.  If you understand why, then the platonic ideal isn't hard to recreate for oneself.  Agile grew out of solving a problem, which was ""we have to build some software, but we don't really know what that software is - we tried specifying everything up front, but we just ended up wasting time on things it turned out no one wanted""."
+slimscsi,2,0,"My opinion is that developing software is a bespoke process. And management would prefer it be assembly line. Programmers, being obsessed with efficiency, buy into the assembly line approach because logically, it “should” work. When money was cheap, things became blurry, because throwing developers and process a problem “seemed to work”. Now investment is more scarce, and all of a sudden the existing methods that seemed good on paper are not withstanding reality under financial scrutiny."
+bwainfweeze,2,1,"I have to use a lot of my creativity and brain cells to make distinct processes and features look alike to my brain or others in order to get better at doing the class of things.
+
+Because here's the thing: I hate doing the same thing three times. The Rule of Three says I must accept it's true, but I'll be fucked if I'm going to do the same thing six times. As a programmer, I have the tools *and the mandate* to replace actual repetition with codification of a process. Developers who don't agree that this is the case drive me nuts, and there are at least 3 on every team.  
+
+So when I repeat an action I engage in team improvement (fix the problem). For *self* improvement I must look for tasks that are of a kind, so that I can compare and reflect on how it went this time and see if there are things I have improved since last time, or want to improve next time. 
+
+Though in saying that I think that's one argument for short tenure at companies. When you switch jobs you often do repeat the exact same tasks, and a task you haven't done for four years is not a very good feedback loop."
+Facelotion,2,0,"""The reality is that bad teams will never do true Agile or true scrum.""
+
+I am failing to see how this is Agile's problem."
+NotSoMagicalTrevor,2,0,I was doing agile before it was called Agile. And I'll keep doing it after people stop calling it Agile. The name is not important.
+IGotSkills,2,0,Oh I hope so. Agile is fine... It's fake agile that's terrible and unfortunately you can't have one without the other
+paulydee76,2,0,"If Agile dies, what replaces it?
+
+I don't know how old you are, but everyone who complains about Agile remember a time before it.
+
+Do we go back to Waterfall? Get requirements, spend a year designing, building and testing against those requirements, present it to the client, find out the requirements have completely changed, then rewrite the entire system in a couple of weeks? No thanks."
+Schmittfried,2,0,"No. And the negativity is because people like to complain (esp. online where it gets you karma or ad money) and because they need a scapegoat.
+
+Agile is here to stay. For most kinds of projects we are not going back to waterfall. It didn’t work for anything but the most strictly defined projects where lives are on the line and where the additional cost can be justified (like NASA). For most projects it’s just not an option to be stiff and *not* react allow for changing specs, which is all agile reallybis about.
+
+Scrum however, I don’t know. Specific methods come and go. But I don’t see anything particularly wrong with Scrum compared to most of the alternatives and it does quite some things right if implemented well (which is a requirement for all methods).
+
+All the „no true scottsman“ talk about it is nonsense. Yes, if a tool requires perfect humans, the tool sucks. The thing is, all tools suck in this domain. Some just suck less than others. Humans just suck with long running projects with ever changing specs.
+
+>But isn’t the promise of Agile to fix broken processes or teams. If I can’t apply Agile to one of the worst teams, and it doesn’t make it better. Then what is Agile actually doing.
+
+Name one methodology that doesn’t produce terrible results with a terrible team.
+
+Yes, useful tools need to produce good results with imperfect humans and the art lies in being less dependent on individual players to achieve optimal results. Again, feel free to name a method that works consistently better than Scrum."
+dudeaciously,2,0,"Management has forgotten all the preconditions of Agile and want all the benefits, with none of the sacrifices.  So we have the worst of both worlds.  Work is pushed and assigned instead of pulled.  Releases are fixed and committed months in advance.  But the waterfall positive of getting formal requirements are absent.  And no career progression."
+perdovim,2,0,"To me there's a important distinction, there's Agile (capital A) that follows a dev methodology like Scrum to the letter, and agile (lower case a) that looks at the dev methodologies and finds what works best for the team/product (and is continually evolving).
+
+Agile (capital A) has become yet another dev methodology where the practices and procedures are more important than delivering a good product as efficiently as possible (like Waterfall before it).
+
+agile (lower case) hasn't fallen into that trap quite as easily (due to the focus on adaptability to the team's needs). Which isn't to say team's have not fallen into that trap (I've seen many teams fall), but since there isn't an overriding methodology to blame, it's harder to say it failed..."
+codyisadinosaur,2,0,"It seems like every few months I hear variations of all 3 of these things at the same time, coming from different sources:
+
+* Agile is dying
+* Agile is alive and well
+* Agile is already dead
+
+Agile development is an attempt to reconcile business processes with 2 truths of software development:
+
+1. Development is an iterative process
+2. Customer feedback is valuable
+
+As with all processes, there's never a one-size-fits-all solution, so I expect Agile to be simultaneously ""dying"", ""alive and well"", and ""already dead"" for a looooooong time."
+tr14l,2,0,"Agile is not a silver bullet and things have to be set up for agile. If you have an org that has been architected around project management for two decades, trying to move away from project management and careful planning is going to hurt because dependency management has always been handled via process enforcement, not architecturally. 
+
+It's not about which one is right. It's about which one is right for the org"
+drake2k2,2,0,"Agile isn't dying. 
+
+What I've seen is companies realizing that Agile just doesn't fit their requirements. So they either do Watergile in Jira or do SAFe so they can call themselves agile.
+
+There is nothing wrong with doing waterfall if it fits your needs.
+
+Sometimes pms in these companies will also firmly believe they are doing agile, and the whole discussion becomes very misleading."
+Strenue,1,1,"Waterfall fits very few needs in today’s complex times. That’s the issue. I’m a fan of rethinking things based on context and doing what mostly makes sense to developers. That’s why Agile exists, after all. However it’s been co-opted by the project managers…"
+jba1224a,2,0,"Enterprise and corporate agile is failing because they try to make it something it isn’t.
+
+Agile is just a mindset, a way to think about building things.  It isn’t one size fits all and above all, it’s adaptable.  The core tenets are things that if respected will generally lead to better product.
+
+Enterprises get sold on frameworks.  Frameworks imo are inherently not agile.  Things like SAFE and scrum etc are rigid, and operationally heavy.
+
+If orgs focused on being agile and not trying to “do agile” they would have much more success.  But to do that you need to push decision making and control down, which is the polar opposite of how for profit orgs work.  
+
+
+Tldr - worthless middle managers ruin agility by trying to justify their useless existence.  There, I said it."
+senatorpjt,2,0,"spectacular illegal cooperative far-flung payment simplistic threatening dog gray dependent
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*"
+sbditto85,2,0,"Agile doesn’t fix broken teams, neither does agile.
+
+Broken teams need to identify the problem and fix that. An agile approach to do so may help. Using Agile without considering the problem and cargo culting practices thinking it will magically make things better doesn’t help at all and often makes things worse.
+
+The latter is what I’ve seen “broken” teams doing. When questioned about changing the process to fit their team (agile) they push back because some book or whatever says to do X so they must. That mentality has lead to Agile being considered bad-ish because it didn’t magically make everything better.
+
+The reality is no two teams are identical and as such the processes will often need to differ so adjustments should be made (agile). People don’t want to think so they just go looking for some other prescription of what to do. It may be better, but it also probably isn’t _really_ what needs to be done so fads come and go.
+
+I wonder what this next fad will be."
+tamasiaina,2,0,"I haven't really seen agile dying. I've seen Scrum dying. Most of the teams I've worked on eventually just start doing everything in Kanban boards.
+
+I worked with an engineer that really didn't like Agile, but he would basically preach the failures of agile without anything to replace it. What really happened was that the guy was just a shitty communicator and just didn't like telling people what he was working on. It drove me nuts because I had to ask him what he's working on all the time. In team meetings he just wouldn't tell people, so you keep on thinking he's doing nothing."
+NiteShdw,2,0,"There is ""Agile"" and there is ""agile"". Capital-A Agile is corporate BS with tons of process and ceremonies. ""agile"" is constantly adapting your process to what makes your team more effective at deploying consistently good working code that addresses business needs."
+Jestar342,2,0,"No. Those of us who got it stopped calling it ""agile"" a long time ago. It doesn't even have a name anymore, it is just intrinsically how we do work."
+CalmButArgumentative,2,0,"Scrum is dying in my department, and I was part of killing it.
+
+But the real reason it's going out the door is that the ""scrum master"" decided that the company didn't take ""scrum"" seriously enough, so he is leaving for some other place. His position is not being backfilled, so now the team just does Kanban. Good riddance."
+UncleGrimm,1,1,"I had a “Scrum Master” at my last job. Nice guy, but seemed like a total waste of the company’s money (startup), all he really did was get paid to schedule meetings and be the one screen-sharing whatever it was. When they hired 2 more I got an awful gut-feeling about leadership’s competence, applied for new roles, they folded into a huge portfolio hoarder that sacked almost everyone 3 months after I resigned lol, there were other signs they were being dumb with the money but that decision in particular just struck me the wrong way."
+mjratchada,2,0,"Principles of agile and the values are not dying. What is waning is the hype cycle and Agile gravy train whereby ""Agile Coach"" (Process Jocks), ""Scrum Master"" (command and control project managers), ""Agile Delivery Lead"" (Programme Mangers) start to become roles rather than job titles closer aligned to more traditional methods. The idea that the concept of delivering more regularly, faster and at high quality with high levels of automation is dying is ridiculous. I heard similar things about C++ in 1997 to be replaced by VB, Java in 2006 due to the success of C# and more recently that GraphQL would eradicate the need for REST based services.   
+
+
+Scrum has its place, most critics of it prefer something else yet cannot put a good case forward when to use Scrum with the usual alternative being Kanban, I have seen far more issues with the implementation of than I have with Scrum."
+kaiju505,2,0,Agile was a good idea but corporate nepo babies turned it into a rabies infested abomination because they were more concerned with cosplaying Steve jobs than actually delivering a product.
+johnsdowney,2,0,"Disdain*
+
+Wince*"
+RDOmega,2,0,"Managers. You can basically blame the ""management class"" in organizations. The hamfisted butchering of agile on their part ensures they always have a self renewing source of problems to tend to and crises to respond to. 
+
+
+Kanban, good mentorship and autonomy are all you need."
+mangoes_now,2,0,"I don't think Agile fixes bad teams, it was really in essence just a way to manage expectation and be actually agile, as in responding to change quickly, making turns faster."
+,2,0,"Unpopular opinion: Agile never made sense except for consulting. 
+
+Agile as a system was designed to get working prototypes in front of stakeholders quickly, at the risk of having to redo work due to less up-front design and planning, so consultants could respond to feedback quickly.
+
+This doesn't make sense in a typical corporate environment, where requirements usually *are* known up-front because the project is just one piece of a much larger initiative. 
+
+There are some benefits to following *some* parts of the agile process outside of consulting, but it mostly makes no sense to do so, which is why most companies don't actually do agile but rather their own version of waterfall with agile terminology thrown on top.
+
+Basically almost nobody is doing agile, and for a good reason!"
+SkyPL,2,0,"Wrong title. It should be ""Is Scrum actually dying"".
+
+Scrum is not agile. Scrum is a stiff, clearly defined framework, which is fundamentally incompatible with the first value of Agile (or, if you really want to argue, it's incompatible with all four values of Agile)."
+zacksalah73,2,0,I wish nothing more than it to die
+pachumelajapi,3,0,"Agile requires motivated individuals. Thats one of the main problems I see in todays industry. Like others mentioned, its a people problem.
+What companies will buy into after their poorly implemented scrum proves itself not useful for them is some sort of agile for minions.
+In this new methodology, micromanagers will get to measure productivity using SLOC and percentage of time active in teams/slack/whatever.
+Ive seen agile methodologies work very well when folks are getting paid well, work in something they like and they tolerate eachother. 
+If you got all of that, you dont even need scrum to achieve goals. Kanban works just as well."
+Solrax,3,0,"""However I think good teams are good with or without Agile.""
+
+Bingo.  How many successful projects are attributed to Scrum/Agile when it was just a great team? Likewise, how many non-Agile failures were attributed to waterfall/not-Agile when it was a dysfunctional team to begin with?"
+kodakdaughter,3,0,"Agile is great if every team member is experienced, gets enough stock that there is an incentive to not check out, and have a general mindset of just get done what needs doing. 
+
+I would rather go to the dentist then deal with daily stand-ups."
+chicknfly,3,0,"> bad teams will never do true Agile
+
+That’s because you don’t “do” Agile. You *are* Agile. Seriously, go to [agilemanifesto.org](https://agilemanifesto.org) and read the four values. That’s it. That’s Agile. (Okay, there are 12 principles, too)
+
+If you have a garbage team, they’re going to be garbage no matter what process they use. But that’s not a failure of Agile; it’s a failure of management and leadership.
+
+Not to sound like a jerk, but do you genuinely know what constitutes a Waterfall design from a project management perspective? Even if you don’t, you can look up screenshots of Microsoft Project and ProjectLibre (gantt charts) to get an idea of how waterfall project management works. If you think that is how Agile works, you haven’t worked in Agile.
+
+To answer your last question, business people generally don’t know Agile. They know processes such as Waterfall. Those processes afford tangible metrics that they can use to determine project completeness, to forecast events, balance budget, etc. Agile makes that challenging, which is why frameworks exist to find that happy medium. I have always found Scrum to be the most useful, and SAFe can kiss my backside — but no matter what a framework is still a process over people to some degree and, when bastardized, still won’t be Agile.
+
+You can’t get just the buy-in from the project managers. Adopting Agile can not simply be bragging rights or an accomplishment on someone’s résumé. You need them — and everybody below them, down to the developer —to actually embody and enforce Agile values/principles and to keep others accountable to the same. (which, coincidentally, is the one-sentence simplified definition of a scrum master.)"
+morosis1982,3,0,">But isn’t the promise of Agile to fix broken processes or teams
+
+Not even close. The point of agile is to get value to the customer sooner and be able to pivot when requirements change. So that instead of being a year in to an implementation that took a year to design before finding some basic assumptions are wrong, you get an MVP out in a couple months and get real feedback from your end users that may cause re-evaluation of the initial high-level design.
+
+A lot of the agile frameworks are built up around that core to enable capacity and velocity planning which are often abused but at their core are simply to provide visibility for if X has to change and the extra effort is y, what about the existing deadlines/priorities needs to change to accommodate it. Without at least even a guesstimate value you have zero chance of making that evaluation.
+
+Our org has a decent grip on agile, and while 'scrum' is the official methodology most teams operate on a loose version combined with kanban where necessary. We still have quarterly planning with the stakeholders because things that take time need to be vetted that they are of value before we even start down that path, comms and training need to be flushed out, dependencies on other teams, etc, but the epics and stories are only given high level estimates to see if they'll fit."
+Ragnarork,3,0,"> I would say I’ve seen Agile work very well. But here is the secret. It only works on fantastic teams. However I think good teams are good with or without Agile. 
+
+I've seen it work, inside a fantastic team, and I would argue the team was actually fantastic because it adhered for the most part to the agile principles, not just blindly following whatever process was currently in place at a given point in time, and cared for each other (which in my opinion is what's meant by ""people and interactions"" in the core principles), with a strong awareness about the actual end goal of what they're working on.
+
+I don't think Agile is dying. I also don't think it's always relevant. But I think the frameworks that some parts of the industry have been gulping so much like scrum, and especially SAFe, are becoming visible hurdles that hamper productivity, team cohesion, and reaching objectives. And I think there's more and more pushback against that outcome (in my experience, YMMV)."
+WizzinWig,2,0,"I think theres just too many companies doing it wrong thinking theyre agile.  I worked in a team where because we did daily scrum and every 2 weeks, we would start a new sprint in jira, they claimed to be doing agile. Yet everything else was kanban. We even pre assigned tickets, estimated were in 30 minute chunks and if you took longer than 30 minutes from the original estimate you were interrogated by management. 
+
+If companies were actually following agile processes properly I don’t think this would be an issue. It’s also not a one size fits all approach. Sometimes kanban for certain management styles works best, or lean. 
+I’ve never seen waterfall work well though."
+RealFrux,2,0,"IDK, what is the better alternative?
+Even though I hate time estimates and that a 3 week sprint comes with a lot of “administrative” meetings I actually enjoy scrum when done in a team of grown ups.
+
+When the project lead tries to minimize meeting time. How both team and client plan for 3 week deadlines. When time estimates is about finding the team’s velocity so that the work load in each sprint becomes better and better. The transparency it gives between stakeholder/client devs, management etc. Everyone get to speak up about the last sprint in retros etc etc. How every sprint brings the team and its capabilities closer to a shared sense of the reality and pace of the project.
+
+In a functional team I kind of enjoy scrum. I don’t like scrum when you should do scrum because someone says scrum is the way things should be done."
+robhanz,2,0,"Most of the ""agile"" I've seen that's failing is really just people that have taken the meetings and reports of agile, while *completely* missing on the principles.
+
+The principles are *hard*.  And they have uncertainty based in them.  And businesses do not like those things.
+
+Waterfall and other methods have uncertainty, too, but they pretend that they don't.  And people like the appearance of certainty, even if it doesn't work out that way."
+,2,0,"I hope not, generally speaking.  The philosophy is solid and it beats the pants off the DOD, NASA, and RUP methods that dominated the 80’s and 90’s for most software efforts.
+
+I started with XP in 1999.  I’ve used lean, kanban, crystal, scrum, safe, feature driven development, and many more branded methodologies that fall under the agile methodology.  Methodologies help as long as they are matched to the organizational culture and software you are building.  
+
+Some examples.  If I was building out a complex multi state asynchronous messaging system around a business process, I’d use FDD.  If I was building out a new feature set for an eCommerce site, I’d use kanban.  Most of XP is now generally accepted good engineering practices, so it’s almost always incorporated no matter what methodology is chosen.  But XP isn’t gospel - most of us do a variation on git distributed commits and PRs rather than only commits to main backed by CI as insurance; things change.
+
+I detest scrum.  Scrum is agile on training wheels and its only two purposes are to provide transparency into progress (good, but not a productivity enhancer) and sell certificates (bad).  I remember back in 2016 a large company’s CIO mandated all their third party service provider staff needed scrum certs.  Within a week, they all got certs.  He immediately declared victory as the company was now agile.  Checked that box.  Talked with one of the third party folks after and he said his team spent the previous week getting six sigma certs.  Checked more boxes.  None of this changed anything.  
+
+Changing culture and processes is hard.  Agile gives a loose framework for it.  What actually worked for the checkbox company above?  Sending the entire North America based team ( product leads, all of eng, qa leads) to a series of 2 week hands on seminars, seminars on how to build agile software in Mexico, with follow up support when back in the US.  It was customized for the org and internally done and incredibly expensive (sorta - they just hitched them to a mature training process developed by an acquired company).
+
+That said, there are times where restrictive processes and over engineering do matter - medicine, weapons, planes, spacecraft etc.  self driving vehicles fall into this group.  These types of organizations really want the productivity gains from agile.  Just look up DOD software modernization on a search engine.
+
+
+I don’t want Agile to die, but I’ll happily and violently put Scrum out of its misery."
+Mister2112,2,0,True Scrummunism has never been tried
+blingmaster009,2,0,"Agile was always process heavy and required building a specific culture and management buy-in. What I have found after many years is that most companies simply adopted it as the latest fad , mangled and broke most of the rules and are now tired of it. 
+
+I think beyond a certain point in your career , you want to and are expected to work independently and all the agile process and ceremonies become a burden and obstacle in completing your work."
+ahoravemos,1,0,"I think it won't die in the short term. It's not even about the flaws we are mentioning here. It's about money, business, and the kind of Ponzi schemes our field has a lot of: like agile certifications. Company A, which has a few certified Scrum Masters, can sell a staff augmentation team to Company B, charging more because, hey, they are ""agile experts."" After all these years, I'm still impressed by the tons of shallow and superficial processes, technologies, hypes, and trends companies sell to each other that don't help the niches they work in. And then they preach and ask about performance optimizations, lean architectures, flexibility..."
+sidhuko,1,0,Agile is just a way to breakdown deliverables into waterfall based on prior team performance while teaching management some ground rules that doesn’t mess it up. Once you’re honest about what it does you see your implementation is usually set by what’s important to management and what is holding back your engineers to give reliable timescales
+drmariopepper,1,0,I think scrum is dying. Agile is so vague though it would be like saying is “good process” dying
+BitSorcerer,1,0,"I dislike scrum methodologies.  Seriously having a hard time being productive due to the constant context switching.  
+
+I also seem to have meetings during prime brain operational hours.  So that doesn’t help."
+ShodoDeka,1,0,"Agile is a tool, a tool its proponents sees as universally applicable. 
+
+But in reality for it to work well you need the right domain area, the right organization and the right people to drive it. Pretty much all the stars need to line up for it to really make sense. 
+
+What people are now describing as the death of agile is just the more broad acceptance that it’s not universally applicable."
+wichwigga,1,0,"Someone here said it best. ""Agile is perfectly useless: those who understand it don't need it, and those who need it don't understand it."" I don't remember who said this but yeah"
+bwainfweeze,1,1,"There are a bunch of things people take as dogma that would be better treated as a growth exercise to be done once a quarter or three times a year for an interval to refresh/check in on your skills.
+
+There are certain kinds of growth you only see in the rearview mirror. Like people taking before and after pictures while losing weight because they can't see their incremental progress otherwise. Coming back and seeing your progress is highly motivating. Day in, day out slogs kill the spirit.
+
+Stand ups are one. Once you understand how to pace yourself those could be replaced with a chat channel or more methodical use of Jira. Not forcing everyone to have a ritual that is either too early or too late in the morning to avoid screwing up their deep work.
+
+And I respect TDD people a lot but I can't do it every day and am still on the fence about whether that says something about me or the practice. You are certainly poorer for having never done it, and a frequent booster shot helps my code quality a lot. But as a way of life? Nah, dog."
+Both-Personality7664,1,0,"There are lots of software products for which the basic idea ""we can work out the requirements as we go"" is just badly wrong."
+Cod-Born,1,0,"I'm pissed that the business partners seem to think Agile means they can drop last minute requirements and expect us to stop the last thing they said was the ""big priority"" and immediately pivot to the new ""big priority.""
+
+And what makes it worse is the new things won't even be usable when we're done with, but by golly, we need to implement it ASAP so that it can sit on the shelf."
+HelloSummer99,1,0,"No, managers love it, workers hate it. As long as workers stop taking offers from agile placed it’s not going to go away. By the way guys NEVER forget that in a software company, you, the workers are 100% of the company value."
+cran,1,0,"Agile has emborged every project management style that isn’t waterfall. It’s never going away. However, I see the death of sprints as possible and a good thing. Kanban with project level progress tracking feels pretty natural."
+BlackHumor,1,0,"The point of capital-A Agile is to be little-a agile. It's more important to keep little-a agile as a goal in mind then to implement any particular version of capital-A Agile. In this sense, yes, capital-A Agile is becoming less popular, because as-implemented it's getting increasingly disconnected from its goal.
+
+However, little-a agile software development was and is just a good idea, and so if you develop software in an agile manner you're likely to be more successful. Other important keywords here are ""flexible"" and ""non-dogmatic"", which does sort of show the problem with formalizing a methodology around this mindset."
+HolyPommeDeTerre,1,0,"Used kanban and scrum. Variations obviously. It works mostly from my point of view. Always has to adapt and to compromise.
+
+IMO an agile framework must adapt to your team level and more importantly, to the company capacity to switch to agility. I think you can apply it to a ""bad"" team. If the team is capable of following some of the principles, you should be able to iterate to a better place. When you talk and compromise, you look for a win/win situation and go from there. Nobody refuses a win/win situation unless they are self sabotaging.
+
+The main factor IMHO is the company's mindset and ability to engage change. Which is impacted by the chaos of all the managers' ideas and objectives.
+
+If the company isn't able to adapt to agility, whatever your team's level, agile frameworks will fail. You can't say to house builders to be agile without the providers for materials to work in an agile framework too. Else, agility fails because of mis management between dependencies and mis alignment on the ways used to produce.
+
+I've seen scrum applied in very big banks. And it was working. As long as all your dependencies are agile too and sub dependencies have no blockers from non-agile teams too. They drove the change around 2000/2010. Took a few years and some iterations. Again, bad and good teams were using it.
+
+What happened is: bad teams had now a way to understand why it didn't work and how to improve from there. Which will drive more change in the org.
+
+The paradox is that, it's when it's easier to implement agile (early startup time) that it's the worst idea to do so. You're gonna bloat your quick process with agile meetings when you need to go as fast as possible (reduce meetings, increase quick communication...)
+
+But when your company has operating teams, sales teams, product, design, accounting... All the teams must pivot to an agile process. And driving this change across multiple completely different teams is something totally different than ""just"" teaching a team to follow an agile framework."
+saposapot,1,0,"If not agile then what are they using? 
+
+Waterfall?"
+djnattyp,1,1,They're using whatever ad hoc process the manager came up with and calls agile and never lets the team question or improve cause he's the manager and he's always right.
+Iyace,1,0,"I don't know what Agile is, as it's been described to me, over and over. It seems just like ""getting work done"", so no, in the sense that Agile has always had a meaningless, tautological definition, it's not dying."
+,1,0,Its being replaced with Kanban. Multiple companies lost top devs due to equating story points with dev skill level.
+edthesmokebeard,1,0,Lets hope so.
+nimloman,1,0,I hope so I hate so called “agile” companies are using.
+SarahAlicia,1,0,Was it ever alive? I have worked at 3 places claiming to use agile. We really didnt
+SpaceDoink,1,0,"Nope, not dying…evolving.
+
+If agile was initially a response to a crisis / opportunity, then consider focusing on what the next c / o is and then work to evolve the best stuff learned (under the agile and agile-at-scale journey / experiment) to address that.
+
+Also, agilists next roles may need to be managers / leaders / execs in order to continue to affect change of the world agility has helped to create over the past 2 decades.
+
+Buckle-up…"
+Fidodo,1,0,"Everyone implements agile differently to different extremes. The companies that talk about how they're big on agile will be on the more extreme end of it. Some structure is good, but if you're dealing with managers that think the secret to a good team is implementing random processes from management books then you're gonna have a culture that focuses on the wrong things."
+Zulban,1,0,"The team dynamics I encourage are agile inspired, not agile."
+byronka,1,0,"Not many of you have been professionals in a wholly different field.  I was a licensed architect before I became a programmer. Think bricks, steel, cranes.  
+
+We had ways of executing our work that would seem strange to an outsider.  Even to a neophyte designer.  But they worked - and the risk of failure and history of our profession ensured that we would continue to pass down those strange but correct ways of working.
+
+In software, like any other knowledge-based endeavor, there is a wisdom that takes time and repeated failures to carefully develop.  
+
+That wisdom was named agile. 
+
+In bricks and steel architecture, there are state laws and organizations like NCARB that ensure all licensed architects will acquire that knowledge.  There is a mandated internship process for the experienced architects to bring new people into the fold.  Because the cost and risk are so high (people dying in fire, etc), it is incredibly important to continue passing that wisdom along.
+
+Programming, however, is still an immature industry, lurching from one short-lived trend to another.  The concept of carefully building long-lasting systems is a pipe dream for a huge percentage of our industry.  Unfortunately, ambitious people sensed an opportunity to exploit the nascent agile and bundled a flashy but deeply flawed shallow version to anyone willing to pay, even though they had not acquired the hard-won wisdom themselves.  
+
+Management doesn't know any better.  Business is interested in business, and since they are very often in direct control of how the programmers behave themselves, they do not realize what they are foisting on their technologists.
+
+Each new generation comes along, finds themselves essentially unled, learns the wisdom the hard way, only to move out of the practice of programming and into management, at which point a new generation arrives.  Rinse and repeat.  When I say they learn it the hard way, I mean it takes years or even decades for mindful people to slowly experiment through trial and error to an improved path.  
+
+Our industry will continue along its lurching path until an external force imposes itself. At one point, engineers and architects did not need a license.  Look up ""Engineer's ring"" on wikipedia.  That summarizes the seriousness of their obligation."
+mjukvarecom,1,1,"Yes, this answer is possibly the best I've seen on why tradition, expertise, and internship matters, and why ""agile"" in modern organizations is terrible.
+
+Management imposing some stupid, shallow version of agile onto its development teams is just insane to me."
+EnoughLawfulness3163,1,0,"That's a pretty dramatic question. Like most ideas, people are learning what's good about it and what's bad about it. Full-time scrum masters is probably a thing of the past, though."
+master_mansplainer,1,0,"The point of agile isn’t to make bad teams good. You still need to hire properly and have comptent leadership. It’s about delivering quality  products that the customer actually wants at the end of it, involving them in the process, validating as you go and adapting early when it’s off track. 
+
+I’ve seen great teams ruined by badly implemented agile. Again, not the fault of the concept or the participants. It ultimately falls on how management decides to adapt/modify it."
+TTCondoriano,1,0,"Like what others say, good teams are good teams and deliver good work. 
+
+Now if you are in a team with poor morale or inefficiencies rather than wasting time and money learning agile take the top 3 inefficiencies in your team, your dev work, or your collaboration with partners. Try something to fix them, if it works keep doing it.
+
+If you found too many bugs and had to delay your last release brainstorm with your team.
+* Could you think of a way to identify bugs faster
+ * Automated tests, More regular bug bashes including non tech people?
+* Could you release less features
+ * Include engineers in product designs, Product/UX in engineering weeklies or stand-ups to get a better idea of how much time each feature costs
+ * Break large releases into smaller Milestones each with a prod release wherever possible estimate Milestone by Milestone to avoid estimation errors compounding.
+
+The point is to build an environment where your team can take the top #1 or top 2 issues and mitigate them moving forward at a regular pace while accomplishing normal responsibilities.
+
+I've heard that this is or that this isn't agile. Personally I don't really care. Building a good team is more important than worrying about being agile or not."
+cygnus83,1,0,"As the member of my team who had to the most outside experience with Agile, I did weekly iterative trainings for my team and my skip level manager in the ideology, workflow, ceremonies, etc.
+
+A week after it concluded, the skip level manager told us to put all of our tickets on the board for the next six months and put completion dates on them all.
+
+It may not be dead, but my interest in reviving what’s left of it is."
+Secure_Maintenance55,1,0,"Agile is just a show for management. If everyone's average development level and mentality are very good, it will go very smoothly, but it will run smoothly even without agile.
+
+If acting could get people promoted, everyone would do it, instead of focusing on how many functions are actually completed on the project. It all depends on the company culture."
+TainoCuyaya,1,0,"Agilists are agile in the  moving the goalpost sport. Meaning, you won't get an actual answer, this is the only actual answer that you'll actually get"
+Ripped_Guggi,1,0,"In our case the client and sometime the lead-devs are the bottleneck. 
+We deliver whatever the client want. Two sprints later we have to change it because the client changed his mind. One year later we have to revert a bit chunk of functionality because the client changed his mind again.
+And some of our lead-devs are busy refactoring the existing code so we can’t deliver anything."
+BorderKeeper,1,0,"Agile works as a foundation that a team can grow with and eventually modify for its needs as it gets better is how I see it, but it’s also always going to get hated by devs imo as it forces thinks like quality reporting of your work and look back both things which make customers and higher ups more informed and team learn while sacrificing productivity a bit."
+,1,0,"As a consultant, I mostly hear Agile and take that as meaning ""We want to move fast"", not ""We accept flex on features, we understand the iterative development process, and we accept documentation will come later"". 
+
+I've only ever once seen an Agile implementation that actually reflected Agile, and that was on a decade long project with a virtually unlimited long-term budget but fixed year-on-year budget."
+Thin_Mousse4149,1,0,Agile is about finding the process that works best for your team. That’s what retros are for in each sprint.
+theoneandonlypatriot,1,0,Whoever decided that we need to shoehorn all work into two week or three week “sprints” is a dunce.
+gravity_kills_u,1,0,At my workplace the management is using SAFe (ick) but not communicating agile to any other departments.  From Salesforce to Jira one day with no warning!  Lol
+kincaidDev,1,0,"Agile is just a way for non technical people to micromanage developers.  It turns into that even on good teams as soon as someone in a different department decides to start using agile for developer metrics, which always happens.  Our focus should be on building features and products, not complying with a dumb managerial philosophy. I worked for the same company Im at now many years ago, before they started doing agile.  Now they do agile and the old process, which takes up half our working hours and makes most of the team miserable. We now have to turn down bug fix requests because the company cares more about complying with agile than actually shipping code or making improvements.  They want us to finish all sprint tickets in 1 week and spend the second week testing, and after testing everything requires approval from external teams which pushes our release date back, which then triggers a week of meetings with middle managers who accuse us (of nothing, they literally just get angry and say someone needs to be held accountable but never articulate what they need to be held accountable for)."
+No-Rush-Hour-2422,1,0,"I think the problem with agile is that there isn't enough hard rules set in stone. It's all open to interpretation. And most people are interpreting it wrong, and doing it in ways that make it awful and unproductive. Something has to change."
+hippydipster,1,0,What's dead can never die
+st4rdr0id,1,0,"You wish it was.
+
+""Agile"" has made two generations of developers miserable."
+IHeartFaye,1,0,I hope it is
+rob-at-brackket,1,0,"I don't think agile will die. It's at the stage now where you have big4 consulting companies consulting banks on how to do development work. It's been like that for awhile.
+
+New ways of working could easily prop up and be the hot new thing. Don't forsee anything on the horizon for that.
+
+Most sensible companies car less about a specific methodology, traditions, etc. And instead focus on doing good work that solves customer problems and delivers business value. As you mentioned good teams do good work regardless."
+ashebanow,1,0,"I think of it like this: ""Agile"" is a religion ruled by scripture, and a wasteful one at that. Using agile tools & techniques, adapted to fit your team's needs & culture, is a whole nother thing."
+coffeeToCodeConvertr,1,0,"I've moved entirely to goal driven development, gotten rid of the whole story point BS etc, makes it much easier for my teams to self manage"
+equalsme,1,0,"In real life: Owner > manager
+
+In Agile: Product Manager > Product Owner
+
+It was doomed to fail from the get go."
+Afraid-Sky-5052,1,0,"Agile is barely for ‘software only’ products and even then, the support to test, release and control is horrific. It’s a joke. It’s for the impatient and those who can’t plan."
+YodelingVeterinarian,1,0,*wince (sorry)
+Sensitive-Flatworm87,1,0,"I agree with points that bad teams won’t do proper agile. As well as good teams do not really need agile to function. At the same time i’d consider it as a ‘common language and naming’ so that teams can understand each other easily as they use same terminology, tools, etc."
+trenobus,1,0,"Software methodologies exist to take the blame for failed software projects, e.g.:
+
+""Project failed because we used the wrong methodology.""
+
+""Project failed even though we used the right methodology, but we were doing it wrong due to insufficient training."""
+dapudx,1,0,"I am finding that I am feeling more and more disdain for agile lately. But I associate it with the higher amount of non technical leaders and product managers being left in charge of the team. 
+
+If Agile is left unchecked, the raw speed of it can lead to an unsustainable tech outlook. How do you prioritize fixing technical debt or solidifying foundations vs building new features? What do you think the non technical product manager will choose when building a roadmap? 
+
+Agile needs to have technicians advocating for the proper implementation of it."
+_-PurpleTentacle-_,1,0,"“Agile” or “scrum” are just names describing proposed ways to work. 
+
+Whenever people start blaming the words I’m thinking they don’t get it. It’s not about doing the prescribed methods correctly. It’s about making a particular team work effectively. 
+
+Think of agile, scrum etc as proposed methods. If a method doesn’t work for a team. Adjust it or don’t do it. Don’t blame an instruction for not working for a certain team in a certain situation. Adapt and adjust. Be agile. Forget about the recipe. 
+
+Background:  I’ve worked with many teams and found it’s more about what works for the team than following a certain prescription. What works for one team doesn’t for another. But worst is those expecting any method to be recipe and calling it a failure when it doesn’t work exactly as prescribed. 
+
+Humans are the hard part about software."
+johnpeters42,1,0,"In our case, it was less about bad devs (even the worst made some non-trivial contribution still reflected in the current product), and more about getting management to stop trying to schedule things on a waterfall scale (""we allocated two years and now you're two months behind schedule"", compared to ""okay you spent two weeks and got these twenty things done but these two other things bumped to the next sprint"")."
+Perfect_Temporary271,1,0,"""Doing Agile"" should die. Classifying ""Agile"" as a verb should die. 
+
+This is what the Mckinsey style consultancies who are leeches and pests to Software development do with their Scrum and SAFe BS.
+
+The real intention of Agile maifesto was to treat ""Agile"" as an Adverb - it qualifies ""how"" you do things. Like ""Be Agile in the way you work and deliver Software incrementally"".
+
+That can be Implemented in many different ways. 
+
+But just see the r/agile sub - it's infested with Scrum Masters, Agile coaches and POs who benefit from the Agile industrial complex and they have now fully invaded Software development - partly to be blamed on the Techies and Tech leaders for giving up the space and the influence so meekly. They are not going to give the control back to developers and development teams.
+
+But they can't hide their shit for long. There are already several movements gaining ground - like NoEstimates, Story Mapping etc. that are driven by develoeprs and self-driven techies and most of the Big tech companies don't do the Agile TM nonsense anyways. Let's see how the future turns out."
+Perfect_Temporary271,1,0,[https://www.reddit.com/r/agile/comments/1dq45z1/agile\_is\_not\_scrum\_or\_safe\_or\_kanban\_its\_a/](https://www.reddit.com/r/agile/comments/1dq45z1/agile_is_not_scrum_or_safe_or_kanban_its_a/)
+Sorry-Sir1240,1,0,There are no good or bad teams - only good or bad leaders. The problem where Agile is not working is leadership.
+Own-Score-105,1,0,"I appreciate this insightful discussion on the effectiveness of Agile methodology. It's concerning how Agile has evolved into a rigid process filled with unnecessary meetings, which often detracts from its original intent of flexibility and team empowerment. Many teams struggle with its application, especially when faced with inexperienced members or rigid frameworks like SAFe.
+
+What I find interesting is the potential for tools that can enhance Agile practices without forcing teams to abandon their existing workflows. For instance, Effilix aims to streamline Agile processes without imposing strict changes to how teams operate. It provides real-time insights and supports Agile frameworks, making it easier for teams to identify what works for them. This kind of approach could help mitigate some of the frustrations mentioned here by ensuring that Agile remains true to its core principles of collaboration and iterative development.
+
+Have others had experiences with tools that complement their Agile practices without dictating how they should work?"
+funbike,0,0,"sigh.  If agile is dying, it's only because people are uninformed of what it is.  Most of the problems are with Scrum, which isn't fully agile and management screws with it making it anti-agile.
+
+When someone says, ""We aren't doing agile anymore, we are doing this instead..."" they usually end up describing what I would consider an agile-based process.  Unfortunately, sometimes they go backwards and describe a waterfall proces.
+
+Agile is not a process.  It's values and principles.  Processes can be based on those."
+TheSauce___,1,0,"I think scrum might be, I've seen a lot of bad press go to agile that's really more anti-scrum."
+ultra_nick,6,1,"Scaled ""Agile"" < Scrum < Waterfall < Kanban
+
+
+More status updates results in fewer product updates.  "
+TheSauce___,2,2,"Scales Agile is waterfall lmao
+
+Scratch that, from what I've heard, waterfalls not even that bad if you don't have morons in charge of planning. Scaled Agile is waterfall + micromanagement."
+Iannelli,1,0,"Its reputation is dead, yes. 
+
+Its practice, implementation, and proselytization is far from dead, though. 
+
+It's the ""new normal"" in corporations. I was working back in the 2010s era where every corporation and their mother enacted a ""Digital and Agile Transformation."" I witnessed the Excel project management templates get put in the recycle bin in favor of the whiteboard with post-it notes. Then Jira and Azure DevOps hit the scene and *everyone* migrated to those tools. 
+
+Like I said, its practice is here to stay. But its reputation is all but destroyed. Most people are simply not cut out for practicing Agile and/or Scrum the way it was originally intended to be practiced. Most people are putting round pegs into square holes. 
+
+Nothing can actually be done about this on a macro level. All you can do is try to change shit at a micro level. Teach your boss about how this shit should be done. Join a company that *actually* practices a bottom-up approach, not top-down. If *your* voice can be heard, you may be able to make your life - and the devs/testers/BAs/POs lives - much easier. That counts for something. 
+
+I work at a company that actually does practice bottom-up. I'm an individual contributer Business Architect. If I tell my boss, ""we really should not be doing this Agile ceremony in this cadence,"" he listens. We challenge each other and we come to an agreement.
+
+Hire awesome employees, let their voices be heard, unite around a common vision that everyone is motivated about, and shit will fall into place."
+meatdrawer25,1,0,"Agile is just a set of principles . It’s not dying, most people just don’t know they’re doing it. 
+
+It’s my understanding that most people don’t actually know what agile is, they’ve just seen an agile process and kind of know what it looks like. 
+
+For the uninitiated, here’s the very brief agile manifesto: 
+
+https://agilemanifesto.org/principles.html"
+davearneson,-1,0,The whole point of scrum is to continuously improve based on rapid feedback. That's great for poorly performing and inexperienced teams. And it's why the experts advise you to do shorter sprints when the teams not going well. But it sounds like you never worked in a team or organization that did this.
+ResearcherDear3143,0,0,Like you pointed out and others are saying.. its a people problem. It is important to use methodologies that work best for the team. Project management is a skill of its own and.. there are a lot of sub-par project managers out there.
+Mammoth-Clock-8173,1,1,"If only scrum masters would let the team self-manage!  Quickly followed by: if only the people on the team would take responsibility for accomplishing commitments, e.g., ask for help, or reach in and help when it’s needed but not being asked for…)"
+chordol,0,0,"Like you said, it only works on fantastic teams. 
+
+I'm on one right now and it's _blazing fast_, quality progress. I've been on many teams where it failed miserably. 
+
+My recipe for using Agile is a team of engaged seniors, which is expensive.
+
+Most times, tenets from Agile manifesto are not being followed or supported, and it becomes a day to day of gaming silly rituals. 
+
+It is in no way one-size-fits-all methodology."
+bwainfweeze,0,0,"Maybe, maybe not. 
+
+We are undoubtedly hitting the Trough of Disillusionment (see also: Hype Cycle). Not all tools and processes die after the ToD. Some get serious, are more selective about their friends (no more Golden Hammer) and have a renaissance or become de facto standard. 
+
+It may be years before they experience something like Hype again when someone builds a new thing upon this more sober foundation.
+
+As I implied elsewhere, XP experience this around the time Scrum took off. But what happened is that instead of failing it blended into the woodwork. We all do half of XP or more. It's just taken as table stakes for a growing company now. The presumption is that XP without pair programming ceases to be XP. I'm not convinced that's true."
+scientific_thinker,0,0,"I have never liked Agile. I remember what it was like to program before Agile. I think I had a much better process than Agile and I don't think I was alone. That said, a lot of programmers did not know how to share progress with the business interests. Worse, a lot of programmers didn't have a repeatable process for building systems at all.
+
+Agile attempts to be good at managing the communication between the business and the developers but it's clumsy and time consuming at it. There are strange inefficiencies built in to sprints like QA having nothing to do at the beginning of a sprint and devs having nothing to do at the end if you want to make sure the tickets are closed at the end of the sprint.
+
+I hope we go back to developers having their own processes. Then we can steal the best ideas from each other and eventually standardize on something much better."
+,0,0,"Agile is like communism - it always fails because it’s never been done properly. 
+
+And like communism, Agile as an idea will never die."
+Embarrassed_Quit_450,0,0,"Agile is not dying, waterfall with a scrum suit is."
+Tawoka,0,0,"Agile is an idea. You can't kill an idea. What companies do of it, is very different.
+
+From your perspective, agile was dead at birth. Big companies cannot do, what agile requires, because the mist important thing in agile is two things:
+1. Workers that want to be self organised with all the rights and all the duties attached 
+2. Managers that trust their teams and put loose guard rails in place to see, when they're needed
+
+The average manager is not just unqualified to do this, they're unqualified full stop. And the average worker wants to get to work, do the work, and go home. Responsibility is not required or demanded.
+
+With good leadership you can form the process to the needs of the team, so I am convinced that the work ethics is a solvable issue. But I am just as convinced that there aren't enough good leaders, and most good leaders are underdeveloped or unrecognized in their organisation.
+
+Hence I gave up on corporate agile. As a team leader I try to work within the limits of the corporate setting, take as much freedom for my team as I can get and then distribute as much down as they're willing to take. I try to work as a buffer between the insanity that is corporate and the blissful ignorance of technical staff. And both sides like it, so it must be good."
+Strus,0,0,"I would say it's more that people are exhausted with poorly implemented Scrum than the Agile is dying.
+
+* Teams in Scrum should be self-organizing, but middle management will never allow that. So you end up with scrum teams that have a manager that tells them how to work.
+* Story pointing and estimating tasks is a very good exercise - if done properly it leads to a discussions about stories and able the team to remove all ambiguities or rethink the scope of work. But many people have a hard time understanding what exactly story points represents, and management likes to treat them as hard commitments or recalculate them to time.
+* In mature teams and projects it's impossible to release something user facing every two weeks. Especially if this is not a web app but a desktop one or some embedded code, where sometimes testing takes more than a week. And yet people try to set some arbitrary goals for a two weeks sprints, where these goals are never met. Scrum is also not a good fit to an environment with a lot of bug reports and maintenance work. EVERY team I worked in would work better in Kanban fashion (long term goals, prioritized backlog, we continuously pick up tasks from the top etc.) - yet each one was forced to work in Scrum.
+
+To sum up - IMO Agile would not be associated with Scrum, and therefore would not be associated with something bad, if we would allow dev teams to be self organized and work as they see fit. I thinks this is the main requirement."
+omfg_its_so_and_so,0,0,"It’s SAFE that made it bad.  Companies didn’t know better, went full SAFE, hired all the roles, and yes, brought in a bunch of people with agile safe certs who don’t add value, resulting in bloat and too many meetings."
+jrodbtllr138,0,0,"Literally no one does true agile. Show me a real example of Agile as according to the original research paper. If you go back to the original research papers on it, everyone uses the figure that is only like half way through the explanation. Part of actual Agile is THROWING AWAY they entire project and starting from scratch to rebuild with your new understanding from implementing.
+
+Real Agile itself is really hard to justify from a business perspective, so many people’s understanding of what “true Agile” is, is really just a half baked version of it."
+jrbattin,-1,0,"I think people forget the agile approach grew out of a software consultancy that had to cope with clients who  were incapable of producing high-quality software specifications. When neither the stakeholders nor the engineers have a clear vision for how the problem should (or needs to be) be fully solved, chipping away at it in an iterative fashion is a pretty solid approach. When you strip away all the fancy business-cult-marketing that's ultimately what it's about. Modern agile practices are just attempting to formalize it.
+
+Where people run into trouble is that not everything is going to be solved cleanly this way. What if your ""stakeholders"" have a clear idea of what is needed *and* the expertise to document it *and* can provide feedback as to the efficacy of a proposed solution? Then Big-A Agile is just going to get in the way."
+jeerabiscuit,2,1,Stakeholders have no clue about the solution but they like to butt in thereby spoiling agile.
+Laicbeias,-1,0,if you believe in agile you will be agile *heart emoti*
+Abangranga,-1,0,I hope so. It is fucking horrible.
