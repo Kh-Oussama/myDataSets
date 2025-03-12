@@ -1,0 +1,260 @@
+URL,Author,Author Description,Publication Date,Votes,Review
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Rounak,SEO Specialist at Software Development,2025-01,0,"Adopting DevOps can bring significant benefits, but organizations often face several challenges during the transition. Here are the biggest challenges and ways to overcome them:
+1. Cultural Resistance to Change
+🚧 Challenge: Teams (especially development and operations) may resist change due to fear of losing control, job security concerns, or lack of understanding of DevOps principles.
+✅ Solution:
+Promote a collaborative culture with open communication.
+Provide training and workshops to help teams understand DevOps benefits.
+Start with small wins to showcase DevOps success and build confidence.
+2. Lack of Skilled Personnel
+🚧 Challenge: DevOps requires expertise in automation, cloud, CI/CD, and monitoring, which many organizations lack.
+✅ Solution:
+Invest in upskilling employees through courses and certifications (e.g., AWS, Kubernetes).
+Hire experienced DevOps engineers or consultants to guide the transition.
+Encourage cross-functional training so developers and operations teams can learn from each other.
+3. Siloed Teams and Poor Collaboration
+🚧 Challenge: Traditional IT structures have separate teams for development, operations, security, and QA, leading to inefficiencies.
+✅ Solution:
+Break down silos by fostering cross-functional teams that collaborate throughout the software lifecycle.
+Implement shared goals and KPIs to align all teams.
+Use collaboration tools like Slack, Jira, or Confluence to improve communication.
+4. Legacy Systems and Infrastructure
+🚧 Challenge: Many organizations still rely on outdated infrastructure that isn't compatible with modern DevOps practices.
+✅ Solution:
+Adopt a hybrid approach, gradually modernizing legacy systems instead of replacing them all at once.
+Use containerization (Docker, Kubernetes) to bridge the gap between old and new systems.
+Implement Infrastructure as Code (IaC) with tools like Terraform or Ansible.
+5. Security and Compliance Issues
+🚧 Challenge: Integrating security into DevOps (DevSecOps) can be difficult, especially for industries with strict regulations.
+✅ Solution:
+Embed security practices early in the DevOps pipeline (Shift Left Security).
+Automate security scanning and compliance checks using tools like SonarQube or Snyk.
+Implement role-based access control (RBAC) and secure secrets management.
+6. Tool Overload and Complexity
+🚧 Challenge: Too many tools can create confusion, integration issues, and inefficiencies.
+✅ Solution:
+Standardize the DevOps toolchain with carefully selected tools.
+Use all-in-one DevOps platforms like GitLab CI/CD or Azure DevOps to reduce complexity.
+Regularly review and optimize tool usage to avoid unnecessary complexity.
+7. Measuring DevOps Success
+🚧 Challenge: Many organizations struggle to track the impact of DevOps transformation.
+✅ Solution:
+Define Key Performance Indicators (KPIs) such as:Deployment frequencyLead time for changesMean Time to Recovery (MTTR)Change failure rate
+Use monitoring and analytics tools like Prometheus, Grafana, or ELK Stack to track progress.
+Conclusion
+DevOps adoption is a journey, not a one-time project. Organizations must focus on culture, skill development, collaboration, modernization, security, tool selection, and measurement to succeed. By addressing these challenges proactively, businesses can achieve faster software delivery, improved reliability, and a competitive edge."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Sam David,Software Developer with a Passion for Clean Code,2025-01,0,"DevOps teams are critical in bridging the gap between development and operations, ensuring faster and more reliable software delivery. However, they face several challenges that can make achieving this goal tricky. Here are some of the most common hurdles DevOps teams encounter:
+1. Resistance to Cultural Change
+One of the biggest challenges is fostering collaboration between development and operations teams, especially in organizations with deeply rooted silos. Adopting a DevOps mindset requires breaking old habits, redefining roles, and encouraging cross-functional collaboration, which everyone doesn’t always welcome.
+Solution: Promote open communication, provide proper training, and secure buy-in from leadership to create a culture of shared responsibility.
+2. Tool Overload and Integration Issues
+With countless tools available for CI/CD, monitoring, configuration management, and more, teams often face ""tool sprawl."" Choosing the right tools and ensuring seamless integration can be overwhelming.
+Solution: Standardize tools across teams, evaluate needs carefully before adopting new technologies, and automate tool integration wherever possible.
+3. Lack of Expertise or Skills Gap
+DevOps requires a blend of skills in development, operations, automation, and cloud technologies. Finding professionals who are proficient in all these areas can be difficult, leaving teams with skill gaps.
+Solution: Invest in upskilling existing team members through training programs, certifications, and hands-on workshops.
+4. Security and Compliance Challenges
+Integrating security into the DevOps pipeline (DevSecOps) can be complex. Teams need to balance speed with security while also adhering to regulatory requirements.
+Solution: Shift security left by incorporating automated security testing early in the CI/CD pipeline and adopting tools that enforce compliance rules.
+5. Scaling DevOps Across Teams
+What works for a single team may not scale effectively across the organization. Different teams might have varying workflows, tools, and processes, making it difficult to standardize practices.
+Solution: Establish a central DevOps governance model, adopt reusable pipelines, and use Infrastructure as Code (IaC) to create consistent environments.
+6. Inefficient Monitoring and Feedback Loops
+It’s challenging to detect and resolve issues early without proper monitoring, which can lead to longer downtimes and poor user experiences. Similarly, inadequate feedback loops delay continuous improvement.
+Solution: Use advanced monitoring tools to gain real-time insights into performance and set up automated feedback loops for quicker resolution and iteration.
+7. Managing Legacy Systems
+Integrating modern DevOps practices with legacy systems can be a major roadblock, especially when outdated architectures don’t support automation or cloud deployment.
+Solution: Gradually modernize legacy systems by adopting containerization, microservices, and APIs where feasible.
+8. Unrealistic Expectations for Speed
+Organizations often view DevOps as a quick fix for faster delivery, leading to pressure on teams to deliver without a solid foundation in place.
+Solution: Set realistic goals, prioritize building a strong DevOps culture, and focus on incremental improvements rather than immediate results.
+By addressing these challenges proactively, organizations can build robust and efficient DevOps teams capable of driving faster, more reliable software delivery. Have you encountered any of these challenges in your DevOps journey? Share your experience in the comments!"
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Tia Moore,Tech Educator | Coding Mentor,2025-01,0,"From my perspective, the biggest challenges in DevOps can be categorized into three main areas: culture, process, and tools. Let me explain:
+1. Cultural Resistance
+One of the toughest hurdles is shifting the organizational mindset. DevOps is about collaboration between development and operations teams, but many companies still operate in silos. Resistance to change, whether from leadership or team members, can slow adoption. Overcoming this requires strong leadership support and continuous education on the benefits of DevOps.
+2. Legacy Systems and Processes
+Organizations often have outdated systems or processes that aren't compatible with modern DevOps practices. Migrating to a new infrastructure or automating legacy workflows is complex and time-consuming. Additionally, there's always a risk of downtime, which makes teams hesitant to make significant changes.
+3. Tool Overload and Integration
+The DevOps ecosystem is vast, with countless tools for CI/CD, monitoring, version control, and more. While options are great, choosing the right tools and ensuring seamless integration is a significant challenge. Overloading teams with too many tools can lead to inefficiencies rather than solving problems.
+4. Skill Gaps
+DevOps requires a mix of skills in development, operations, automation, and sometimes even security. Finding professionals who have expertise across these areas can be difficult, leading to slower implementation or overburdened teams.
+5. Security in DevOps (DevSecOps)
+Security sometimes takes a back seat as DevOps accelerates the software delivery pipeline. Integrating security practices without disrupting the speed of deployment is a balancing act many organizations struggle with.
+6. Measuring Success
+Defining and measuring meaningful metrics for DevOps success is tricky. Metrics like deployment frequency, mean time to recovery (MTTR), or lead time for changes help, but aligning them with business goals and demonstrating ROI is another challenge.
+Conclusion
+DevOps is transformative, but it's not without its challenges. Addressing these requires strong leadership, the right tools, skilled professionals, and a willingness to embrace continuous improvement. By tackling this head-on, organizations can unlock the full potential of DevOps.
+What about you? Have you encountered similar challenges, or do you see other hurdles in DevOps adoption?"
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,ProAI,Your Intelligent Advisor @ProAI.co (2012–present),2023,1,"DevOps is a software development methodology that emphasizes collaboration, automation, and continuous delivery. While DevOps has many benefits, such as faster time-to-market and improved software quality, there are several challenges that companies may face when implementing DevOps. Some of the main challenges include:
+Cultural Resistance: Implementing DevOps requires significant changes in organizational culture, including breaking down silos between teams, promoting collaboration, and emphasizing continuous improvement. This can be difficult in organizations with entrenched processes and hierarchies, where there may be resistance to change.
+Lack of skills and expertise: DevOps requires a range of technical skills, such as automation, testing, and deployment, as well as soft skills, such as communication and collaboration. Finding employees with the necessary skills and expertise can be a challenge, and companies may need to invest in training and development to build their DevOps capabilities.
+Tooling and Technology Integration: DevOps relies heavily on automation and the integration of different tools and technologies. Ensuring that these tools work together seamlessly can be challenging, particularly when integrating with legacy systems.
+Managing Complexity: DevOps often involves managing complex and distributed systems, which can make it difficult to identify and resolve issues. This can lead to downtime and other performance issues, which can be costly for the organization.
+Security and Compliance: With DevOps, there is a risk of introducing security vulnerabilities and compliance issues if security and compliance considerations are not integrated into the development and delivery process. Companies need to ensure that their DevOps processes meet security and compliance requirements.
+In summary, implementing DevOps requires significant changes in organizational culture, technical and soft skills, tooling and technology integration, and addressing security and compliance. Companies need to plan and execute carefully to address these challenges and ensure a successful DevOps implementation."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Saify,Content Creation (2023–present),N/A,0,"Common challenges faced in DevOps practices include:
+1. Cultural and organizational resistance to change
+2. Lack of clear goals and objectives
+3. Insufficient communication and collaboration between teams
+4. Inadequate tooling and automation
+5. Complexity in integrating new tools and technologies
+6. Ensuring security and compliance in rapid development cycles
+7. Managing and monitoring microservices architectures
+8. Scaling DevOps practices to large, distributed teams
+9. Balancing speed and quality in software delivery
+10. Measuring and demonstrating the value of DevOps initiatives
+11. Addressing skill gaps and training needs
+12. Integrating DevOps with existing ITIL/ITSM processes
+13. Managing technical debt and legacy systems
+14. Ensuring continuous testing and quality assurance
+15. Maintaining visibility and control in cloud-based environments
+These challenges can be addressed by:
+- Fostering a culture of collaboration and continuous learning
+- Implementing gradual, incremental changes
+- Investing in automation and tooling
+- Providing training and upskilling opportunities
+- Establishing clear metrics and feedback loops
+- Encouraging open communication and transparency
+- Embracing failure and learning from mistakes
+By acknowledging and addressing these challenges, organizations can overcome obstacles and achieve successful DevOps adoption."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Maruf Hossain,MBA from Jahangirnagar University,2022,3,"You might know that the DevOps team faces some challenges at the time of developing and operating infrastructure. So, the big challenges are:
+Budget problem: This is one of the biggest problems of the DevOps team. Because if you can’t provide enough budget for your software development, your engineers will be demotivated. At the same time, lack of budget means insufficient tools, technologies, strategies, and so on.
+Problem with tools: To develop a successful application for your business, you must provide appropriate tools to your DevOps team. If you can’t do this, your developers will face the hassle and they will unable to build your dream software. Generally, a DevOps team faces this vast problem.
+Organizational culture: Changing organizational culture and multiple environments are big challenges for a DevOps team.
+Overall, a DevOps team faces a lot of challenges and those affect their working performances badly. I’ve shared here some. Try to minimize them as much as possible.
+Good luck!"
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Talentelgia Technologies,"Lives in Mohali, Punjab, India (2013–present)",N/A,0,"The biggest challenges in DevOps involve changing how teams work together, dealing with lots of different tools, and making sure that developers and operations people collaborate smoothly.
+Cultural Shifts: Getting teams to work together instead of in separate groups can be hard. It means making sure everyone talks to each other, shares responsibilities, and helps each other out.
+Tool Complexity: There are so many tools for different parts of the DevOps process. Making them all work together smoothly is tough.
+Team Collaboration: It's important for developers and operations teams to work well together. But they often have different ways of doing things. Finding good ways for them to communicate and work together is key.
+Other big challenges include:
+Automation: Making sure things happen automatically without making the system too complicated.
+Scaling Up: As a company grows, make sure the tools and processes can handle the growth without needing big changes.
+Security and Rules: Keeping everything secure and following all the rules without slowing down the work.
+Watching and Improving Performance: Making sure the software runs well and fixing problems without stopping the work.
+Continuous Integration and Delivery (CI/CD): Setting up systems that automatically test and send out new versions of the software without causing problems.
+Old Systems and Debt: Updating old systems and dealing with old problems can be hard. Bringing DevOps into old systems needs careful planning.
+To solve these challenges, companies need to use their tech skills, make their processes better, and change the way people work together. But if they can do it, they'll be able to release new software faster, make it better, and be more flexible as a business."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Ayush Jain,CEO at Mindbowser (2012-present),2023,1,"Many organizations are adopting DevOps models to achieve better productivity and workflow. DevOps fosters collaboration and communication between developers and the operations team throughout the Development lifecycle. The partnership between development and operations teams leads to streamlined integration and helps them work together towards a common goal, resulting in a faster, efficient and reliable delivery system.
+Although DevOps aims to create automation and integration, its real-world implementation can be difficult. Let’s look at five common challenges in DevOps adoption;
+Moving from traditional infrastructure to microservice
+If an organization uses an older infrastructure, it may face stability problems and a lack of support. Adopting a microservice architecture can benefit an organization with faster development and innovation.
+However, there are a few challenges that come with implementing microservices. To make the transition successful, organizations should have configuration management, automation and continuous delivery. This will help them manage the increased operational workloads that come with microservices.
+Resistance to change
+Telling people they need to change can sometimes be difficult, but it’s important to remember that a DevOps transformation doesn’t happen overnight. It must be smooth and gradual so that everyone has time to get used to the new culture and learn different ways they can contribute to the development process. This allows for a successful transition for everyone involved.
+Lack of common understanding of continuous delivery practices
+Once you and your team have decided that code needs to be continuously delivered to reduce feedback loops and have implemented pipelines. But first, you need to make sure if your teams understand what it means to continuously deliver software into your environments. Most organizations will have their definition of continuous delivery, so it’s important that everyone is on the same page regarding its implementation.
+Adoption of new tools
+Adopting DevOps means that your teams must select various tools for development, testing and deployment and ensure that they all work together seamlessly. This can be a challenge, but it's worth it to harness the full potential of DevOps.
+The selection process of these tools could spell out a huge challenge, as they must meet security requirements and be easy to integrate with your infrastructure. Besides, you need to train everyone on the new tools, so productivity is not compromised.
+Too much focus on tools
+With the benefits that DevOps promises, it's easy to get caught up in the shiny new tools it offers. However, it’s important to remember that with new tools comes the need to train your staff on how to use them effectively.
+Furthermore, you must also consider security risks and whether or not the new tools will integrate well with your current infrastructure. All of this can quickly take your focus away from what’s most important: your team.
+Even though this list comes from the team’s hands-on experience with numerous clients, we understand that not every method works for everyone. The DevOps adoption strategy will differ from organization to organization based on various factors. That’s why it’s a good idea to have a professional help guide you through the DevOps adoption process. You can check our services and contact us for more information."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Tek Tutes,"Lived in Hyderabad, Telangana, India",2022,0,"I've illustrated two of my greatest worries beneath
+Possession Wars Might Be Stifling Culture
+While culture is a principal part of DevOps, it works out in a good way past Ninjas, Rockstars, and hoodies. At its center, DevOps culture is tied in with encouraging cooperation and results-driven exertion. Nonetheless, until tasks can sort out some way to all the more likely encourage culture inside its day by day exercises, this part of DevOps won't thrive. Foundation is as yet in activities' full control, however the way of life needs to length across advancement storehouses and embrace shared information, shared devices and shared methodologies. Without a sound DevOps culture, getting the legitimate cycles set up and apparatuses carried out will be substantially more testing.
+The ""Device/App for That"" Generation
+The pressing factor from business clients who accept everything can be settled with ""a basic application"" has become absolutely ruinous. Business clients are determined in their insight about incredible apparatuses, and gratitude to the development of open source or SaaS-based contributions, clients can frequently begin utilizing a free preliminary of the instrument in a flash – removing functional oversight. Far better, most clients accept each device ought to/has an application. Be that as it may, regardless of whether there is an application, it should be appropriately attached to all the other things to be valuable.
+Activities should uphold the instrument/application advancement to keep up with mindfulness, administration and control. Dealing with the reception, combination and evaluation of a perpetual stock of devices and applications is very difficult so utilizing the common administrations idea to adjust instrument appointment and the board should be done right off the bat."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Saleha Butt,Consultant at Opcito Technologies (2017–present),2022,66,"Speaking in terms of technological goals, even though we are well aware of the fact that DevOps aims to achieve the ultimate in automation and integration, practical implementation of it is still a far cry. Implementing new schools of thought has always been a struggle, even if it is about replacing older methods with newer ones. Here are some of the challenges that people often face during DevOps implementation.
+1. Lack of a Standard Definition for DevOps
+Most people are still not aware of the actual meaning of DevOps, let alone the motto behind it, or for that matter, the benefits of using it.
+In addition, some tend to believe in the notion that DevOps overrules other existing methodologies like Scrum and Kanban that are practiced in most industries. This is not so.
+The fact is that DevOps helps to improve the execution of these existing methodologies. Hence, lack of proper understanding can often make the implementation of new methodologies risky. It gives rise to new problems that could affect the implementation of a stable process throughout the organization.
+2. Dearth of Vision
+Without a proper definition of the problem or solution, it is very difficult to have a vision. Thus, when analysts get used to a process, they start following a certain path specific to managing things. Despite that, at some point in time, they too are stuck in a circle.
+It becomes very difficult to break this ambiguous circle, be more receptive to current scenarios, and discover newer methods for betterment – all at the same time!
+Without a proper plan, it is impossible to achieve a stable and profitable output. Lack of vision makes it challenging for project owners to create a clear-cut plan when it comes to deciding an estimate, milestones, and deliverables, to name a few.
+Analysts often find it risky because there are only a handful of people who have expertise in this domain, compared to the number of tools that are available in the market. This could often give rise to confusion when it comes to proper implementation, ultimately leading to an exponential increase in the risk factor.
+3. Shortage of Tool Knowledge
+DevOps has introduced the principles of continuous deployment, continuous testing, and collaborative reporting. However, since most people prefer to continue work with legacy tools, getting accustomed to the functionalities of the latest tools is often a difficult job, especially when it comes to getting a grip on the changes made to the architecture based on cloud and on-premises during the process.
+A shortage of tool knowledge often leads organizations into making faulty choices of tools that would best align with their technical vision.
+4. Choice of Tools
+There are plenty of tools available on the market. However, it becomes difficult to choose a tool when we lack the proper knowledge about the technology behind it. All these make the idea of implementation of a DevOps scenario extremely difficult.
+5. Lack of Tool Integration
+Continuous integration is one of the pillars of DevOps methodology. In order to make Build, Deploy, and Test work together in a continuous form, we need the tools to be properly integrated.
+However, the crux of the matter is how to get the tools integrated. That is because integrating tools belonging to various domains on one common platform is a big challenge.
+6. Cultural Challenges
+The biggest challenge here is the disposal of legacy methods and the adaptation of new ones. Of course, one can always prefer to continue following the conventional methodologies as long as the outcome is good at the end of the day.
+On the contrary, if the outcome is poor, or for that matter, if you realize that your job demands many manual interventions, then it would be best to realize that this could hamper the overall rate of productivity and lead to an adverse effect on the long run.
+7. Isolated Teams
+Development and Operations have their own challenges. While developers are constantly writing pieces of code in order to build a system, testers perform a thorough analysis to ensure product stability before the final delivery to the customer.
+You can see there lies a big gap between teams. Both Dev and Ops work in silos, leading to a lack of transparency and poor teamwork.
+8. Risk Analysis
+We know how difficult it is to disrupt age-old methodologies and replace them with new ones. When it comes to risk analysis, business analysts design their dashboards by scaling hundreds of reports. This is done based on certain calculations. Most of the time, it is easy to start but tough to scale. That is, after putting things into action, workers often face the trouble of trying to keep the pace steady. Thus, adopting a new methodology involves risks to a great extent.
+9. Scarcity of SMEs
+DevOps is a methodology that is fresh in the market. Hence, it is difficult to find members who have adequate expertise in this field. Due to this fact, most of the challenges are intimidating for companies following a streamlined set of guidelines.
+In addition, the absence of a strong DevOps development team at the center or lack of pre-defined KPIs can often make conditions miserable for employees."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,John Wesley,Marketing Consultant at RapidOps (2014–present),2021,66,"Below are the biggest challenges in DevOps adoption.
+1. Overcoming the Dev versus Ops mentality
+The DevOps practice is all about integrating teams together and breaking down silos within IT organizations.
+2. Moving from legacy infrastructure to microservices
+Older infrastructure and applications can be problematic, even if it has served the company for years. Remaining on legacy infrastructure can spell stability problems, lack of support, and the fact that you will be left behind the swiftly advancing competition.
+3. Too much focus on tools
+With the exciting prospect of adopting DevOps, the flashy new tools in the market can seem like they solve every problem under the sun. However, with the introduction of new tools, you also need to train staff to use them, ensure they meet security requirements, and of course, make sure that the tools are well-integrated with the existing infrastructure.
+4. Resistance to change
+The move to DevOps can seem scary to a majority of team members and key stakeholders.
+Visit Rapidops for more information on DevOps."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Trevor Parsons,"Chief Scientist, Logentries",2015,2,"There are some major challenges facing DevOps in 2015. I've outlined two of my biggest concerns below below, and have also addressed the topic over at IT Business Edge: Top Five DevOps and Ops Team Challenges for 2015.
+Ownership Wars Might Be Stifling Culture
+While culture is a fundamental part of DevOps, it goes well beyond Ninjas, Rockstars, and hoodies. At its core, DevOps culture is about fostering collaboration and results-driven effort. However, until operations can figure out how to better foster culture within its daily activities, this aspect of DevOps will not flourish. Infrastructure is still in operations' full control, but the culture needs to span across development silos and embrace shared data, shared tools and shared approaches. Without a sound DevOps culture, getting the proper processes in place and tools implemented will be much more challenging.
+The ""Tool/App for That"" Generation
+The pressure from business users who believe everything can be solved with ""a simple app"" has become downright destructive. Business users are adamant in their knowledge about great tools, and thanks to the emergence of open source or SaaS-based offerings, users can often start using a free trial of the tool instantly – cutting out operational oversight. Even better, most users assume every tool should/does have an app. But even if there is an app, it must be properly tied to everything else to be useful.
+Operations must support the tool/app evolution to maintain awareness, governance and control. Managing the adoption, integration and quantification of an endless supply of tools and apps is no small task so leveraging the shared services concept to balance tool delegation and management must be done early on."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Maruf Hossain,MBA from Jahangirnagar University,2022,173,"DevOps is a mixture of services, practices, culture, and tools. It will help you to increase your organizational capacity to deliver software and services effectively. But, working with a DevOps team is challenging.
+Here’ I’m sharing some of my thoughts.
+Costly: DevOps is costly. The salary range of DevOps is the highest in the software industry. If you want to work with a DevOps team, you must be ready to bear the cost.
+Hard to find: DevOps is hard to find. If you want to hire a developer for your business, you must find an experienced developer. Because a fresher does not have the capacity like a pro developer. But finding a pro is not an easy task.
+There are some challenges of DevOps from my list like hard to retain, focused on tools, moving from legacy infrastructure to microservices, overcoming the Dev versus Ops mentality, toolset clashes, etc. You may face more challenges."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Bart den Haak,OKR Coach with DevOps superpowers at Movingtheneedle.com (2017–present),2018,2,"In my experience, it’s never the technology and tools that cause the “real challenges”. Although DevOps teams may face many challenges with the tools themselves (there are soo many and the learning curve is high), the hardest part is always the company culture and mindsets of people. Believe it or not, most people don’t like change. So adopting a new mindset, habits, rules and principles are the real challenges.
+For example, how to make sure you align on technology/business decisions among teams? How to make sure everybody is multi-skilled? “I’m a Ops guy, I will not write code!” or “I’m a Java programmer, I’m not going to learn JavaScript!”. “What? I need to write tests myself, are you joking?” And do developers really want on pager-duty? Are we really deploying code to production without a DTAP process (read: manual verifications)?
+Just some random quotes and questions that have nothing to do with technology, but need to be addressed if you want to build a true DevOps culture.
+But like any other mindset/beliefs on the software development processes (Agile, Lean, DevOps) you want to implement for your company, technology is (almost) never the real challenge, its the company culture, habits and the mindset of people."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Tudip Technologies,Worked at Tudip Technologies,2024,4,"DevOps teams frequently confront a variety of problems in their efforts to construct a smooth and efficient software development process. Some of the most common difficulties are:
+1.Cultural resistance: DevOps frequently necessitates a shift in culture and mindset, which can be difficult to overcome.
+2.Lack of collaboration: DevOps success is dependent on good team collaboration, and a lack of collaboration can stymie the development process.
+3.Toolchain complexity: DevOps requires the usage of numerous tools and technologies, and managing these tools and their integration can be difficult.
+4.Security: Ensuring the security of the software and infrastructure throughout the development process is vital, but it can be difficult."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Sarah Daniel,Lives in The United States of America (2013–present),2023,0,"DevOps, which is gaining popularity, is a major advancement in removing the often rigid barriers between business, development, and operations. DevOps presents businesses with a variety of difficulties, but these difficulties are widely understood, as are the procedures and fundamental ideas that must be used to overcome them.
+The biggest challenges in DevOps are:
+Manual deployments
+No service virtualization
+Agile confined to developers
+Limited transparency
+Elicitation of nonfunctional requirements"
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Chris Tannhauser R'lyeh,AppSec Engineer (2017–present),2015,145,"Much like anything else in the corporate world: management. Budget means nothing if decisions are based solely on narcissism, if information doesn't flow freely, if there's no trust relationship between stakeholders, tech staff, and management.
+It doesn't matter how skilled the staff is if there's no clear business + technological strategy and management is not committed to both their team and the planning and tactical side of implementing the strategy. A healthy strategy aligned with the business will overcome any technical difficulties and technological changes.
+Without a clear strategy, an implementation plan, and a properly staffed team (also management's responsibility), devops personnel will waste their time putting out fires instead of building up and maintaining the company's technological platform."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Yotam Gutman,"Surfer, Skater, Runner. Cyber Marketing. Education.",2019,1,"1. DevOps are hard to find- since the industry is very young and growing in an exponential rate, the available, experienced manpower is not sufficient to fill all the open positions. Unlike traditional developers, DevOps skills are obtained through years of hands-on work and therefore “fresh” graduates (of software or coding schools) are not the solution.
+2. DevOps are expensive- DevOps make on average an annual salary of 144,00 US$, which is one of the highest salaries in the software industry.
+3. DevOps are hard to retain- DevOps suffer from high attrition due to them bei...
+Access this answer and support the author as a Quora+ subscriber
+Access all answers reserved by
+Yotam Gutman
+for Quora+ subscribers
+Access exclusive answers from thousands more participating creators in Quora+
+Browse ad‑free and support creators
+Start free trial
+Learn more"
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Shridhar KR,Consultant at Freelancing (2020–present),2020,2,"If you have better understanding of following topics , you could overcome from the top 5 challenges.
+Linux command line operations (Redhat, Centos, Ubuntu CLI operations)
+Docker /VMware / Kubernetes- Mirco Virtualization
+Version Control - Git,Github,SVN, TFS ,Bamboo
+Automation Tools - Chef, Puppet, Jenkins
+Mainly good co-ordination with IT , Developers, Testers and Manager and Scrum Master"
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Event Horizon,Former Freelancer,2025-10,0,"Ok . IT operations function on proven models . Running a DevOps model is not a functional practice . Why ? It is obvious . Profitability and security are compromised . DevOps as an operational model is a hit and miss approach . Some things work and others do not .
+The best solution is for use of systems that work , and a SANDBOX DevOps , whereby new ideas can be tested in a sandbox for functionality and security , before an open outward facing systems release and then scale to size."
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Daria Kulikova,Content Marketing Specialist at Xopero Software & GitProtect.io (2022–present),N/A,0,"I would also mention such DevOps challenges or it’s better even to say mistakes, as:
+Too selective risk
+Misclassifying data to backup
+Inadequate backup frequency
+Lack of automation in the backup process
+Insufficient storage protection
+Lack of backup testing
+Too narrow DR scenarios
+It’s possible to find answers on how to address those challenges in the following playlist:"
+https://www.quora.com/What-in-your-opinion-are-the-biggest-DevOps-challenges,Martin Gainty,Knows German,N/A,0,"Stop putting handcuffs on your DevOps Engineers
+I worked PRIMARILY as DevOps Engineers because I can build anything from a lib to an exe to a apk but one hindrance is the permissions barrier one finds when building for each of the SDLC Stages such as
+DEV, QA, UAT and PROD
+By crawling thru this maze of permissions matrix means DevOps have to waste at least 50% of their time getting permissions to the environments we are supposed to build for"
